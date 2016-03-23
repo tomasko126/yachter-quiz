@@ -212,9 +212,9 @@
                 // add retry button to results view, if enabled
                 if (plugin.config.tryAgainText && plugin.config.tryAgainText !== '') {
                     //$quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="#">' + plugin.config.tryAgainText + '</a></p>');
-                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="/pages/a.html">' + "Spustiť okruh otázok A" + '</a></p>');
-                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="/pages/b.html">' + "Spustiť okruh otázok B" + '</a></p>');
-                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="/pages/c.html">' + "Spustiť okruh otázok C" + '</a></p>');
+                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="yachter-quiz/pages/a.html">' + "Spustiť okruh otázok A" + '</a></p>');
+                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="yachter-quiz/pages/b.html">' + "Spustiť okruh otázok B" + '</a></p>');
+                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="yachter-quiz/pages/c.html">' + "Spustiť okruh otázok C" + '</a></p>');
                 }
 
                 // Setup questions
