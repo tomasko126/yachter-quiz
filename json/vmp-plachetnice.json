@@ -1071,6 +1071,7 @@
                     "correct": false
                 }
             ],
+            "img": "56.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1090,6 +1091,7 @@
                     "correct": true
                 }
             ],
+            "img": "57.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1109,6 +1111,7 @@
                     "correct": false
                 }
             ],
+            "img": "58.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1128,6 +1131,7 @@
                     "correct": true
                 }
             ],
+            "img": "59.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1147,6 +1151,7 @@
                     "correct": false
                 }
             ],
+            "img": "60.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1166,6 +1171,7 @@
                     "correct": true
                 }
             ],
+            "img": "61.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1185,6 +1191,7 @@
                     "correct": true
                 }
             ],
+            "img": "62.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1204,6 +1211,7 @@
                     "correct": false
                 }
             ],
+            "img": "63.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1223,6 +1231,7 @@
                     "correct": false
                 }
             ],
+            "img": "64.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1242,6 +1251,7 @@
                     "correct": false
                 }
             ],
+            "img": "65.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1261,6 +1271,7 @@
                     "correct": true
                 }
             ],
+            "img": "66.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1280,6 +1291,7 @@
                     "correct": false
                 }
             ],
+            "img": "67.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1299,6 +1311,7 @@
                     "correct": false
                 }
             ],
+            "img": "68.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1318,6 +1331,7 @@
                     "correct": true
                 }
             ],
+            "img": "69.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1337,6 +1351,7 @@
                     "correct": false
                 }
             ],
+            "img": "70.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1565,6 +1580,7 @@
                     "correct": true
                 }
             ],
+            "img": "82.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1584,6 +1600,7 @@
                     "correct": false
                 }
             ],
+            "img": "83.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1603,6 +1620,7 @@
                     "correct": true
                 }
             ],
+            "img": "84.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1622,6 +1640,7 @@
                     "correct": false
                 }
             ],
+            "img": "85.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1641,6 +1660,7 @@
                     "correct": true
                 }
             ],
+            "img": "86.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1660,6 +1680,7 @@
                     "correct": false
                 }
             ],
+            "img": "87.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1679,6 +1700,7 @@
                     "correct": true
                 }
             ],
+            "img": "88.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1698,6 +1720,7 @@
                     "correct": false
                 }
             ],
+            "img": "89.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1717,6 +1740,7 @@
                     "correct": true
                 }
             ],
+            "img": "90.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1736,6 +1760,7 @@
                     "correct": true
                 }
             ],
+            "img": "91.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1755,6 +1780,7 @@
                     "correct": false
                 }
             ],
+            "img": "92.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1774,6 +1800,7 @@
                     "correct": false
                 }
             ],
+            "img": "93.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1793,6 +1820,7 @@
                     "correct": true
                 }
             ],
+            "img": "94.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1812,6 +1840,7 @@
                     "correct": false
                 }
             ],
+            "img": "95.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1831,6 +1860,7 @@
                     "correct": false
                 }
             ],
+            "img": "96.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1850,6 +1880,7 @@
                     "correct": false
                 }
             ],
+            "img": "97.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1869,6 +1900,7 @@
                     "correct": false
                 }
             ],
+            "img": "98.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1888,6 +1920,7 @@
                     "correct": true
                 }
             ],
+            "img": "99.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1907,6 +1940,7 @@
                     "correct": false
                 }
             ],
+            "img": "100.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1926,6 +1960,7 @@
                     "correct": false
                 }
             ],
+            "img": "101.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1945,6 +1980,7 @@
                     "correct": true
                 }
             ],
+            "img": "102.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1964,6 +2000,7 @@
                     "correct": false
                 }
             ],
+            "img": "103.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -1983,6 +2020,7 @@
                     "correct": false
                 }
             ],
+            "img": "104.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -2002,6 +2040,7 @@
                     "correct": true
                 }
             ],
+            "img": "105.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -2021,6 +2060,7 @@
                     "correct": false
                 }
             ],
+            "img": "106.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -2040,6 +2080,7 @@
                     "correct": false
                 }
             ],
+            "img": "107.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -2059,6 +2100,7 @@
                     "correct": true
                 }
             ],
+            "img": "108.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -2078,6 +2120,7 @@
                     "correct": false
                 }
             ],
+            "img": "109.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -2097,6 +2140,7 @@
                     "correct": false
                 }
             ],
+            "img": "110.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
@@ -2116,6 +2160,7 @@
                     "correct": true
                 }
             ],
+            "img": "111.png",
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
