@@ -1,5 +1,8 @@
 // Put all your page JS here
 
 $(function () {
-    $('#slickQuiz').slickQuiz();
+    $.get("/json/vmp-plachetnice.json", function(data) {
+        $('#slickQuiz').slickQuiz({ json: data });
+         console.log(data);
+    });
 });

@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    width: 800px;
+    width: 750px;
     margin: 0 auto;
     border: 2px solid #ccc;
     border-top: none;
@@ -62,7 +62,7 @@ ol li { list-style-type: decimal; margin-left: 20px; }
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
-	text-decoration: none;
+    text-decoration: none;
 }
 .button:hover {
     background-color:darkslategray;
@@ -111,6 +111,7 @@ ol.questions li {
 ul.answers {
     margin-left: 20px;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 ul.responses li {
@@ -138,4 +139,8 @@ ul.responses li.incorrect p span {
 .quizResultsCopy {
     clear: both;
     margin-top: 20px;
+}
+.quizimg {
+    float: right;
+    width: 8em;
 }
