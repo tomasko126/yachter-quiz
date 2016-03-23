@@ -1,7 +1,7 @@
 {
     "info": {
-        "name": "The Quiz Header",
-        "main": "The Quiz Description Text",
+        "name": "Test VMP Plachetnice",
+        "main": "",
         "results": "The Quiz Results Copy",
         "level1": "The highest ranking",
         "level2": "The almost highest ranking",
@@ -19,7 +19,7 @@
                 },
                 {
                     "option": "lano slúžiace na ovládanie plachiet\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "vlečné lano\r\r",
@@ -34,7 +34,7 @@
             "a": [
                 {
                     "option": "výstuhy plachty na jej zadnom leme\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "predĺženú páku kormidla\r",
@@ -57,7 +57,7 @@
                 },
                 {
                     "option": "predĺženú páku kormidla\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "jeden z pásov tkaniny, z ktorých je zostavená plachta\r\r",
@@ -76,7 +76,7 @@
                 },
                 {
                     "option": "ukazovateľ smeru vetra ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "priečna palubná výstuha\r\r",
@@ -91,7 +91,7 @@
             "a": [
                 {
                     "option": "miesto, kde sa zdržiava posádka\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "priestor vo vnútri vzduchových komôr ",
@@ -110,7 +110,7 @@
             "a": [
                 {
                     "option": "priečna výstuha sťažňa ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "názov lodnej triedy\r",
@@ -133,7 +133,7 @@
                 },
                 {
                     "option": "materiál na výrobu plachiet ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "materiál na výrobu lán\r\r",
@@ -156,7 +156,7 @@
                 },
                 {
                     "option": "polyamidu\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -175,7 +175,7 @@
                 },
                 {
                     "option": "oceľové lanko, ktoré kotví sťažeň na bok plachetnice\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -186,7 +186,7 @@
             "a": [
                 {
                     "option": "oceľový spojovací prvok\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "úprava plutvy plavidla\r",
@@ -205,7 +205,7 @@
             "a": [
                 {
                     "option": "plochá korma, vhodná na zavesenie kormidla alebo motora\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "miesto zasunutia plutvy\r",
@@ -232,7 +232,7 @@
                 },
                 {
                     "option": "dvojtrupové plavidlo\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -251,7 +251,7 @@
                 },
                 {
                     "option": "trojtrupové plavidlo\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -270,7 +270,7 @@
                 },
                 {
                     "option": "„škrupina trupu“  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -281,7 +281,7 @@
             "a": [
                 {
                     "option": "hlavný pozdĺžny nosník ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "hlavné rebro\r",
@@ -304,7 +304,7 @@
                 },
                 {
                     "option": "rebrami a pozdĺžnikmi ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "pozdĺžnikmi  ",
@@ -318,11 +318,16 @@
             "q": " Zvor je:\r",
             "a": [
                 {
-                    "option": "spoločná palubu a bok plachetnice\r\r",
+                    "option": "pozdĺžna výstuha (hrana) spoločná pre dno a bok telesa plachetnice",
                     "correct": false
                 },
                 {
+                    "option": "priečna výstuha (hrana) spoločná pre zrkadlo a kýl telesa plachetnice",
                     "correct": false
+                },
+                {
+                    "option": "pozdĺžna výstuha (hrana) spoločná palubu a bok plachetnice",
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -332,10 +337,15 @@
             "q": " Útor je:\r",
             "a": [
                 {
-                    "option": "spoločná pre palubu a bok plachetnice\r\r",
+                    "option": "pozdĺžna výstuha (hrana) spoločná pre dno a bok telesa plachetnice",
+                    "correct": true
+                },
+                {
+                    "option": "priečna výstuha (hrana) spoločná pre zrkadlo a kýl telesa plachetnice",
                     "correct": false
                 },
                 {
+                    "option": "pozdĺžna výstuha (hrana) spoločná pre palubu a bok plachetnice",
                     "correct": false
                 }
             ],
@@ -351,7 +361,7 @@
                 },
                 {
                     "option": "mosadzný ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "drevený  ",
@@ -370,7 +380,7 @@
                 },
                 {
                     "option": "kladkostroj, zabraňujúci dvíhaniu rahna ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "záves rahna\r\r",
@@ -389,7 +399,7 @@
                 },
                 {
                     "option": "lanko kotviace sťažeň\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "lanko, napínajúce predný lem kosatky  ",
@@ -408,7 +418,7 @@
                 },
                 {
                     "option": "do bahnitého alebo piesčitého dna\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "len na vlečenie pri spomaľovaní dryfu  ",
@@ -423,7 +433,7 @@
             "a": [
                 {
                     "option": "do kamenistého dna\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "do bahnitého alebo piesčitého dna\r",
@@ -450,7 +460,7 @@
                 },
                 {
                     "option": "plachetnica má hranaté rebrá  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -461,7 +471,7 @@
             "a": [
                 {
                     "option": "oblé rebrá\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "hranaté rebrá\r",
@@ -480,7 +490,7 @@
             "a": [
                 {
                     "option": "mechanicky činná zdrž\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "rozoberateľný spoj, vytvárajúci očko na oceľovom lanku\r",
@@ -503,7 +513,7 @@
                 },
                 {
                     "option": "anemometer ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "gyroskop  ",
@@ -526,7 +536,7 @@
                 },
                 {
                     "option": "prístroj na meranie výšky nebeských telies  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -537,7 +547,7 @@
             "a": [
                 {
                     "option": "zariadenie na určovanie rýchlosti lode\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "zariadenie na určovanie námerov na pobrežné telesá ",
@@ -564,7 +574,7 @@
                 },
                 {
                     "option": "rýchlosť plavidla\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -579,7 +589,7 @@
                 },
                 {
                     "option": "bočné znášanie plachetnice\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "najvyšší príliv v roku v dňoch rovnodennosti  ",
@@ -594,7 +604,7 @@
             "a": [
                 {
                     "option": "celá plachetná výstroj plachetnoce\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "ochranná plachta, chrániaca loď pred účinkami počasia ",
@@ -613,7 +623,7 @@
             "a": [
                 {
                     "option": "schopnosť plachetnice vrátiť sa po vychýlení do rovnovážnej polohy ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "schopnosť zachovávať smer plavby\r",
@@ -636,7 +646,7 @@
                 },
                 {
                     "option": "trojuholníková plachta v tvare guľového výseku, používaná pri plavbe na zadný a zadobočný vietor ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "štvoruholníková vratiplachta  ",
@@ -659,7 +669,7 @@
                 },
                 {
                     "option": "krycia plachta plachetnice  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -678,7 +688,7 @@
                 },
                 {
                     "option": "druh kosatky, ktorá pri maximálnom pritiahnutí presahuje z boku sťažeň  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -693,7 +703,7 @@
                 },
                 {
                     "option": "tá, ktorá je vystavená vetru\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "strana, pri ktorej loď pláva v čo najmenšom uhle ku smere vetra  ",
@@ -712,7 +722,7 @@
                 },
                 {
                     "option": "obyčajné bočné svetlá a kormové svetlo umiestnené v jednom svietidle a na vhodnom miesta na vrchole alebo v hornej časti stožiara ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "nemusí niesť svetlo  ",
@@ -735,7 +745,7 @@
                 },
                 {
                     "option": "je plavidlo, plávajúce pomocou plachiet  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -746,7 +756,7 @@
             "a": [
                 {
                     "option": "od tvaru a veľkosti lodného trupu, rozdelenia hmotnosti trupu a taleláže a od veľkosti a rozmiestnenia takeláže\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "od používania vyvažovacej hrazdy ",
@@ -765,7 +775,7 @@
             "a": [
                 {
                     "option": "s menším vydutím ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "s väčším vydutím ",
@@ -784,7 +794,7 @@
             "a": [
                 {
                     "option": "tá strana, z ktorej vietor „odchádza“, a teda sú na tejto strane plachty\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "tá strana, z ktorej vietor „prichádza“, a teda nie sú na tejto strane plachty ",
@@ -811,7 +821,7 @@
                 },
                 {
                     "option": "tvarom trupu a oplachtením  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -830,7 +840,7 @@
                 },
                 {
                     "option": "na zadný vietor  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -840,11 +850,16 @@
             "q": " Vodca plachetnice zbadal na vodnej hladine blížiaci sa náraz vetra, preto:\r",
             "a": [
                 {
-                    "option": " ",
+                    "option": "pritiahne plachtu a zmení kurz smerom od vetra (odpadne)",
                     "correct": false
                 },
                 {
+                    "option": "nakloní loď do návetria a pritiahne hlavnú plachtu, ak nechce riskovať prevrátenie",
                     "correct": false
+                },
+                {
+                    "option": "povolí plachtu alebo vyostrí (stúpa)",
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -863,7 +878,7 @@
                 },
                 {
                     "option": "lodné osvedčenie, preukaz odbornej spôsobilosti vodcu malého plavidla a doklad o poistení za škodu spôsobenú prevádzkou plavidla  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -882,7 +897,7 @@
                 },
                 {
                     "option": "má rovnaké práva a povinnosti ako motorová loď príslušnej veľkosti  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -893,7 +908,7 @@
             "a": [
                 {
                     "option": "zmenšovať uhol kurzu plachetnice a smeru vetra\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "zväčšovať uhol kurzu plachetnice a smeru vetra\r",
@@ -916,7 +931,7 @@
                 },
                 {
                     "option": "zväčšovať uhol kurzu plachetnice a smeru vetra\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "presúvanie posádky čo najviac k prove pri vzniku kĺzania  ",
@@ -931,7 +946,7 @@
             "a": [
                 {
                     "option": "po náveternej strane, aby využil „čistý“ vietor\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "po záveternej strane, aby využil „veterný tieň“\r",
@@ -950,7 +965,7 @@
             "a": [
                 {
                     "option": "tak, aby bol obrátený proti vetru\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "tak, aby bol obrátený na bočný vietor\r",
@@ -977,7 +992,7 @@
                 },
                 {
                     "option": "taká zmena kurzu, kedy plachetnica je v jednom momente v postavení „na zadný vietor“  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -996,7 +1011,7 @@
                 },
                 {
                     "option": "taká zmena kurzu, kedy v jednom momente je plachetnica v postavení „proti vetru“  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1007,7 +1022,7 @@
             "a": [
                 {
                     "option": "pokračuje v pôvodnom kurze a pokúsi sa pristáť na najbližšom brehu tak, aby tento úpon bol stále záveterný\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "okamžite vykoná obrat, aby úpon bol náveterný a pokúsi sa pristáť na najbližšom brehu tak, aby tento úpon bol stále náveterný\r",
@@ -1034,7 +1049,7 @@
                 },
                 {
                     "option": "obráti plachetnicu proti vetru, prikáže odviazať oťaže a spinaker vytiahnuť von  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1045,7 +1060,7 @@
             "a": [
                 {
                     "option": "loď č. 1\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "loď č. 3 ",
@@ -1072,7 +1087,7 @@
                 },
                 {
                     "option": "červená, pretože je záveterná\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1083,7 +1098,7 @@
             "a": [
                 {
                     "option": "biela plachetnica je náveterná\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "biela plachetnica je záveterná\r",
@@ -1110,7 +1125,7 @@
                 },
                 {
                     "option": "červená plachetnica, pretože je záveterná  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1125,7 +1140,7 @@
                 },
                 {
                     "option": "červená, pretože má vietor zľava\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "biela, pretože je záveterná  ",
@@ -1148,7 +1163,7 @@
                 },
                 {
                     "option": "červená, pretože nesie čierny kužeľ\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1167,7 +1182,7 @@
                 },
                 {
                     "option": "červená, pretože pláva ostrejšie proti vetru  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1178,7 +1193,7 @@
             "a": [
                 {
                     "option": "červená plachetnica musí vykonať rovnaký manéver, pretože biela plachetnica bude mať po zmene kurzu vietor sprava\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "červená plachetnica môže odoprieť vykonať takýto manéver, pretože je náveterná a tým prinúti bielu pokračovať v pôvodnom kurze\r",
@@ -1197,7 +1212,7 @@
             "a": [
                 {
                     "option": "biela\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "červená ",
@@ -1220,7 +1235,7 @@
                 },
                 {
                     "option": "modrá ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "červená\r\r",
@@ -1243,7 +1258,7 @@
                 },
                 {
                     "option": "červená  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1254,7 +1269,7 @@
             "a": [
                 {
                     "option": "biela\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "modrá ",
@@ -1277,7 +1292,7 @@
                 },
                 {
                     "option": "sa musí vyhnúť, pretože loď č. 2 má vietor sprava ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "sa musí vyhnúť, pretože je záveterná\r\r",
@@ -1300,7 +1315,7 @@
                 },
                 {
                     "option": "červená\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1315,7 +1330,7 @@
                 },
                 {
                     "option": "musí túto požiadavku akceptovať, pretože červená plachetnica má prekážku v dráhe\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "nemusí túto požiadavku akceptovať  ",
@@ -1334,7 +1349,7 @@
                 },
                 {
                     "option": "trim\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "stabilita  ",
@@ -1349,7 +1364,7 @@
             "a": [
                 {
                     "option": "sa stáča proti vetru ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "sa stáča do závetria ",
@@ -1372,7 +1387,7 @@
                 },
                 {
                     "option": "sa stáča do závetria ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "sa nestáča  ",
@@ -1391,7 +1406,7 @@
                 },
                 {
                     "option": "liace ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "lemy  ",
@@ -1410,7 +1425,7 @@
                 },
                 {
                     "option": "liace ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "lemy  ",
@@ -1433,7 +1448,7 @@
                 },
                 {
                     "option": "zmenšovanie plochy plachty  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1448,7 +1463,7 @@
                 },
                 {
                     "option": "bočný lem ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "zadný lem  ",
@@ -1467,7 +1482,7 @@
                 },
                 {
                     "option": "asymetrický spinaker\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "spinakrový vodiaci tunel\r\r",
@@ -1482,7 +1497,7 @@
             "a": [
                 {
                     "option": "pomocné „rahno“ spinakra\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "časť sťažňa, slúžiaca na nesenie spinakra\r",
@@ -1509,7 +1524,7 @@
                 },
                 {
                     "option": "križovanie plachetnice do bodu, ktorý je z jej pohľadu proti vetru  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1524,7 +1539,7 @@
                 },
                 {
                     "option": "tesne nad hladinou\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "hlboko pod hladinou  ",
@@ -1547,7 +1562,7 @@
                 },
                 {
                     "option": "anemometer  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1558,7 +1573,7 @@
             "a": [
                 {
                     "option": "veterná korúhvička\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "kurzový námerník\r",
@@ -1585,7 +1600,7 @@
                 },
                 {
                     "option": "šekel  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1596,7 +1611,7 @@
             "a": [
                 {
                     "option": "mechanicky činná zdrž - curry svorka (camcleat) ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "prievlak\r",
@@ -1623,7 +1638,7 @@
                 },
                 {
                     "option": "rohatka\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1634,7 +1649,7 @@
             "a": [
                 {
                     "option": "odsávacia klapka\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "vetračka\r",
@@ -1661,7 +1676,7 @@
                 },
                 {
                     "option": "sextant  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1672,7 +1687,7 @@
             "a": [
                 {
                     "option": "kniha kormidla\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "záves rahna\r",
@@ -1699,7 +1714,7 @@
                 },
                 {
                     "option": "radarový odrážač  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1718,7 +1733,7 @@
                 },
                 {
                     "option": "na pevné uviazanie, napr. spúšte spinakra  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1729,7 +1744,7 @@
             "a": [
                 {
                     "option": "zabránenie vyvlečenia lana z kosatkového prievlaku alebo kladky\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "skracovanie\r",
@@ -1752,7 +1767,7 @@
                 },
                 {
                     "option": "admirálska ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "Danforthova  ",
@@ -1775,7 +1790,7 @@
                 },
                 {
                     "option": "Danforthova  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1786,7 +1801,7 @@
             "a": [
                 {
                     "option": "pluhová\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "admirálska ",
@@ -1805,7 +1820,7 @@
             "a": [
                 {
                     "option": "skladaná\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "pluhová\r",
@@ -1824,7 +1839,7 @@
             "a": [
                 {
                     "option": "optimist ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "cadet\r",
@@ -1847,7 +1862,7 @@
                 },
                 {
                     "option": "cadet\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "európa  ",
@@ -1870,7 +1885,7 @@
                 },
                 {
                     "option": "RSX  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1881,7 +1896,7 @@
             "a": [
                 {
                     "option": "„420“ ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "„470“ ",
@@ -1904,7 +1919,7 @@
                 },
                 {
                     "option": "„470“ ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "fireball  ",
@@ -1927,7 +1942,7 @@
                 },
                 {
                     "option": "fireball\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1938,7 +1953,7 @@
             "a": [
                 {
                     "option": "vaurien ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "pirát\r",
@@ -1961,7 +1976,7 @@
                 },
                 {
                     "option": "yngling ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "finn\r\r",
@@ -1984,7 +1999,7 @@
                 },
                 {
                     "option": "finn  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1995,7 +2010,7 @@
             "a": [
                 {
                     "option": "lietajúci Holanďan ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "star\r",
@@ -2018,7 +2033,7 @@
                 },
                 {
                     "option": "star\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "soling\r\r",
@@ -2041,7 +2056,7 @@
                 },
                 {
                     "option": "soling\r\r",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -2052,7 +2067,7 @@
             "a": [
                 {
                     "option": "laser\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "40-er ",
@@ -2075,7 +2090,7 @@
                 },
                 {
                     "option": "49-er ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "tornádo\r\r",
@@ -2098,7 +2113,7 @@
                 },
                 {
                     "option": "tornádo  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -2113,7 +2128,7 @@
                 },
                 {
                     "option": "laterál ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "kvadrant  ",
@@ -2128,7 +2143,7 @@
             "a": [
                 {
                     "option": "spúšte\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "oťaže ",
@@ -2147,7 +2162,7 @@
             "a": [
                 {
                     "option": "ovplyvňuje veľkosť aerodynamickej sily\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "neovplyvňuje veľkosť aerodynamickej sily\r",
@@ -2170,7 +2185,7 @@
                 },
                 {
                     "option": "zmenšiť plochu plachty\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "vytiahneme prídavné oplachtenie - napr. spinaker  ",
@@ -2189,7 +2204,7 @@
                 },
                 {
                     "option": "má prednosť pred plachetnicami plávajúcimi na iný vietor ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "je povinná vyhnúť plachetnici, ktorá má vietor zľava  ",
@@ -2212,7 +2227,7 @@
                 },
                 {
                     "option": "je povinná vyhnúť sa plachetnici, ktorá má vietor sprava  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -2223,7 +2238,7 @@
             "a": [
                 {
                     "option": "musí dať druhej plachetnici možnosť k uhýbaniu\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "nesmie dať druhej plachetnici možnosť k uhýbaniu\r",
@@ -2242,7 +2257,7 @@
             "a": [
                 {
                     "option": "musí vyhýbať náveterná loď záveternej ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "musí vyhýbať záveterná loď náveternej ",
@@ -2265,7 +2280,7 @@
                 },
                 {
                     "option": "proti vetru\r",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "s plachtami na ľavobok\r",
