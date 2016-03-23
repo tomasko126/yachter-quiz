@@ -1,1 +1,2038 @@
-{"questions":[{"q":" ","a":[{"option":"","correct":false},{"correct":false}]},{"q":" Výraz „oťaž“ označuje:\r","a":[{"option":"lano slúžiace k vyťahovaniu a spúšťaniu plavidiel ","correct":false},{"option":"lano slúžiace na ovládanie plachiet\r","correct":false},{"option":"vlečné lano\r\r","correct":false}]},{"q":" Výraz „vzpera“ označuje:\r","a":[{"option":"výstuhy plachty na jej zadnom leme\r","correct":false},{"option":"predĺženú páku kormidla\r","correct":false},{"option":"jeden z pásov tkaniny, z ktorých je zostavená plachta\r\r","correct":false}]},{"q":" Výraz „pina“ označuje:\r","a":[{"option":"výstuhu plachty na jej zadnom leme\r","correct":false},{"option":"predĺženú páku kormidla\r","correct":false},{"option":"jeden z pásov tkaniny, z ktorých je zostavená plachta\r\r","correct":false}]},{"q":" Koruhvička je:\r","a":[{"option":"nádobka na čerpanie vody ","correct":false},{"option":"ukazovateľ smeru vetra ","correct":false},{"option":"priečna palubná výstuha\r\r","correct":false}]},{"q":" Kokpit je miesto:\r","a":[{"option":"miesto, kde sa zdržiava posádka\r","correct":false},{"option":"priestor vo vnútri vzduchových komôr ","correct":false},{"option":"podpalubný priestor\r\r","correct":false}]},{"q":" Saling je:\r","a":[{"option":"priečna výstuha sťažňa ","correct":false},{"option":"názov lodnej triedy\r","correct":false},{"option":"pozdĺžna výstuha sťažňa\r\r","correct":false}]},{"q":" Dacron je:\r","a":[{"option":"typ kotvy\r","correct":false},{"option":"materiál na výrobu plachiet ","correct":false},{"option":"materiál na výrobu lán\r\r","correct":false}]},{"q":" Lano schopné plávať na vode je z: ","a":[{"option":"polyesteru\r","correct":false},{"option":"bavlny\r","correct":false},{"option":"polyamidu\r\r","correct":false}]},{"q":" Bočný steh je:\r","a":[{"option":"steh na boku plachty\r","correct":false},{"option":"oceľové lanko, ktorým je kotvený stožiar a na ktorom je navlečená kosatka ","correct":false},{"option":"oceľové lanko, ktoré kotví sťažeň na bok plachetnice\r\r","correct":false}]},{"q":" Šekel je:\r","a":[{"option":"oceľový spojovací prvok\r","correct":false},{"option":"úprava plutvy plavidla\r","correct":false},{"option":"záťažová časť kýlu plachetnice\r\r ","correct":false}]},{"q":" Zrkadlo je:\r","a":[{"option":"plochá korma, vhodná na zavesenie kormidla alebo motora\r","correct":false},{"option":"miesto zasunutia plutvy\r","correct":false},{"option":"prepážka, oddeľujúca obytnú časť plachetnice od miesta určeného na uloženie paliva\r\r","correct":false}]},{"q":" Katamarán je:\r","a":[{"option":"trojtrupové plavidlo\r","correct":false},{"option":"jednotrupové plavidlo (tzv. monohull) ","correct":false},{"option":"dvojtrupové plavidlo\r\r","correct":false}]},{"q":" Trimaran je\r","a":[{"option":"jednotrupové plavidlo (tzv. monohull) ","correct":false},{"option":"dvojtrupové plavidlo\r","correct":false},{"option":"trojtrupové plavidlo\r\r","correct":false}]},{"q":" Obšívka je:\r","a":[{"option":"pozdĺžna výstuha plachetnice ","correct":false},{"option":"priečna výstuha plachetnice ","correct":false},{"option":"„škrupina trupu“  ","correct":false}]},{"q":" Chrbtica je:\r","a":[{"option":"hlavný pozdĺžny nosník ","correct":false},{"option":"hlavné rebro\r","correct":false},{"option":"hlavná vodoryska  ","correct":false}]},{"q":" Kostra je tvorená:\r","a":[{"option":"rebrami\r","correct":false},{"option":"rebrami a pozdĺžnikmi ","correct":false},{"option":"pozdĺžnikmi  ","correct":false}]},{"q":" Zvor je:\r","a":[{"option":"spoločná palubu a bok plachetnice\r\r","correct":false},{"correct":false}]},{"q":" Útor je:\r","a":[{"option":"spoločná pre palubu a bok plachetnice\r\r","correct":false},{"correct":false}]},{"q":" Sťažeň nemôže byť: ","a":[{"option":"duralový\r","correct":false},{"option":"mosadzný ","correct":false},{"option":"drevený  ","correct":false}]},{"q":" Kiking je:\r","a":[{"option":"výstuha rahna\r","correct":false},{"option":"kladkostroj, zabraňujúci dvíhaniu rahna ","correct":false},{"option":"záves rahna\r\r","correct":false}]},{"q":" Úpon je:\r","a":[{"option":"lanko na spúšťanie hlavnej plachty\r","correct":false},{"option":"lanko kotviace sťažeň\r","correct":false},{"option":"lanko, napínajúce predný lem kosatky  ","correct":false}]},{"q":" Danforthova kotva je určená: ","a":[{"option":"do kamenistého dna\r","correct":false},{"option":"do bahnitého alebo piesčitého dna\r","correct":false},{"option":"len na vlečenie pri spomaľovaní dryfu  ","correct":false}]},{"q":" Admirálska kotva je určená: ","a":[{"option":"do kamenistého dna\r","correct":false},{"option":"do bahnitého alebo piesčitého dna\r","correct":false},{"option":"len na vlečenie pri spomaľovaní dryfu  ","correct":false}]},{"q":" Šarpiový tvar trupu plachetnice je, keď: ","a":[{"option":"plachetnica má oblé rebrá\r","correct":false},{"option":"plachetnica má sedlovitú palubu\r","correct":false},{"option":"plachetnica má hranaté rebrá  ","correct":false}]},{"q":" Jolový tvar plachetnice je, keď plachetnica má: ","a":[{"option":"oblé rebrá\r","correct":false},{"option":"hranaté rebrá\r","correct":false},{"option":"sedlovitosť v palube  ","correct":false}]},{"q":" Curry svorka je:\r","a":[{"option":"mechanicky činná zdrž\r","correct":false},{"option":"rozoberateľný spoj, vytvárajúci očko na oceľovom lanku\r","correct":false},{"option":"poistka, zabraňujúca vypadnutiu kormidla pri prevrátení plachetnice  ","correct":false}]},{"q":" Prístroj na meranie rýchlosti vetra je:\r","a":[{"option":"sextant\r","correct":false},{"option":"anemometer ","correct":false},{"option":"gyroskop  ","correct":false}]},{"q":" Sextant je:\r","a":[{"option":"prístroj na meranie rýchlosti vetra\r","correct":false},{"option":"prístroj na meranie rýchlosti plachetnice voči dnu ","correct":false},{"option":"prístroj na meranie výšky nebeských telies  ","correct":false}]},{"q":" Log je:\r","a":[{"option":"zariadenie na určovanie rýchlosti lode\r","correct":false},{"option":"zariadenie na určovanie námerov na pobrežné telesá ","correct":false},{"option":"hĺbkomer  ","correct":false}]},{"q":" V uzloch (knotoch) sa udáva:\r","a":[{"option":"výška vlnenia\r","correct":false},{"option":"veľkosť náklonu plachetnice ","correct":false},{"option":"rýchlosť plavidla\r\r","correct":false}]},{"q":" Dryf (dryft) je:\r","a":[{"option":"vlečená rukávová kotva\r","correct":false},{"option":"bočné znášanie plachetnice\r","correct":false},{"option":"najvyšší príliv v roku v dňoch rovnodennosti  ","correct":false}]},{"q":" Takeláž je:\r","a":[{"option":"celá plachetná výstroj plachetnoce\r","correct":false},{"option":"ochranná plachta, chrániaca loď pred účinkami počasia ","correct":false},{"option":"lano, slúžiace na vyťahovanie a spúšťanie plachiet  ","correct":false}]},{"q":" Stabilita je:\r","a":[{"option":"schopnosť plachetnice vrátiť sa po vychýlení do rovnovážnej polohy ","correct":false},{"option":"schopnosť zachovávať smer plavby\r","correct":false},{"option":"schopnosť nepotopiteľnosti  ","correct":false}]},{"q":" Spinaker je:\r","a":[{"option":"trojuholníková plachta, vyťahovaná za slabého vetra nad galfové rahno\r","correct":false},{"option":"trojuholníková plachta v tvare guľového výseku, používaná pri plavbe na zadný a zadobočný vietor ","correct":false},{"option":"štvoruholníková vratiplachta  ","correct":false}]},{"q":" Perzenik je:\r","a":[{"option":"výstuha rebra\r","correct":false},{"option":"kosatka\r","correct":false},{"option":"krycia plachta plachetnice  ","correct":false}]},{"q":" Genua je:\r","a":[{"option":"pomocná vratiplachta\r","correct":false},{"option":"trojuholníková plachta zavesená pred kosatkou\r","correct":false},{"option":"druh kosatky, ktorá pri maximálnom pritiahnutí presahuje z boku sťažeň  ","correct":false}]},{"q":" Náveterná strana lode je:\r","a":[{"option":"tá, z ktorej vietor z plachetnice „odchádza“, teda tá, na ktorej sú plachty ","correct":false},{"option":"tá, ktorá je vystavená vetru\r","correct":false},{"option":"strana, pri ktorej loď pláva v čo najmenšom uhle ku smere vetra  ","correct":false}]},{"q":" Aké svetlá zodpovedajú predpisom, vzťahujúcim sa na malé plachetnice?\r","a":[{"option":"jedno obyčajné žlté vrcholové svetlo\r","correct":false},{"option":"obyčajné bočné svetlá a kormové svetlo umiestnené v jednom svietidle a na vhodnom miesta na vrchole alebo v hornej časti stožiara ","correct":false},{"option":"nemusí niesť svetlo  ","correct":false}]},{"q":" Určite pojem „plachetnica“\r","a":[{"option":"je plavidlo, plávajúce pomocou plachiet, ktoré používa pomocný stroj o max. výkone 15 kW ","correct":false},{"option":"také plavidlo s vlastným strojným pohonom, ktorému hlavným pohonom je plachta\r","correct":false},{"option":"je plavidlo, plávajúce pomocou plachiet  ","correct":false}]},{"q":" Stabilita plachetnice závisí:\r","a":[{"option":"od tvaru a veľkosti lodného trupu, rozdelenia hmotnosti trupu a taleláže a od veľkosti a rozmiestnenia takeláže\r","correct":false},{"option":"od používania vyvažovacej hrazdy ","correct":false},{"option":"výlučne od hmotnosti posádky\r\r","correct":false}]},{"q":" Pri plavbe v silnom vetre je výhodnejšia plachta:\r","a":[{"option":"s menším vydutím ","correct":false},{"option":"s väčším vydutím ","correct":false},{"option":"celkom plochá  ","correct":false}]},{"q":" Záveterná strana plachetnice je:\r","a":[{"option":"tá strana, z ktorej vietor „odchádza“, a teda sú na tejto strane plachty\r","correct":false},{"option":"tá strana, z ktorej vietor „prichádza“, a teda nie sú na tejto strane plachty ","correct":false},{"option":"miesto v závetrí prekážky na vodnej ploche, v ktorom pláva plachetnica  ","correct":false}]},{"q":" Schopnosť križovať čo najostrejšie proti vetru je podmienená: ","a":[{"option":"zmenšením náklonu sťažňa\r","correct":false},{"option":"vytiahnutím plutvy pre zmenšenie brzdného odporu\r","correct":false},{"option":"tvarom trupu a oplachtením  ","correct":false}]},{"q":" Výlučne pretlak využíva plachetnica pri plavbe: ","a":[{"option":"na bočný vietor\r","correct":false},{"option":"na predobočný vietor\r","correct":false},{"option":"na zadný vietor  ","correct":false}]},{"q":" Vodca plachetnice zbadal na vodnej hladine blížiaci sa náraz vetra, preto:\r","a":[{"option":" ","correct":false},{"correct":false}]},{"q":" Aké doklady musí mať u seba na plavidle vodca plachetnice s plochou plachiet väčšou ako 12m ?\r","a":[{"option":"preukaz spôsobilosti a občiansky preukaz\r","correct":false},{"option":"lodné osvedčenie a občiansky preukaz\r","correct":false},{"option":"lodné osvedčenie, preukaz odbornej spôsobilosti vodcu malého plavidla a doklad o poistení za škodu spôsobenú prevádzkou plavidla  ","correct":false}]},{"q":" Plachetnica, ktorá pri plavbe využíva plachty a zároveň strojný pohon:\r","a":[{"option":"sa vyhýba rovnako ako plachetnica, ktorá využíva pri plavbe iba plachty\r","correct":false},{"option":"sa musí vyhnúť plachetniciam, ktoré využívajú iba plachty, ale má prednosť pred motorovými loďami\r","correct":false},{"option":"má rovnaké práva a povinnosti ako motorová loď príslušnej veľkosti  ","correct":false}]},{"q":" Výraz „stúpať“ (vyostrovať) znamená:\r","a":[{"option":"zmenšovať uhol kurzu plachetnice a smeru vetra\r","correct":false},{"option":"zväčšovať uhol kurzu plachetnice a smeru vetra\r","correct":false},{"option":"presúvanie posádky čo najviac na kormu pri vzniku kĺzania  ","correct":false}]},{"q":" Výraz „odpadávať znamená:\r","a":[{"option":"zmenšovať uhol kurzu plachetnice a smeru vetra\r","correct":false},{"option":"zväčšovať uhol kurzu plachetnice a smeru vetra\r","correct":false},{"option":"presúvanie posádky čo najviac k prove pri vzniku kĺzania  ","correct":false}]},{"q":" Vodca plachetnice sa rozhodol predísť plachetnicu, plávajúcu pred ním a urobí to: ","a":[{"option":"po náveternej strane, aby využil „čistý“ vietor\r","correct":false},{"option":"po záveternej strane, aby využil „veterný tieň“\r","correct":false},{"option":"požiada vodcu takejto plachetnice o zmenu kurzu vo svoj prospech\r\r","correct":false}]},{"q":" Vodca plachetnice má v úmysle poskytnúť pomoc inej plachetnici. Priblíži sa k nej: ","a":[{"option":"tak, aby bol obrátený proti vetru\r","correct":false},{"option":"tak, aby bol obrátený na bočný vietor\r","correct":false},{"option":"tak, aby bol obrátený na zadný vietor  ","correct":false}]},{"q":" Výraz „halza“ (prehodenie) je:\r","a":[{"option":"taká zmena kurzu, kedy v jednom momente je plachetnica v postavení „proti vetru“\r","correct":false},{"option":"druh dreviny, ľahkej dreviny používanej pri stavbe plavidiel\r","correct":false},{"option":"taká zmena kurzu, kedy plachetnica je v jednom momente v postavení „na zadný vietor“  ","correct":false}]},{"q":" Obrat („kravská otáčka“) je:\r","a":[{"option":"vytočenie plachetnice do postavenia „proti vetru“ pre zníženie rizika prevrátenia\r","correct":false},{"option":"taká zmena kurzu, pri ktorom je plachetnica v jednom momente v postavení „na zadný vietor“ ","correct":false},{"option":"taká zmena kurzu, kedy v jednom momente je plachetnica v postavení „proti vetru“  ","correct":false}]},{"q":" Vodca plachetnice zisti, že záveterný úpon je prasknutý preto:\r","a":[{"option":"pokračuje v pôvodnom kurze a pokúsi sa pristáť na najbližšom brehu tak, aby tento úpon bol stále záveterný\r","correct":false},{"option":"okamžite vykoná obrat, aby úpon bol náveterný a pokúsi sa pristáť na najbližšom brehu tak, aby tento úpon bol stále náveterný\r","correct":false},{"option":"ihneď stiahne plachty a požiada o pomoc iné plavidlo  ","correct":false}]},{"q":" Chybou posádky sa spinaker dostal pod plachetnicu. Vodca preto:\r","a":[{"option":"stiahne plachty a zavolá pomoc, aby zabránil ďalším škodám\r","correct":false},{"option":"prikáže sklopiť plutvu a sklopí kormidlo, aby loď preplávala ponad spinaker\r","correct":false},{"option":"obráti plachetnicu proti vetru, prikáže odviazať oťaže a spinaker vytiahnuť von  ","correct":false}]},{"q":" Ktorá loď sa nemusí vyhýbať? ","a":[{"option":"loď č. 1\r","correct":false},{"option":"loď č. 3 ","correct":false},{"option":"loď č. 2  ","correct":false}]},{"q":" Ktorá z plachetníc má prednosť?\r","a":[{"option":"biela, pretože je náveterná\r","correct":false},{"option":"biela, pretože sa približuje k červenej z pravej strany ","correct":false},{"option":"červená, pretože je záveterná\r\r","correct":false}]},{"q":" Červená plachetnica má prednosť pretože: ","a":[{"option":"biela plachetnica je náveterná\r","correct":false},{"option":"biela plachetnica je záveterná\r","correct":false},{"option":"biela plachetnica pláva pomalšie  ","correct":false}]},{"q":" Ktorá z plachetníc má prednosť? ","a":[{"option":"biela plachetnica, pretože pláva rýchlejšie ","correct":false},{"option":"červená plachetnica, pretože ju biela „vidí“ prichádzať z pravej strany\r","correct":false},{"option":"červená plachetnica, pretože je záveterná  ","correct":false}]},{"q":" Ktorá z plachetníc sa bude vyhýbať? ","a":[{"option":"biela, pretože má vietor sprava\r","correct":false},{"option":"červená, pretože má vietor zľava\r","correct":false},{"option":"biela, pretože je záveterná  ","correct":false}]},{"q":" Ktorá z plachetníc sa bude vyhýbať? ","a":[{"option":"biela, pretože je v postavení na „zadný vietor“ ","correct":false},{"option":"biela, pretože červená nesie čierny kužeľ\r","correct":false},{"option":"červená, pretože nesie čierny kužeľ\r\r","correct":false}]},{"q":" Ak sú obidve plachetnice rovnakej triedy, ktorá z nich pláva rýchlejšie?\r","a":[{"option":"biela, pretože pláva ostrejšie proti vetru\r","correct":false},{"option":"biela, pretože pláva po vetre\r","correct":false},{"option":"červená, pretože pláva ostrejšie proti vetru  ","correct":false}]},{"q":" Biela plachetnica má v úmysle zmeniť kurz tak, že bude križovať plavebnú dráhu červenej plachetnice:\r","a":[{"option":"červená plachetnica musí vykonať rovnaký manéver, pretože biela plachetnica bude mať po zmene kurzu vietor sprava\r","correct":false},{"option":"červená plachetnica môže odoprieť vykonať takýto manéver, pretože je náveterná a tým prinúti bielu pokračovať v pôvodnom kurze\r","correct":false},{"option":"biela plachetnica nesmie takýto manéver vykonať\r\r","correct":false}]},{"q":" Ktorá z plachetníc sa bude vyhýbať ako prvá? ","a":[{"option":"biela\r","correct":false},{"option":"červená ","correct":false},{"option":"modrá  ","correct":false}]},{"q":" Ktorá z plachetníc sa nemusí uhýbať (má prednosť)?\r","a":[{"option":"biela\r","correct":false},{"option":"modrá ","correct":false},{"option":"červená\r\r","correct":false}]},{"q":" Ktorá z plachetníc má prednosť? ","a":[{"option":"biela\r","correct":false},{"option":"modrá ","correct":false},{"option":"červená  ","correct":false}]},{"q":" Ktorá z plachetníc má prednosť? ","a":[{"option":"biela\r","correct":false},{"option":"modrá ","correct":false},{"option":"červená\r\r","correct":false}]},{"q":" Loď č. 1:\r","a":[{"option":"má prednosť, pretože má vietor zľava\r","correct":false},{"option":"sa musí vyhnúť, pretože loď č. 2 má vietor sprava ","correct":false},{"option":"sa musí vyhnúť, pretože je záveterná\r\r","correct":false}]},{"q":" Ktorá z plachetníc sa nebude určite vyhýbať?\r","a":[{"option":"biela\r","correct":false},{"option":"modrá ","correct":false},{"option":"červená\r\r","correct":false}]},{"q":" Červená plachetnica má v úmysle vykonať obrat, preto musí žiadať bielu o miesto. Biela plachetnica:\r","a":[{"option":"musí túto požiadavku akceptovať vždy, aj keby neboli na okraji plavebnej dráhy\r","correct":false},{"option":"musí túto požiadavku akceptovať, pretože červená plachetnica má prekážku v dráhe\r","correct":false},{"option":"nemusí túto požiadavku akceptovať  ","correct":false}]},{"q":" Vyváženosť plachetnice je: ","a":[{"option":"takeláž\r","correct":false},{"option":"trim\r","correct":false},{"option":"stabilita  ","correct":false}]},{"q":" Plachetnica je náveterná ak:\r","a":[{"option":"sa stáča proti vetru ","correct":false},{"option":"sa stáča do závetria ","correct":false},{"option":"sa nestáča  ","correct":false}]},{"q":" Plachetnica je záveterná ak:\r","a":[{"option":"sa stáča proti vetru ","correct":false},{"option":"sa stáča do závetria ","correct":false},{"option":"sa nestáča  ","correct":false}]},{"q":" K pevnému lanoviu nepatria:\r","a":[{"option":"stehy ","correct":false},{"option":"liace ","correct":false},{"option":"lemy  ","correct":false}]},{"q":" K pohyblivému lanoviu patria:\r","a":[{"option":"stehy ","correct":false},{"option":"liace ","correct":false},{"option":"lemy  ","correct":false}]},{"q":" Refovanie „kasanie“ je:\r","a":[{"option":"spúšťanie spinakra a jeho nastavovanie do polohy, v ktorej dáva najväčší ťah\r","correct":false},{"option":"manéver, pri ktorom ostrejšie stúpajúca plachetnica v závetrí núti plachetnicu v návetrí vykonať obrat\r","correct":false},{"option":"zmenšovanie plochy plachty  ","correct":false}]},{"q":" Plachta určite nemá: ","a":[{"option":"spodná lem\r","correct":false},{"option":"bočný lem ","correct":false},{"option":"zadný lem  ","correct":false}]},{"q":" Genaker je:\r","a":[{"option":"bezanová plachta\r","correct":false},{"option":"asymetrický spinaker\r","correct":false},{"option":"spinakrový vodiaci tunel\r\r","correct":false}]},{"q":" Spinakrový peň je:\r","a":[{"option":"pomocné „rahno“ spinakra\r","correct":false},{"option":"časť sťažňa, slúžiaca na nesenie spinakra\r","correct":false},{"option":"časť v kokpite plavidla, slúžiaca na spúšťanie spinakra  ","correct":false}]},{"q":" Lavírovanie je:\r","a":[{"option":"striedavé nakláňanie plachetnice zo závetria do návetria, slúžiace na podporu prúdenia v profile plachty\r","correct":false},{"option":"jazda na zadný vietor v postavení plachiet „na motýľa“\r","correct":false},{"option":"križovanie plachetnice do bodu, ktorý je z jej pohľadu proti vetru  ","correct":false}]},{"q":" Spodná hrana zrkadla plachetnice je zväčša: ","a":[{"option":"tesne pod hladinou\r","correct":false},{"option":"tesne nad hladinou\r","correct":false},{"option":"hlboko pod hladinou  ","correct":false}]},{"q":" Prístroj na obrázku je:\r","a":[{"option":"sextant\r","correct":false},{"option":"log\r","correct":false},{"option":"anemometer  ","correct":false}]},{"q":" Zariadenie na obrázku je:\r","a":[{"option":"veterná korúhvička\r","correct":false},{"option":"kurzový námerník\r","correct":false},{"option":"automatické kormidlo  ","correct":false}]},{"q":" Predmet na obrázku je:\r","a":[{"option":"poistka proti vypadnutiu kormidla pri prevrátení plachetnice\r","correct":false},{"option":"poistka proti vypadnutiu spiry ","correct":false},{"option":"šekel  ","correct":false}]},{"q":" Zariadenie na obrázku je:\r","a":[{"option":"mechanicky činná zdrž - curry svorka (camcleat) ","correct":false},{"option":"prievlak\r","correct":false},{"option":"liacový bežec  ","correct":false}]},{"q":" Na obrázku je:\r","a":[{"option":"pachoľa ","correct":false},{"option":"bitva\r","correct":false},{"option":"rohatka\r\r","correct":false}]},{"q":" Na obrázku je:\r","a":[{"option":"odsávacia klapka\r","correct":false},{"option":"vetračka\r","correct":false},{"option":"zásuvka vyvažovacieho pásu  ","correct":false}]},{"q":" Prístroj na obrázku je:\r","a":[{"option":"anemometer\r","correct":false},{"option":"laserový diaľkomer ","correct":false},{"option":"sextant  ","correct":false}]},{"q":" Zariadenie na obrázku je\r","a":[{"option":"kniha kormidla\r","correct":false},{"option":"záves rahna\r","correct":false},{"option":"záves spinakrového pňa  ","correct":false}]},{"q":" Na obrázku je:\r","a":[{"option":"anténa GPS\r","correct":false},{"option":"anténa núdzovej rádiostanice ","correct":false},{"option":"radarový odrážač  ","correct":false}]},{"q":" Uzol na obrázku slúži na:\r","a":[{"option":"zabránenie vyvlečenia lana z kosatkového prievlaku alebo kladky\r","correct":false},{"option":"skracovanie\r","correct":false},{"option":"na pevné uviazanie, napr. spúšte spinakra  ","correct":false}]},{"q":" Uzol na obrázku slúži na:\r","a":[{"option":"zabránenie vyvlečenia lana z kosatkového prievlaku alebo kladky\r","correct":false},{"option":"skracovanie\r","correct":false},{"option":"na pevné uviazanie, napr. spúšte spinakra\r\r","correct":false}]},{"q":" Na obrázku je kotva:\r","a":[{"option":"pluhová\r","correct":false},{"option":"admirálska ","correct":false},{"option":"Danforthova  ","correct":false}]},{"q":" Na obrázku je kotva:\r","a":[{"option":"pluhová\r","correct":false},{"option":"admirálska ","correct":false},{"option":"Danforthova  ","correct":false}]},{"q":" Na obrázku je kotva:\r","a":[{"option":"pluhová\r","correct":false},{"option":"admirálska ","correct":false},{"option":"Danforthova  ","correct":false}]},{"q":" Na obrázku je kotva:\r","a":[{"option":"skladaná\r","correct":false},{"option":"pluhová\r","correct":false},{"option":"Danforthova\r\r","correct":false}]},{"q":" Na obrázku sú plachetnice triedy:\r","a":[{"option":"optimist ","correct":false},{"option":"cadet\r","correct":false},{"option":"európa  ","correct":false}]},{"q":" Na obrázku sú plachetnice triedy:\r","a":[{"option":"optimist ","correct":false},{"option":"cadet\r","correct":false},{"option":"európa  ","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"optimist ","correct":false},{"option":"cadet\r","correct":false},{"option":"RSX  ","correct":false}]},{"q":" Na obrázku sú plachetnice triedy:\r","a":[{"option":"„420“ ","correct":false},{"option":"„470“ ","correct":false},{"option":"fireball\r\r","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"„420“ ","correct":false},{"option":"„470“ ","correct":false},{"option":"fireball  ","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"„420“ ","correct":false},{"option":"„470“ ","correct":false},{"option":"fireball\r\r","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"vaurien ","correct":false},{"option":"pirát\r","correct":false},{"option":"finn  ","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"vaurien ","correct":false},{"option":"yngling ","correct":false},{"option":"finn\r\r","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"vaurien ","correct":false},{"option":"pirát\r","correct":false},{"option":"finn  ","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"lietajúci Holanďan ","correct":false},{"option":"star\r","correct":false},{"option":"soling  ","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"lietajúci Holanďan ","correct":false},{"option":"star\r","correct":false},{"option":"soling\r\r","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"lietajúci Holanďan ","correct":false},{"option":"star\r","correct":false},{"option":"soling\r\r","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"laser\r","correct":false},{"option":"40-er ","correct":false},{"option":"tornádo  ","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"laser\r","correct":false},{"option":"49-er ","correct":false},{"option":"tornádo\r\r","correct":false}]},{"q":" Na obrázku je plachetnica triedy:\r","a":[{"option":"laser\r","correct":false},{"option":"40-er ","correct":false},{"option":"tornádo  ","correct":false}]},{"q":" Bočný priemet zanorenej časti lodného trupu sa volá: ","a":[{"option":"materiál\r","correct":false},{"option":"laterál ","correct":false},{"option":"kvadrant  ","correct":false}]},{"q":" Na vyťahovanie plachiet na sťažeň slúžia: ","a":[{"option":"spúšte\r","correct":false},{"option":"oťaže ","correct":false},{"option":"kiking\r\r","correct":false}]},{"q":" Tvar profilu plachty a najmä jeho hĺbka (brucho): ","a":[{"option":"ovplyvňuje veľkosť aerodynamickej sily\r","correct":false},{"option":"neovplyvňuje veľkosť aerodynamickej sily\r","correct":false},{"option":"neovplyvňuje len tlakovú zložku aerodynamickej sily  ","correct":false}]},{"q":" Pri silnejúcom vetre sa snažíme:\r","a":[{"option":"zväčšiť plochu plachty\r","correct":false},{"option":"zmenšiť plochu plachty\r","correct":false},{"option":"vytiahneme prídavné oplachtenie - napr. spinaker  ","correct":false}]},{"q":" Plachetnica, ktorá má vietor sprava:\r","a":[{"option":"je povinná vyhnúť sa každej inej plachetnici\r","correct":false},{"option":"má prednosť pred plachetnicami plávajúcimi na iný vietor ","correct":false},{"option":"je povinná vyhnúť plachetnici, ktorá má vietor zľava  ","correct":false}]},{"q":" Plachetnica, ktorá má vietor zľava:\r","a":[{"option":"ak je v blízkosti iná plachetnica, nesmie meniť smer kurzu ","correct":false},{"option":"je povinná vyhnúť sa každej inej plachetnici\r","correct":false},{"option":"je povinná vyhnúť sa plachetnici, ktorá má vietor sprava  ","correct":false}]},{"q":" Keď plachetnica s právom plavby mení smer plavby: ","a":[{"option":"musí dať druhej plachetnici možnosť k uhýbaniu\r","correct":false},{"option":"nesmie dať druhej plachetnici možnosť k uhýbaniu\r","correct":false},{"option":"ak je v blízkosti motorový čln, toto právo plachetnica stráca  ","correct":false}]},{"q":" Ak dve plachetnice majú vietor z rovnakej strany:\r","a":[{"option":"musí vyhýbať náveterná loď záveternej ","correct":false},{"option":"musí vyhýbať záveterná loď náveternej ","correct":false},{"option":"musia sa dohodnúť pomocou signálov  ","correct":false}]},{"q":" S plachetnicou pod plachtami pristávame vždy:\r","a":[{"option":"po vetre\r","correct":false},{"option":"proti vetru\r","correct":false},{"option":"s plachtami na ľavobok\r","correct":false}]}]}
+{   "info": {
+        "name":    "The Quiz Header",
+        "main":    "The Quiz Description Text",
+        "results": "The Quiz Results Copy",
+        "level1":  "The highest ranking",
+        "level2":  "The almost highest ranking",
+        "level3":  "The middle ranking",
+        "level4":  "The almost lowest ranking",
+        "level5":  "The lowest ranking"
+    },
+    "questions": [
+        {
+            "q": " Výraz „oťaž“ označuje:\r",
+            "a": [
+                {
+                    "option": "lano slúžiace k vyťahovaniu a spúšťaniu plavidiel ",
+                    "correct": false
+                },
+                {
+                    "option": "lano slúžiace na ovládanie plachiet\r",
+                    "correct": false
+                },
+                {
+                    "option": "vlečné lano\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Výraz „vzpera“ označuje:\r",
+            "a": [
+                {
+                    "option": "výstuhy plachty na jej zadnom leme\r",
+                    "correct": false
+                },
+                {
+                    "option": "predĺženú páku kormidla\r",
+                    "correct": false
+                },
+                {
+                    "option": "jeden z pásov tkaniny, z ktorých je zostavená plachta\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Výraz „pina“ označuje:\r",
+            "a": [
+                {
+                    "option": "výstuhu plachty na jej zadnom leme\r",
+                    "correct": false
+                },
+                {
+                    "option": "predĺženú páku kormidla\r",
+                    "correct": false
+                },
+                {
+                    "option": "jeden z pásov tkaniny, z ktorých je zostavená plachta\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Koruhvička je:\r",
+            "a": [
+                {
+                    "option": "nádobka na čerpanie vody ",
+                    "correct": false
+                },
+                {
+                    "option": "ukazovateľ smeru vetra ",
+                    "correct": false
+                },
+                {
+                    "option": "priečna palubná výstuha\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Kokpit je miesto:\r",
+            "a": [
+                {
+                    "option": "miesto, kde sa zdržiava posádka\r",
+                    "correct": false
+                },
+                {
+                    "option": "priestor vo vnútri vzduchových komôr ",
+                    "correct": false
+                },
+                {
+                    "option": "podpalubný priestor\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Saling je:\r",
+            "a": [
+                {
+                    "option": "priečna výstuha sťažňa ",
+                    "correct": false
+                },
+                {
+                    "option": "názov lodnej triedy\r",
+                    "correct": false
+                },
+                {
+                    "option": "pozdĺžna výstuha sťažňa\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Dacron je:\r",
+            "a": [
+                {
+                    "option": "typ kotvy\r",
+                    "correct": false
+                },
+                {
+                    "option": "materiál na výrobu plachiet ",
+                    "correct": false
+                },
+                {
+                    "option": "materiál na výrobu lán\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Lano schopné plávať na vode je z: ",
+            "a": [
+                {
+                    "option": "polyesteru\r",
+                    "correct": false
+                },
+                {
+                    "option": "bavlny\r",
+                    "correct": false
+                },
+                {
+                    "option": "polyamidu\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Bočný steh je:\r",
+            "a": [
+                {
+                    "option": "steh na boku plachty\r",
+                    "correct": false
+                },
+                {
+                    "option": "oceľové lanko, ktorým je kotvený stožiar a na ktorom je navlečená kosatka ",
+                    "correct": false
+                },
+                {
+                    "option": "oceľové lanko, ktoré kotví sťažeň na bok plachetnice\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Šekel je:\r",
+            "a": [
+                {
+                    "option": "oceľový spojovací prvok\r",
+                    "correct": false
+                },
+                {
+                    "option": "úprava plutvy plavidla\r",
+                    "correct": false
+                },
+                {
+                    "option": "záťažová časť kýlu plachetnice\r\r ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Zrkadlo je:\r",
+            "a": [
+                {
+                    "option": "plochá korma, vhodná na zavesenie kormidla alebo motora\r",
+                    "correct": false
+                },
+                {
+                    "option": "miesto zasunutia plutvy\r",
+                    "correct": false
+                },
+                {
+                    "option": "prepážka, oddeľujúca obytnú časť plachetnice od miesta určeného na uloženie paliva\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Katamarán je:\r",
+            "a": [
+                {
+                    "option": "trojtrupové plavidlo\r",
+                    "correct": false
+                },
+                {
+                    "option": "jednotrupové plavidlo (tzv. monohull) ",
+                    "correct": false
+                },
+                {
+                    "option": "dvojtrupové plavidlo\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Trimaran je\r",
+            "a": [
+                {
+                    "option": "jednotrupové plavidlo (tzv. monohull) ",
+                    "correct": false
+                },
+                {
+                    "option": "dvojtrupové plavidlo\r",
+                    "correct": false
+                },
+                {
+                    "option": "trojtrupové plavidlo\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Obšívka je:\r",
+            "a": [
+                {
+                    "option": "pozdĺžna výstuha plachetnice ",
+                    "correct": false
+                },
+                {
+                    "option": "priečna výstuha plachetnice ",
+                    "correct": false
+                },
+                {
+                    "option": "„škrupina trupu“  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Chrbtica je:\r",
+            "a": [
+                {
+                    "option": "hlavný pozdĺžny nosník ",
+                    "correct": false
+                },
+                {
+                    "option": "hlavné rebro\r",
+                    "correct": false
+                },
+                {
+                    "option": "hlavná vodoryska  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Kostra je tvorená:\r",
+            "a": [
+                {
+                    "option": "rebrami\r",
+                    "correct": false
+                },
+                {
+                    "option": "rebrami a pozdĺžnikmi ",
+                    "correct": false
+                },
+                {
+                    "option": "pozdĺžnikmi  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Zvor je:\r",
+            "a": [
+                {
+                    "option": "spoločná palubu a bok plachetnice\r\r",
+                    "correct": false
+                },
+                {
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Útor je:\r",
+            "a": [
+                {
+                    "option": "spoločná pre palubu a bok plachetnice\r\r",
+                    "correct": false
+                },
+                {
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Sťažeň nemôže byť: ",
+            "a": [
+                {
+                    "option": "duralový\r",
+                    "correct": false
+                },
+                {
+                    "option": "mosadzný ",
+                    "correct": false
+                },
+                {
+                    "option": "drevený  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Kiking je:\r",
+            "a": [
+                {
+                    "option": "výstuha rahna\r",
+                    "correct": false
+                },
+                {
+                    "option": "kladkostroj, zabraňujúci dvíhaniu rahna ",
+                    "correct": false
+                },
+                {
+                    "option": "záves rahna\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Úpon je:\r",
+            "a": [
+                {
+                    "option": "lanko na spúšťanie hlavnej plachty\r",
+                    "correct": false
+                },
+                {
+                    "option": "lanko kotviace sťažeň\r",
+                    "correct": false
+                },
+                {
+                    "option": "lanko, napínajúce predný lem kosatky  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Danforthova kotva je určená: ",
+            "a": [
+                {
+                    "option": "do kamenistého dna\r",
+                    "correct": false
+                },
+                {
+                    "option": "do bahnitého alebo piesčitého dna\r",
+                    "correct": false
+                },
+                {
+                    "option": "len na vlečenie pri spomaľovaní dryfu  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Admirálska kotva je určená: ",
+            "a": [
+                {
+                    "option": "do kamenistého dna\r",
+                    "correct": false
+                },
+                {
+                    "option": "do bahnitého alebo piesčitého dna\r",
+                    "correct": false
+                },
+                {
+                    "option": "len na vlečenie pri spomaľovaní dryfu  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Šarpiový tvar trupu plachetnice je, keď: ",
+            "a": [
+                {
+                    "option": "plachetnica má oblé rebrá\r",
+                    "correct": false
+                },
+                {
+                    "option": "plachetnica má sedlovitú palubu\r",
+                    "correct": false
+                },
+                {
+                    "option": "plachetnica má hranaté rebrá  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Jolový tvar plachetnice je, keď plachetnica má: ",
+            "a": [
+                {
+                    "option": "oblé rebrá\r",
+                    "correct": false
+                },
+                {
+                    "option": "hranaté rebrá\r",
+                    "correct": false
+                },
+                {
+                    "option": "sedlovitosť v palube  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Curry svorka je:\r",
+            "a": [
+                {
+                    "option": "mechanicky činná zdrž\r",
+                    "correct": false
+                },
+                {
+                    "option": "rozoberateľný spoj, vytvárajúci očko na oceľovom lanku\r",
+                    "correct": false
+                },
+                {
+                    "option": "poistka, zabraňujúca vypadnutiu kormidla pri prevrátení plachetnice  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Prístroj na meranie rýchlosti vetra je:\r",
+            "a": [
+                {
+                    "option": "sextant\r",
+                    "correct": false
+                },
+                {
+                    "option": "anemometer ",
+                    "correct": false
+                },
+                {
+                    "option": "gyroskop  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Sextant je:\r",
+            "a": [
+                {
+                    "option": "prístroj na meranie rýchlosti vetra\r",
+                    "correct": false
+                },
+                {
+                    "option": "prístroj na meranie rýchlosti plachetnice voči dnu ",
+                    "correct": false
+                },
+                {
+                    "option": "prístroj na meranie výšky nebeských telies  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Log je:\r",
+            "a": [
+                {
+                    "option": "zariadenie na určovanie rýchlosti lode\r",
+                    "correct": false
+                },
+                {
+                    "option": "zariadenie na určovanie námerov na pobrežné telesá ",
+                    "correct": false
+                },
+                {
+                    "option": "hĺbkomer  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " V uzloch (knotoch) sa udáva:\r",
+            "a": [
+                {
+                    "option": "výška vlnenia\r",
+                    "correct": false
+                },
+                {
+                    "option": "veľkosť náklonu plachetnice ",
+                    "correct": false
+                },
+                {
+                    "option": "rýchlosť plavidla\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Dryf (dryft) je:\r",
+            "a": [
+                {
+                    "option": "vlečená rukávová kotva\r",
+                    "correct": false
+                },
+                {
+                    "option": "bočné znášanie plachetnice\r",
+                    "correct": false
+                },
+                {
+                    "option": "najvyšší príliv v roku v dňoch rovnodennosti  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Takeláž je:\r",
+            "a": [
+                {
+                    "option": "celá plachetná výstroj plachetnoce\r",
+                    "correct": false
+                },
+                {
+                    "option": "ochranná plachta, chrániaca loď pred účinkami počasia ",
+                    "correct": false
+                },
+                {
+                    "option": "lano, slúžiace na vyťahovanie a spúšťanie plachiet  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Stabilita je:\r",
+            "a": [
+                {
+                    "option": "schopnosť plachetnice vrátiť sa po vychýlení do rovnovážnej polohy ",
+                    "correct": false
+                },
+                {
+                    "option": "schopnosť zachovávať smer plavby\r",
+                    "correct": false
+                },
+                {
+                    "option": "schopnosť nepotopiteľnosti  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Spinaker je:\r",
+            "a": [
+                {
+                    "option": "trojuholníková plachta, vyťahovaná za slabého vetra nad galfové rahno\r",
+                    "correct": false
+                },
+                {
+                    "option": "trojuholníková plachta v tvare guľového výseku, používaná pri plavbe na zadný a zadobočný vietor ",
+                    "correct": false
+                },
+                {
+                    "option": "štvoruholníková vratiplachta  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Perzenik je:\r",
+            "a": [
+                {
+                    "option": "výstuha rebra\r",
+                    "correct": false
+                },
+                {
+                    "option": "kosatka\r",
+                    "correct": false
+                },
+                {
+                    "option": "krycia plachta plachetnice  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Genua je:\r",
+            "a": [
+                {
+                    "option": "pomocná vratiplachta\r",
+                    "correct": false
+                },
+                {
+                    "option": "trojuholníková plachta zavesená pred kosatkou\r",
+                    "correct": false
+                },
+                {
+                    "option": "druh kosatky, ktorá pri maximálnom pritiahnutí presahuje z boku sťažeň  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Náveterná strana lode je:\r",
+            "a": [
+                {
+                    "option": "tá, z ktorej vietor z plachetnice „odchádza“, teda tá, na ktorej sú plachty ",
+                    "correct": false
+                },
+                {
+                    "option": "tá, ktorá je vystavená vetru\r",
+                    "correct": false
+                },
+                {
+                    "option": "strana, pri ktorej loď pláva v čo najmenšom uhle ku smere vetra  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Aké svetlá zodpovedajú predpisom, vzťahujúcim sa na malé plachetnice?\r",
+            "a": [
+                {
+                    "option": "jedno obyčajné žlté vrcholové svetlo\r",
+                    "correct": false
+                },
+                {
+                    "option": "obyčajné bočné svetlá a kormové svetlo umiestnené v jednom svietidle a na vhodnom miesta na vrchole alebo v hornej časti stožiara ",
+                    "correct": false
+                },
+                {
+                    "option": "nemusí niesť svetlo  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Určite pojem „plachetnica“\r",
+            "a": [
+                {
+                    "option": "je plavidlo, plávajúce pomocou plachiet, ktoré používa pomocný stroj o max. výkone 15 kW ",
+                    "correct": false
+                },
+                {
+                    "option": "také plavidlo s vlastným strojným pohonom, ktorému hlavným pohonom je plachta\r",
+                    "correct": false
+                },
+                {
+                    "option": "je plavidlo, plávajúce pomocou plachiet  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Stabilita plachetnice závisí:\r",
+            "a": [
+                {
+                    "option": "od tvaru a veľkosti lodného trupu, rozdelenia hmotnosti trupu a taleláže a od veľkosti a rozmiestnenia takeláže\r",
+                    "correct": false
+                },
+                {
+                    "option": "od používania vyvažovacej hrazdy ",
+                    "correct": false
+                },
+                {
+                    "option": "výlučne od hmotnosti posádky\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Pri plavbe v silnom vetre je výhodnejšia plachta:\r",
+            "a": [
+                {
+                    "option": "s menším vydutím ",
+                    "correct": false
+                },
+                {
+                    "option": "s väčším vydutím ",
+                    "correct": false
+                },
+                {
+                    "option": "celkom plochá  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Záveterná strana plachetnice je:\r",
+            "a": [
+                {
+                    "option": "tá strana, z ktorej vietor „odchádza“, a teda sú na tejto strane plachty\r",
+                    "correct": false
+                },
+                {
+                    "option": "tá strana, z ktorej vietor „prichádza“, a teda nie sú na tejto strane plachty ",
+                    "correct": false
+                },
+                {
+                    "option": "miesto v závetrí prekážky na vodnej ploche, v ktorom pláva plachetnica  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Schopnosť križovať čo najostrejšie proti vetru je podmienená: ",
+            "a": [
+                {
+                    "option": "zmenšením náklonu sťažňa\r",
+                    "correct": false
+                },
+                {
+                    "option": "vytiahnutím plutvy pre zmenšenie brzdného odporu\r",
+                    "correct": false
+                },
+                {
+                    "option": "tvarom trupu a oplachtením  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Výlučne pretlak využíva plachetnica pri plavbe: ",
+            "a": [
+                {
+                    "option": "na bočný vietor\r",
+                    "correct": false
+                },
+                {
+                    "option": "na predobočný vietor\r",
+                    "correct": false
+                },
+                {
+                    "option": "na zadný vietor  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Vodca plachetnice zbadal na vodnej hladine blížiaci sa náraz vetra, preto:\r",
+            "a": [
+                {
+                    "option": " ",
+                    "correct": false
+                },
+                {
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Aké doklady musí mať u seba na plavidle vodca plachetnice s plochou plachiet väčšou ako 12m ?\r",
+            "a": [
+                {
+                    "option": "preukaz spôsobilosti a občiansky preukaz\r",
+                    "correct": false
+                },
+                {
+                    "option": "lodné osvedčenie a občiansky preukaz\r",
+                    "correct": false
+                },
+                {
+                    "option": "lodné osvedčenie, preukaz odbornej spôsobilosti vodcu malého plavidla a doklad o poistení za škodu spôsobenú prevádzkou plavidla  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Plachetnica, ktorá pri plavbe využíva plachty a zároveň strojný pohon:\r",
+            "a": [
+                {
+                    "option": "sa vyhýba rovnako ako plachetnica, ktorá využíva pri plavbe iba plachty\r",
+                    "correct": false
+                },
+                {
+                    "option": "sa musí vyhnúť plachetniciam, ktoré využívajú iba plachty, ale má prednosť pred motorovými loďami\r",
+                    "correct": false
+                },
+                {
+                    "option": "má rovnaké práva a povinnosti ako motorová loď príslušnej veľkosti  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Výraz „stúpať“ (vyostrovať) znamená:\r",
+            "a": [
+                {
+                    "option": "zmenšovať uhol kurzu plachetnice a smeru vetra\r",
+                    "correct": false
+                },
+                {
+                    "option": "zväčšovať uhol kurzu plachetnice a smeru vetra\r",
+                    "correct": false
+                },
+                {
+                    "option": "presúvanie posádky čo najviac na kormu pri vzniku kĺzania  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Výraz „odpadávať znamená:\r",
+            "a": [
+                {
+                    "option": "zmenšovať uhol kurzu plachetnice a smeru vetra\r",
+                    "correct": false
+                },
+                {
+                    "option": "zväčšovať uhol kurzu plachetnice a smeru vetra\r",
+                    "correct": false
+                },
+                {
+                    "option": "presúvanie posádky čo najviac k prove pri vzniku kĺzania  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Vodca plachetnice sa rozhodol predísť plachetnicu, plávajúcu pred ním a urobí to: ",
+            "a": [
+                {
+                    "option": "po náveternej strane, aby využil „čistý“ vietor\r",
+                    "correct": false
+                },
+                {
+                    "option": "po záveternej strane, aby využil „veterný tieň“\r",
+                    "correct": false
+                },
+                {
+                    "option": "požiada vodcu takejto plachetnice o zmenu kurzu vo svoj prospech\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Vodca plachetnice má v úmysle poskytnúť pomoc inej plachetnici. Priblíži sa k nej: ",
+            "a": [
+                {
+                    "option": "tak, aby bol obrátený proti vetru\r",
+                    "correct": false
+                },
+                {
+                    "option": "tak, aby bol obrátený na bočný vietor\r",
+                    "correct": false
+                },
+                {
+                    "option": "tak, aby bol obrátený na zadný vietor  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Výraz „halza“ (prehodenie) je:\r",
+            "a": [
+                {
+                    "option": "taká zmena kurzu, kedy v jednom momente je plachetnica v postavení „proti vetru“\r",
+                    "correct": false
+                },
+                {
+                    "option": "druh dreviny, ľahkej dreviny používanej pri stavbe plavidiel\r",
+                    "correct": false
+                },
+                {
+                    "option": "taká zmena kurzu, kedy plachetnica je v jednom momente v postavení „na zadný vietor“  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Obrat („kravská otáčka“) je:\r",
+            "a": [
+                {
+                    "option": "vytočenie plachetnice do postavenia „proti vetru“ pre zníženie rizika prevrátenia\r",
+                    "correct": false
+                },
+                {
+                    "option": "taká zmena kurzu, pri ktorom je plachetnica v jednom momente v postavení „na zadný vietor“ ",
+                    "correct": false
+                },
+                {
+                    "option": "taká zmena kurzu, kedy v jednom momente je plachetnica v postavení „proti vetru“  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Vodca plachetnice zisti, že záveterný úpon je prasknutý preto:\r",
+            "a": [
+                {
+                    "option": "pokračuje v pôvodnom kurze a pokúsi sa pristáť na najbližšom brehu tak, aby tento úpon bol stále záveterný\r",
+                    "correct": false
+                },
+                {
+                    "option": "okamžite vykoná obrat, aby úpon bol náveterný a pokúsi sa pristáť na najbližšom brehu tak, aby tento úpon bol stále náveterný\r",
+                    "correct": false
+                },
+                {
+                    "option": "ihneď stiahne plachty a požiada o pomoc iné plavidlo  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Chybou posádky sa spinaker dostal pod plachetnicu. Vodca preto:\r",
+            "a": [
+                {
+                    "option": "stiahne plachty a zavolá pomoc, aby zabránil ďalším škodám\r",
+                    "correct": false
+                },
+                {
+                    "option": "prikáže sklopiť plutvu a sklopí kormidlo, aby loď preplávala ponad spinaker\r",
+                    "correct": false
+                },
+                {
+                    "option": "obráti plachetnicu proti vetru, prikáže odviazať oťaže a spinaker vytiahnuť von  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ktorá loď sa nemusí vyhýbať? ",
+            "a": [
+                {
+                    "option": "loď č. 1\r",
+                    "correct": false
+                },
+                {
+                    "option": "loď č. 3 ",
+                    "correct": false
+                },
+                {
+                    "option": "loď č. 2  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ktorá z plachetníc má prednosť?\r",
+            "a": [
+                {
+                    "option": "biela, pretože je náveterná\r",
+                    "correct": false
+                },
+                {
+                    "option": "biela, pretože sa približuje k červenej z pravej strany ",
+                    "correct": false
+                },
+                {
+                    "option": "červená, pretože je záveterná\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Červená plachetnica má prednosť pretože: ",
+            "a": [
+                {
+                    "option": "biela plachetnica je náveterná\r",
+                    "correct": false
+                },
+                {
+                    "option": "biela plachetnica je záveterná\r",
+                    "correct": false
+                },
+                {
+                    "option": "biela plachetnica pláva pomalšie  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ktorá z plachetníc má prednosť? ",
+            "a": [
+                {
+                    "option": "biela plachetnica, pretože pláva rýchlejšie ",
+                    "correct": false
+                },
+                {
+                    "option": "červená plachetnica, pretože ju biela „vidí“ prichádzať z pravej strany\r",
+                    "correct": false
+                },
+                {
+                    "option": "červená plachetnica, pretože je záveterná  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ktorá z plachetníc sa bude vyhýbať? ",
+            "a": [
+                {
+                    "option": "biela, pretože má vietor sprava\r",
+                    "correct": false
+                },
+                {
+                    "option": "červená, pretože má vietor zľava\r",
+                    "correct": false
+                },
+                {
+                    "option": "biela, pretože je záveterná  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ktorá z plachetníc sa bude vyhýbať? ",
+            "a": [
+                {
+                    "option": "biela, pretože je v postavení na „zadný vietor“ ",
+                    "correct": false
+                },
+                {
+                    "option": "biela, pretože červená nesie čierny kužeľ\r",
+                    "correct": false
+                },
+                {
+                    "option": "červená, pretože nesie čierny kužeľ\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ak sú obidve plachetnice rovnakej triedy, ktorá z nich pláva rýchlejšie?\r",
+            "a": [
+                {
+                    "option": "biela, pretože pláva ostrejšie proti vetru\r",
+                    "correct": false
+                },
+                {
+                    "option": "biela, pretože pláva po vetre\r",
+                    "correct": false
+                },
+                {
+                    "option": "červená, pretože pláva ostrejšie proti vetru  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Biela plachetnica má v úmysle zmeniť kurz tak, že bude križovať plavebnú dráhu červenej plachetnice:\r",
+            "a": [
+                {
+                    "option": "červená plachetnica musí vykonať rovnaký manéver, pretože biela plachetnica bude mať po zmene kurzu vietor sprava\r",
+                    "correct": false
+                },
+                {
+                    "option": "červená plachetnica môže odoprieť vykonať takýto manéver, pretože je náveterná a tým prinúti bielu pokračovať v pôvodnom kurze\r",
+                    "correct": false
+                },
+                {
+                    "option": "biela plachetnica nesmie takýto manéver vykonať\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ktorá z plachetníc sa bude vyhýbať ako prvá? ",
+            "a": [
+                {
+                    "option": "biela\r",
+                    "correct": false
+                },
+                {
+                    "option": "červená ",
+                    "correct": false
+                },
+                {
+                    "option": "modrá  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ktorá z plachetníc sa nemusí uhýbať (má prednosť)?\r",
+            "a": [
+                {
+                    "option": "biela\r",
+                    "correct": false
+                },
+                {
+                    "option": "modrá ",
+                    "correct": false
+                },
+                {
+                    "option": "červená\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ktorá z plachetníc má prednosť? ",
+            "a": [
+                {
+                    "option": "biela\r",
+                    "correct": false
+                },
+                {
+                    "option": "modrá ",
+                    "correct": false
+                },
+                {
+                    "option": "červená  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ktorá z plachetníc má prednosť? ",
+            "a": [
+                {
+                    "option": "biela\r",
+                    "correct": false
+                },
+                {
+                    "option": "modrá ",
+                    "correct": false
+                },
+                {
+                    "option": "červená\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Loď č. 1:\r",
+            "a": [
+                {
+                    "option": "má prednosť, pretože má vietor zľava\r",
+                    "correct": false
+                },
+                {
+                    "option": "sa musí vyhnúť, pretože loď č. 2 má vietor sprava ",
+                    "correct": false
+                },
+                {
+                    "option": "sa musí vyhnúť, pretože je záveterná\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ktorá z plachetníc sa nebude určite vyhýbať?\r",
+            "a": [
+                {
+                    "option": "biela\r",
+                    "correct": false
+                },
+                {
+                    "option": "modrá ",
+                    "correct": false
+                },
+                {
+                    "option": "červená\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Červená plachetnica má v úmysle vykonať obrat, preto musí žiadať bielu o miesto. Biela plachetnica:\r",
+            "a": [
+                {
+                    "option": "musí túto požiadavku akceptovať vždy, aj keby neboli na okraji plavebnej dráhy\r",
+                    "correct": false
+                },
+                {
+                    "option": "musí túto požiadavku akceptovať, pretože červená plachetnica má prekážku v dráhe\r",
+                    "correct": false
+                },
+                {
+                    "option": "nemusí túto požiadavku akceptovať  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Vyváženosť plachetnice je: ",
+            "a": [
+                {
+                    "option": "takeláž\r",
+                    "correct": false
+                },
+                {
+                    "option": "trim\r",
+                    "correct": false
+                },
+                {
+                    "option": "stabilita  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Plachetnica je náveterná ak:\r",
+            "a": [
+                {
+                    "option": "sa stáča proti vetru ",
+                    "correct": false
+                },
+                {
+                    "option": "sa stáča do závetria ",
+                    "correct": false
+                },
+                {
+                    "option": "sa nestáča  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Plachetnica je záveterná ak:\r",
+            "a": [
+                {
+                    "option": "sa stáča proti vetru ",
+                    "correct": false
+                },
+                {
+                    "option": "sa stáča do závetria ",
+                    "correct": false
+                },
+                {
+                    "option": "sa nestáča  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " K pevnému lanoviu nepatria:\r",
+            "a": [
+                {
+                    "option": "stehy ",
+                    "correct": false
+                },
+                {
+                    "option": "liace ",
+                    "correct": false
+                },
+                {
+                    "option": "lemy  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " K pohyblivému lanoviu patria:\r",
+            "a": [
+                {
+                    "option": "stehy ",
+                    "correct": false
+                },
+                {
+                    "option": "liace ",
+                    "correct": false
+                },
+                {
+                    "option": "lemy  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Refovanie „kasanie“ je:\r",
+            "a": [
+                {
+                    "option": "spúšťanie spinakra a jeho nastavovanie do polohy, v ktorej dáva najväčší ťah\r",
+                    "correct": false
+                },
+                {
+                    "option": "manéver, pri ktorom ostrejšie stúpajúca plachetnica v závetrí núti plachetnicu v návetrí vykonať obrat\r",
+                    "correct": false
+                },
+                {
+                    "option": "zmenšovanie plochy plachty  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Plachta určite nemá: ",
+            "a": [
+                {
+                    "option": "spodná lem\r",
+                    "correct": false
+                },
+                {
+                    "option": "bočný lem ",
+                    "correct": false
+                },
+                {
+                    "option": "zadný lem  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Genaker je:\r",
+            "a": [
+                {
+                    "option": "bezanová plachta\r",
+                    "correct": false
+                },
+                {
+                    "option": "asymetrický spinaker\r",
+                    "correct": false
+                },
+                {
+                    "option": "spinakrový vodiaci tunel\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Spinakrový peň je:\r",
+            "a": [
+                {
+                    "option": "pomocné „rahno“ spinakra\r",
+                    "correct": false
+                },
+                {
+                    "option": "časť sťažňa, slúžiaca na nesenie spinakra\r",
+                    "correct": false
+                },
+                {
+                    "option": "časť v kokpite plavidla, slúžiaca na spúšťanie spinakra  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Lavírovanie je:\r",
+            "a": [
+                {
+                    "option": "striedavé nakláňanie plachetnice zo závetria do návetria, slúžiace na podporu prúdenia v profile plachty\r",
+                    "correct": false
+                },
+                {
+                    "option": "jazda na zadný vietor v postavení plachiet „na motýľa“\r",
+                    "correct": false
+                },
+                {
+                    "option": "križovanie plachetnice do bodu, ktorý je z jej pohľadu proti vetru  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Spodná hrana zrkadla plachetnice je zväčša: ",
+            "a": [
+                {
+                    "option": "tesne pod hladinou\r",
+                    "correct": false
+                },
+                {
+                    "option": "tesne nad hladinou\r",
+                    "correct": false
+                },
+                {
+                    "option": "hlboko pod hladinou  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Prístroj na obrázku je:\r",
+            "a": [
+                {
+                    "option": "sextant\r",
+                    "correct": false
+                },
+                {
+                    "option": "log\r",
+                    "correct": false
+                },
+                {
+                    "option": "anemometer  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Zariadenie na obrázku je:\r",
+            "a": [
+                {
+                    "option": "veterná korúhvička\r",
+                    "correct": false
+                },
+                {
+                    "option": "kurzový námerník\r",
+                    "correct": false
+                },
+                {
+                    "option": "automatické kormidlo  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Predmet na obrázku je:\r",
+            "a": [
+                {
+                    "option": "poistka proti vypadnutiu kormidla pri prevrátení plachetnice\r",
+                    "correct": false
+                },
+                {
+                    "option": "poistka proti vypadnutiu spiry ",
+                    "correct": false
+                },
+                {
+                    "option": "šekel  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Zariadenie na obrázku je:\r",
+            "a": [
+                {
+                    "option": "mechanicky činná zdrž - curry svorka (camcleat) ",
+                    "correct": false
+                },
+                {
+                    "option": "prievlak\r",
+                    "correct": false
+                },
+                {
+                    "option": "liacový bežec  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je:\r",
+            "a": [
+                {
+                    "option": "pachoľa ",
+                    "correct": false
+                },
+                {
+                    "option": "bitva\r",
+                    "correct": false
+                },
+                {
+                    "option": "rohatka\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je:\r",
+            "a": [
+                {
+                    "option": "odsávacia klapka\r",
+                    "correct": false
+                },
+                {
+                    "option": "vetračka\r",
+                    "correct": false
+                },
+                {
+                    "option": "zásuvka vyvažovacieho pásu  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Prístroj na obrázku je:\r",
+            "a": [
+                {
+                    "option": "anemometer\r",
+                    "correct": false
+                },
+                {
+                    "option": "laserový diaľkomer ",
+                    "correct": false
+                },
+                {
+                    "option": "sextant  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Zariadenie na obrázku je\r",
+            "a": [
+                {
+                    "option": "kniha kormidla\r",
+                    "correct": false
+                },
+                {
+                    "option": "záves rahna\r",
+                    "correct": false
+                },
+                {
+                    "option": "záves spinakrového pňa  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je:\r",
+            "a": [
+                {
+                    "option": "anténa GPS\r",
+                    "correct": false
+                },
+                {
+                    "option": "anténa núdzovej rádiostanice ",
+                    "correct": false
+                },
+                {
+                    "option": "radarový odrážač  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Uzol na obrázku slúži na:\r",
+            "a": [
+                {
+                    "option": "zabránenie vyvlečenia lana z kosatkového prievlaku alebo kladky\r",
+                    "correct": false
+                },
+                {
+                    "option": "skracovanie\r",
+                    "correct": false
+                },
+                {
+                    "option": "na pevné uviazanie, napr. spúšte spinakra  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Uzol na obrázku slúži na:\r",
+            "a": [
+                {
+                    "option": "zabránenie vyvlečenia lana z kosatkového prievlaku alebo kladky\r",
+                    "correct": false
+                },
+                {
+                    "option": "skracovanie\r",
+                    "correct": false
+                },
+                {
+                    "option": "na pevné uviazanie, napr. spúšte spinakra\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je kotva:\r",
+            "a": [
+                {
+                    "option": "pluhová\r",
+                    "correct": false
+                },
+                {
+                    "option": "admirálska ",
+                    "correct": false
+                },
+                {
+                    "option": "Danforthova  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je kotva:\r",
+            "a": [
+                {
+                    "option": "pluhová\r",
+                    "correct": false
+                },
+                {
+                    "option": "admirálska ",
+                    "correct": false
+                },
+                {
+                    "option": "Danforthova  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je kotva:\r",
+            "a": [
+                {
+                    "option": "pluhová\r",
+                    "correct": false
+                },
+                {
+                    "option": "admirálska ",
+                    "correct": false
+                },
+                {
+                    "option": "Danforthova  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je kotva:\r",
+            "a": [
+                {
+                    "option": "skladaná\r",
+                    "correct": false
+                },
+                {
+                    "option": "pluhová\r",
+                    "correct": false
+                },
+                {
+                    "option": "Danforthova\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku sú plachetnice triedy:\r",
+            "a": [
+                {
+                    "option": "optimist ",
+                    "correct": false
+                },
+                {
+                    "option": "cadet\r",
+                    "correct": false
+                },
+                {
+                    "option": "európa  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku sú plachetnice triedy:\r",
+            "a": [
+                {
+                    "option": "optimist ",
+                    "correct": false
+                },
+                {
+                    "option": "cadet\r",
+                    "correct": false
+                },
+                {
+                    "option": "európa  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "optimist ",
+                    "correct": false
+                },
+                {
+                    "option": "cadet\r",
+                    "correct": false
+                },
+                {
+                    "option": "RSX  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku sú plachetnice triedy:\r",
+            "a": [
+                {
+                    "option": "„420“ ",
+                    "correct": false
+                },
+                {
+                    "option": "„470“ ",
+                    "correct": false
+                },
+                {
+                    "option": "fireball\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "„420“ ",
+                    "correct": false
+                },
+                {
+                    "option": "„470“ ",
+                    "correct": false
+                },
+                {
+                    "option": "fireball  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "„420“ ",
+                    "correct": false
+                },
+                {
+                    "option": "„470“ ",
+                    "correct": false
+                },
+                {
+                    "option": "fireball\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "vaurien ",
+                    "correct": false
+                },
+                {
+                    "option": "pirát\r",
+                    "correct": false
+                },
+                {
+                    "option": "finn  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "vaurien ",
+                    "correct": false
+                },
+                {
+                    "option": "yngling ",
+                    "correct": false
+                },
+                {
+                    "option": "finn\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "vaurien ",
+                    "correct": false
+                },
+                {
+                    "option": "pirát\r",
+                    "correct": false
+                },
+                {
+                    "option": "finn  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "lietajúci Holanďan ",
+                    "correct": false
+                },
+                {
+                    "option": "star\r",
+                    "correct": false
+                },
+                {
+                    "option": "soling  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "lietajúci Holanďan ",
+                    "correct": false
+                },
+                {
+                    "option": "star\r",
+                    "correct": false
+                },
+                {
+                    "option": "soling\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "lietajúci Holanďan ",
+                    "correct": false
+                },
+                {
+                    "option": "star\r",
+                    "correct": false
+                },
+                {
+                    "option": "soling\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "laser\r",
+                    "correct": false
+                },
+                {
+                    "option": "40-er ",
+                    "correct": false
+                },
+                {
+                    "option": "tornádo  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "laser\r",
+                    "correct": false
+                },
+                {
+                    "option": "49-er ",
+                    "correct": false
+                },
+                {
+                    "option": "tornádo\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na obrázku je plachetnica triedy:\r",
+            "a": [
+                {
+                    "option": "laser\r",
+                    "correct": false
+                },
+                {
+                    "option": "40-er ",
+                    "correct": false
+                },
+                {
+                    "option": "tornádo  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Bočný priemet zanorenej časti lodného trupu sa volá: ",
+            "a": [
+                {
+                    "option": "materiál\r",
+                    "correct": false
+                },
+                {
+                    "option": "laterál ",
+                    "correct": false
+                },
+                {
+                    "option": "kvadrant  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Na vyťahovanie plachiet na sťažeň slúžia: ",
+            "a": [
+                {
+                    "option": "spúšte\r",
+                    "correct": false
+                },
+                {
+                    "option": "oťaže ",
+                    "correct": false
+                },
+                {
+                    "option": "kiking\r\r",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Tvar profilu plachty a najmä jeho hĺbka (brucho): ",
+            "a": [
+                {
+                    "option": "ovplyvňuje veľkosť aerodynamickej sily\r",
+                    "correct": false
+                },
+                {
+                    "option": "neovplyvňuje veľkosť aerodynamickej sily\r",
+                    "correct": false
+                },
+                {
+                    "option": "neovplyvňuje len tlakovú zložku aerodynamickej sily  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Pri silnejúcom vetre sa snažíme:\r",
+            "a": [
+                {
+                    "option": "zväčšiť plochu plachty\r",
+                    "correct": false
+                },
+                {
+                    "option": "zmenšiť plochu plachty\r",
+                    "correct": false
+                },
+                {
+                    "option": "vytiahneme prídavné oplachtenie - napr. spinaker  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Plachetnica, ktorá má vietor sprava:\r",
+            "a": [
+                {
+                    "option": "je povinná vyhnúť sa každej inej plachetnici\r",
+                    "correct": false
+                },
+                {
+                    "option": "má prednosť pred plachetnicami plávajúcimi na iný vietor ",
+                    "correct": false
+                },
+                {
+                    "option": "je povinná vyhnúť plachetnici, ktorá má vietor zľava  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Plachetnica, ktorá má vietor zľava:\r",
+            "a": [
+                {
+                    "option": "ak je v blízkosti iná plachetnica, nesmie meniť smer kurzu ",
+                    "correct": false
+                },
+                {
+                    "option": "je povinná vyhnúť sa každej inej plachetnici\r",
+                    "correct": false
+                },
+                {
+                    "option": "je povinná vyhnúť sa plachetnici, ktorá má vietor sprava  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Keď plachetnica s právom plavby mení smer plavby: ",
+            "a": [
+                {
+                    "option": "musí dať druhej plachetnici možnosť k uhýbaniu\r",
+                    "correct": false
+                },
+                {
+                    "option": "nesmie dať druhej plachetnici možnosť k uhýbaniu\r",
+                    "correct": false
+                },
+                {
+                    "option": "ak je v blízkosti motorový čln, toto právo plachetnica stráca  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " Ak dve plachetnice majú vietor z rovnakej strany:\r",
+            "a": [
+                {
+                    "option": "musí vyhýbať náveterná loď záveternej ",
+                    "correct": false
+                },
+                {
+                    "option": "musí vyhýbať záveterná loď náveternej ",
+                    "correct": false
+                },
+                {
+                    "option": "musia sa dohodnúť pomocou signálov  ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "q": " S plachetnicou pod plachtami pristávame vždy:\r",
+            "a": [
+                {
+                    "option": "po vetre\r",
+                    "correct": false
+                },
+                {
+                    "option": "proti vetru\r",
+                    "correct": false
+                },
+                {
+                    "option": "s plachtami na ľavobok\r",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}
