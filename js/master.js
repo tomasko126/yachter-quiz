@@ -5,9 +5,9 @@ $(function () {
     var jsonFile = "";
     if (path === "/yachter-quiz/pages/a.html") {
         jsonFile = "//tomasko126.github.io/yachter-quiz/json/vmp-cevni.json";
-    } else if (path === "/pages/b.html") {
+    } else if (path === "/yachter-quiz/pages/b.html") {
         jsonFile = "//tomasko126.github.io/yachter-quiz/json/vmp-stavba-elektro.json";
-    } else if (path === "/pages/c.html") {
+    } else if (path === "/yachter-quiz/pages/c.html") {
         jsonFile = "//tomasko126.github.io/yachter-quiz/json/vmp-plachetnice.json";
     }
     $.get(jsonFile, function(data) {
