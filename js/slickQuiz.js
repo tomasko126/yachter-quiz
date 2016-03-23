@@ -244,7 +244,7 @@
 
                         // Append a quiz image
                         if (question.img) {
-                            questionHTML.append('<img class="quizimg" src="img/' + question.img + '"></h3>');
+                            questionHTML.append('<img class="quizimg" src="/img/' + question.img + '"></h3>');
                         }
 
                         // Count the number of true values

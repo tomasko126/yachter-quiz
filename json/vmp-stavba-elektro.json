@@ -1,4 +1,13 @@
-{
+{   "info": {
+        "name": "Otázky VMP: Stavba - Elektro",
+        "main": "Okruh otázok B. Na túto časť testu máte 10 minút. Pre splnenie tohto okruhu je potrebné, aby ste zodpovedali 7 otázok. Iba jednu otázku môžete vyplniť nesprávne. Veľa šťastia!",
+        "results": "",
+        "level1": "Testom ste prešli.",
+        "level2": "Testom ste neprešli.",
+        "level3": "Testom ste neprešli.",
+        "level4": "Testom ste neprešli.",
+        "level5": "Testom ste neprešli."
+    },
     "questions": [
         {
             "q": " Vodoryska je: ",
@@ -13,7 +22,7 @@
                 },
                 {
                     "option": "priesečnica lodného trupu s hladinou  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -24,7 +33,7 @@
             "a": [
                 {
                     "option": "hmotnosť vody vytlačenej plavidlom ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "hmotnosť prázdnej lode ",
@@ -43,7 +52,7 @@
             "a": [
                 {
                     "option": "plavidlo, prispôsobené na určitú mechanickú prácu na vode (žeriav, bager, elevátor, sondážne plavidlo, baranidlo a pod.) ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "plavidlo, prispôsobené na nesenie určitých iných zariadení alebo konštrukcií (doky, kúpaliská, reštaurácie, botely a pod.) ",
@@ -62,7 +71,7 @@
             "a": [
                 {
                     "option": "priesečník zvislice, prechádzajúcej miestom hydrostatickéhvztlaku s ťažnicou ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "priesečník osi náklonu lode pri pozdĺžnych náklonoch lode s konštrukčnou osou lode ",
@@ -89,7 +98,7 @@
                 },
                 {
                     "option": "medzi ťažiskom lode a metacentrom  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -100,7 +109,7 @@
             "a": [
                 {
                     "option": "stabilnejšie - celková stabilita plavidla (priečna aj pozdĺžna) ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "labilnejšie - minimálna pozdĺžna stabilita ",
@@ -127,7 +136,7 @@
                 },
                 {
                     "option": "tesnenie a ložiská hriadeľového vedenia  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -142,7 +151,7 @@
                 },
                 {
                     "option": "zvislá priečna stena, rozdeľujúca lodný trup na jednotlivéčasti, ktoré aj v prípade prerazenia zabezpečujú plávateľnosť a nepotopiteľnosť lode ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "zvislá priečna stena, oddeľujúca priestory na uloženie kotevnej reťaze od nákladového priestoru  ",
@@ -165,7 +174,7 @@
                 },
                 {
                     "option": "zlepšenie manévrovacej schopnosti plavidla  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -180,7 +189,7 @@
                 },
                 {
                     "option": "zariadenie pozostávajúce z dvoch tanierových kolies umiestnených na dne plavidla, z vonkajšej časti, otáčajúcich sa proti sebe alebo od seba, na ktorých sú natáčacie lopatky, ktorých uhol natočenia umož ňuje pohyb plavidla dopredu, dozadu aj do strán ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "zabudovaný lodný motor s prevodovkou z ktorého ide na kormu plavidla takzvaný Z - náhon  ",
@@ -195,7 +204,7 @@
             "a": [
                 {
                     "option": "spaľovací motor poháňa jednosmerné dynamo, ktoré je káblami spojené dnosmerným je elektromotorom, ktorý potom poháňa propulzné zariadenie lode, nie je potrebná prevodová skriňa ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "je to pohonná jednotka plavidla, skladajúca sa zo spaľovacieho motoru, radiálnej prevodovky, axiálneho ložiska, hriadeľového vedenia, lodnej vrtule ",
@@ -222,7 +231,7 @@
                 },
                 {
                     "option": "zemská príťažlivosť smerom ku dnu vodnej cesty a výtlak vody, pôsobiaci proti zemskej príťažlivosti, prípadne sila vetra  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -241,7 +250,7 @@
                 },
                 {
                     "option": "Archimedov zákon, aby celková hmotnosťplavidla bola menšia alebo rovná hmotnosti vytlačenej vody objemom telesa plavidla  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -252,7 +261,7 @@
             "a": [
                 {
                     "option": "lodné teleso medzi kýlom a hlavnou palubou, vymedzené obšívkou a vystužené kostrou ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "lodná obšívka ",
@@ -279,7 +288,7 @@
                 },
                 {
                     "option": "myslený bod v plavidle, do ktorého je sústredenáhmotnosť plavidla a nákladu. Keď je na správnom mieste, tak je plavidlo správne pozdĺžne aj prie čne vyrovnané  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -290,7 +299,7 @@
             "a": [
                 {
                     "option": "myslený bod na plavidle, v ktorom je umiestnený stred vztlaku vytlačenej vody objemom ponorenej časti plavidla ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "celkový výtlak plavidla (hmotnosť plavidla, posádky, zásob, paliva, cestujúcich a nákladu) ",
@@ -317,7 +326,7 @@
                 },
                 {
                     "option": "je schopnosť plavidla vrátiť sa do polohy vyváženosti v pozdĺžnej osi plavidla, ak bolo toto plavidlo z tejto polohy vychýlené.  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -328,7 +337,7 @@
             "a": [
                 {
                     "option": "je schopnosť plavidla vrátiť sa do polohy vyváženosti v priečnej osi plavidla, ak bolo toto plavidlo z tejto polohy vychýlené ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "pozdĺžny náklon plavidla v rozmere do 15° ",
@@ -347,7 +356,7 @@
             "a": [
                 {
                     "option": "na teoretickom výkrese plavidla predstavuje  čiaru najvä čšieho dovoleného ponoru, po celom jeho obvode, musí byť v rovnakej výške vo všetkých bodoch obšívky ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "teoretická čiara ponoru plavidla pri jeho naložení ",
@@ -366,7 +375,7 @@
             "a": [
                 {
                     "option": "schopnosť plavidla udržať sa na vodnej hladine aj keď má zatopenú určitú časť svojho objemu ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "schopnosť plavidla udržať sa na vodnej hladine pri neporušení lodnej obšívky ",
@@ -393,7 +402,7 @@
                 },
                 {
                     "option": "je potrebný pre výpočet objemu ponorenej časti plavidla a tým aj pre výpočet okamžitej hmotnosti plavidla a jeho nosnosti, dôležitý pri ciachovaní plavidla  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -404,7 +413,7 @@
             "a": [
                 {
                     "option": "veslá, vietor, poťah z brehu, spaľovací alebo elektrický motor a pod. ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "iba motor a plachty ",
@@ -431,7 +440,7 @@
                 },
                 {
                     "option": "kormidlo  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -450,7 +459,7 @@
                 },
                 {
                     "option": "motor so zotrvačníkom, umiestnený smerom ku korme, prevodovka, hriadeľové  vedenie a vrtuľa sú v jednej osi - priamke  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -461,7 +470,7 @@
             "a": [
                 {
                     "option": "motor na korme plavidla, prevodovka smerom k prove plavidla, hriadeľové vedenie na korme ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "motor na prove plavidla, hriadeľové vedenie v osi plavidla idúce na kormu ",
@@ -480,7 +489,7 @@
             "a": [
                 {
                     "option": "prívesný motor s prevodovkou a propulzným zariad  ením sa nachádza na korme plavidla, môže byť aj motor zabudovaný s prevodovkou v tvare „Z“, ktorá sa nachádza za zrkadlom plavidla ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "v tvare písmena „V“ - motor pri korme, prevodovk a smerom k čelu a propulzné zariadenie priame cez kormu plavidla ",
@@ -507,7 +516,7 @@
                 },
                 {
                     "option": "riadenie smeru plavby  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -522,7 +531,7 @@
                 },
                 {
                     "option": "    čo najďalej od motora ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "    čo najďalej od miesta vodcu plavidla  ",
@@ -537,7 +546,7 @@
             "a": [
                 {
                     "option": "nesmie zbytočne vychyľovať plavidlo v priečnom smere ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "musí byť iba v čele plavidla ",
@@ -564,7 +573,7 @@
                 },
                 {
                     "option": "chladené vodou alebo izolované tak, aby jeho povrchová teplota nedosiahla 60°  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -583,7 +592,7 @@
                 },
                 {
                     "option": "buď diaľkové z miesta vodcu plavidla, alebo priamo na motore, pri !Z! - náhone, kde ho obsluhuje vodca plavidla priamo na korme plavidla  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -594,7 +603,7 @@
             "a": [
                 {
                     "option": "v dobre vetranom mieste, čo najďalej od motora ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "čo najbližšie k motoru ",
@@ -612,16 +621,16 @@
             "q": " Inštalácia svetelnej signalizácie na malom plavidle si vyžaduje zdroj a napätie: ",
             "a": [
                 {
-                    "option": "     striedavé 500 V ",
+                    "option": "striedavé 500 V ",
                     "correct": false
                 },
                 {
-                    "option": "     jednosmerné 380 V ",
+                    "option": "jednosmerné 380 V ",
                     "correct": false
                 },
                 {
-                    "option": "     jednosmerné 24 V  ",
-                    "correct": false
+                    "option": "jednosmerné 24 V  ",
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -632,7 +641,7 @@
             "a": [
                 {
                     "option": "jednovodičové, kde je vo vodiči pól + a na kostre pól –, alebo dvojvodičové, pričom jeden vodič je + a druhý – ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "ako u automobilov jednovodičové, kde jeden vo vodiči je pól  – a na kostre pól + ",
@@ -659,7 +668,7 @@
                 },
                 {
                     "option": "ručne, elektricky, stlačeným vzduchom, alebo iným médiom, ktoré však musí byť odskúšané príslušným inšpektorom.  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -678,7 +687,7 @@
                 },
                 {
                     "option": "ľubovolné  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -689,7 +698,7 @@
             "a": [
                 {
                     "option": "vyväzovanie, vlečenie, pohyb a upevnenie plachiet, kotvenie, na upevnenie vlajky a iných signálnych, pohonných a ovládacích zariadení ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "je to kovová ochrana nachádzajúca sa na hranách, bokoch a korme plavidla ",
@@ -716,7 +725,7 @@
                 },
                 {
                     "option": "pomer ponorenej časti trupu plavidla k objemu kvádra, ktorý je trupu opísaný, znamená súčiniteľ plnosti plavidla, potrebný pre výpočet nosnosti plavidla pri danom ponore  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -727,7 +736,7 @@
             "a": [
                 {
                     "option": "pomocou zmien obrátok motora cez prevodovku 1 - vpred, 2 - vzad, 0 - neutrál ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "pomocou niekoľko stupňovej prevodovky vpred, neutrál a vzad ",
@@ -750,7 +759,7 @@
                 },
                 {
                     "option": "pevne, ale snímateľne pripevnená k rebrám plavidla ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "upevnená na rebrách pomocou silenblokov  ",
@@ -773,7 +782,7 @@
                 },
                 {
                     "option": "zariadenie pre upevňovanie plachiet (stožiar, ráhno atď.)  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -784,7 +793,7 @@
             "a": [
                 {
                     "option": "po celej svojej dĺžke, buď po okrajoch, alebo vnútrajškom, pričom vonkajšia ochodza musí byť široká min. 0,2 m a vnútorné priechody musia byť min. 0,5 m ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "po celej svojej dĺžke, buď po okrajoch, alebo vnútrajškom, pričom vonkajšia ochodza musí byť široká min. 0,5 m a vnútorné priechody musia byťmin. 1,0 m ",
@@ -807,7 +816,7 @@
                 },
                 {
                     "option": "minimálne dvomi uzatváracími únikovými východmina voľnú palubu, umožňujúce únik z vnútorných priestorov. Rozmery únikového východu musia byť mini.0,5 x 0,4 m alebo priemeru min.0,5 m ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "minimálne štyrmi uzatváracími únikovými východmina voľnú palubu, umožňujúce únik z vnútorných priestorov. Rozmery únikového východu musia byť mini.0,5 x 0,4 m alebo priemeru min.0,5 m  ",
@@ -830,7 +839,7 @@
                 },
                 {
                     "option": "bezpečný proti pokĺznutiu - musí mať protisklzový povrch buď zo špeciálneho materiálu, alebo opatrený protišmykovým náterom  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -841,7 +850,7 @@
             "a": [
                 {
                     "option": "    70 dB ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "    50 dB ",
@@ -859,15 +868,15 @@
             "q": " Hladina vnútorného hluku plavidla v kormidelni alebo stanovišti vodcu plavidla meraná vo výške jeho hlavy a v obytných priestoroch nesmie za normálnych prevádzkových podmienok u nových plavidiel prekročiť: ",
             "a": [
                 {
-                    "option": "    35 dB ",
+                    "option": "35 dB ",
                     "correct": false
                 },
                 {
-                    "option": "    65 dB ",
-                    "correct": false
+                    "option": "65 dB ",
+                    "correct": true
                 },
                 {
-                    "option": "    100 dB  ",
+                    "option": "100 dB  ",
                     "correct": false
                 }
             ],
@@ -887,7 +896,7 @@
                 },
                 {
                     "option": "bezpečnostná vzdialenosť  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -898,7 +907,7 @@
             "a": [
                 {
                     "option": "voľný bok plavidla ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "ponor plavidla ",
@@ -921,7 +930,7 @@
                 },
                 {
                     "option": "150 kg/m2 ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "300 kg/m2  ",
@@ -940,7 +949,7 @@
                 },
                 {
                     "option": "nesmie byť priamo obšívkou a jednotlivé diely podlahy musia byť bezpečne upevnené a ľahko vyberateľné ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "nesmie byť priamo obšívkou a jednotlivé diely podlahy musia byť bezpečne upevnené a ľahko nevyberateľné  ",
@@ -963,7 +972,7 @@
                 },
                 {
                     "option": "nesmú narušovať vodotesnosť týchto prepážok  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -974,7 +983,7 @@
             "a": [
                 {
                     "option": "5 kg na osobu dovoleného zaťaženia, mimimálne však 20 kg ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "15 kg na osobu dovoleného zaťaženia, mimimálne však 30 kg ",
@@ -1001,7 +1010,7 @@
                 },
                 {
                     "option": "kryt z nehorľavého materiálu alebo musí byťchránený protipožiarnym náterom, impregnáciou  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1012,7 +1021,7 @@
             "a": [
                 {
                     "option": "ochranné kryty pevne uchytené ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "musia byť v špeciálnych tuneloch ",
@@ -1039,7 +1048,7 @@
                 },
                 {
                     "option": "z priestoru strojovne, krytu motora alebo priamym prívodom vzduchu z vonkajšieho priestoru k motoru  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1054,7 +1063,7 @@
                 },
                 {
                     "option": "mimo lodné teleso, tak aby vetranie neobťažovalo osoby na plavidle ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "do zadného kolízneho priestoru  ",
@@ -1077,7 +1086,7 @@
                 },
                 {
                     "option": "do zberovej kovovej nádržky, uzatvorenej medenoualebo bronzovou sieťkou, ktorá musí byť demontovateľná alebo vybavená medeným vypúšťacím ventilom  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1092,7 +1101,7 @@
                 },
                 {
                     "option": "rozdelená prepážkami, zabraňujúcimi náhlemu preliatiu obsahu nádrže k jednej strane a tým nebezpečným naklonením plavidla na jednu stranu ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "umiestnená v strojovni plavidla  ",
@@ -1115,7 +1124,7 @@
                 },
                 {
                     "option": "tak, aby bola oddelená od obytných priestorov  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1125,15 +1134,15 @@
             "q": " Výfukové potrubie zabudovaného motora musí byť chladené vodou alebo izolované tak, aby povrchová teplota nedosiahla teploty: ",
             "a": [
                 {
-                    "option": "     60°C ",
+                    "option": "60°C ",
+                    "correct": true
+                },
+                {
+                    "option": "100°C ",
                     "correct": false
                 },
                 {
-                    "option": "     100°C ",
-                    "correct": false
-                },
-                {
-                    "option": "     80°C  ",
+                    "option": "80°C  ",
                     "correct": false
                 }
             ],
@@ -1149,7 +1158,7 @@
                 },
                 {
                     "option": "vonkajšia voda ochladzuje vnútorný okruh chladen ia - chladič a do motora sa dostáva vždy iba to isté chladiace médium, vonkajšia chladiaca voda odteká za bok plavidla ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "ochladzovanie priamo vodou z vodnej cesty  ",
@@ -1164,7 +1173,7 @@
             "a": [
                 {
                     "option": "spätným ventilom, ktorý zabráni vyte čeniu chladiacej vody z chladiaceho systému a naopak, dovoľuje vypusteniu chladiacej vody pred zimným režimom ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "filtrom do 0,2 mikróna na zachytávanie nečistôt z vody ",
@@ -1191,7 +1200,7 @@
                 },
                 {
                     "option": "    zaistenie stability plavidla. Používa sa hlavne u nenaložených plavidiel alebo plavidiel naložených nerovnomerne, jácht a plachetníc  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1206,7 +1215,7 @@
                 },
                 {
                     "option": "na spúšťanie a vyťahovanie kotvy na plavidlo ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "týkajúce sa elektromotora s kotvou na krátko  ",
@@ -1225,7 +1234,7 @@
                 },
                 {
                     "option": "odolné proti vlhkosti, musia mať tepelne stálu izoláciu a nesmie sa meniťch izolačný stav ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "odolné proti vlhkosti, musia mať tepelne stálu izoláciu a môže sa meniť ich izolačný stav v závislosti od okolitej teploty  ",
@@ -1248,7 +1257,7 @@
                 },
                 {
                     "option": "motorovom priestore  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1263,7 +1272,7 @@
                 },
                 {
                     "option": "akustický ultrazvukový prístroj na zis  ťovanie prekážok pod dnom plávajúceho plavidla alebo vzdialenosti dna vodnej cesty od dna plavidla ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "prístroj na meranie rýchlosti plavby  ",
@@ -1278,7 +1287,7 @@
             "a": [
                 {
                     "option": "revíznu správu (potvrdenú knihu) elektrického riadeniaza príslušným revíznym technikom revízna správa máčúinnosť jeden rok ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "revíznu správu potvrdenú technikom príslušného ovodiap ",
@@ -1305,7 +1314,7 @@
                 },
                 {
                     "option": "veslo  ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1320,7 +1329,7 @@
                 },
                 {
                     "option": "prispôsobené sedenie pomocníka vodcu plavidla, ktorý sleduje vlečné lano a lyžiara za vlečným člnom ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "oceľové vlečné lano",
@@ -1330,15 +1339,5 @@
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         }
-    ],
-    "info": {
-        "name": "",
-        "main": "",
-        "results": "",
-        "level1": "",
-        "level2": "",
-        "level3": "",
-        "level4": "",
-        "level5": ""
-    }
+    ]
 }
