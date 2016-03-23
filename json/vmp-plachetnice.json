@@ -1,13 +1,13 @@
 {
     "info": {
-        "name": "Test VMP Plachetnice",
-        "main": "",
-        "results": "The Quiz Results Copy",
-        "level1": "The highest ranking",
-        "level2": "The almost highest ranking",
-        "level3": "The middle ranking",
-        "level4": "The almost lowest ranking",
-        "level5": "The lowest ranking"
+        "name": "Otázky VMP: Plachetnice",
+        "main": "Okruh otázok C. Na túto časť testu máte 10 minút. Pre splnenie tohto okruhu je potrebné, aby ste zodpovedali 7 otázok. Iba jednu otázku môžete vyplniť nesprávne. Veľa šťastia!",
+        "results": "",
+        "level1": "Testom ste prešli.",
+        "level2": "Testom ste neprešli.",
+        "level3": "Testom ste neprešli.",
+        "level4": "Testom ste neprešli.",
+        "level5": "Testom ste neprešli."
     },
     "questions": [
         {

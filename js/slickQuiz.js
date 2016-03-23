@@ -21,14 +21,14 @@
                 nextQuestionText: 'Ďalšia otázka &raquo;',
                 backButtonText: '',
                 completeQuizText: '',
-                tryAgainText: '',
+                tryAgainText: 'Znova spustiť test',
                 questionCountText: 'Otázka %current z %total',
                 preventUnansweredText: 'Musíte zvoliť aspoň jednu odpoveď.',
                 questionTemplateText:  '%count. %text',
                 scoreTemplateText: '%score / %total',
                 nameTemplateText:  '<span>Test: </span>%name',
                 skipStartButton: false,
-                numberOfQuestions: 28,
+                numberOfQuestions: 7,
                 randomSortQuestions: true,
                 randomSortAnswers: true,
                 preventUnanswered: true,
@@ -211,7 +211,10 @@
 
                 // add retry button to results view, if enabled
                 if (plugin.config.tryAgainText && plugin.config.tryAgainText !== '') {
-                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="#">' + plugin.config.tryAgainText + '</a></p>');
+                    //$quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="#">' + plugin.config.tryAgainText + '</a></p>');
+                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="/pages/a.html">' + "Spustiť okruh otázok A" + '</a></p>');
+                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="/pages/b.html">' + "Spustiť okruh otázok B" + '</a></p>');
+                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="/pages/c.html">' + "Spustiť okruh otázok C" + '</a></p>');
                 }
 
                 // Setup questions
@@ -244,7 +247,7 @@
 
                         // Append a quiz image
                         if (question.img) {
-                            questionHTML.append('<img class="quizimg" src="img/' + question.img + '"></h3>');
+                            questionHTML.append('<img class="quizimg" src="/img/' + question.img + '"></h3>');
                         }
 
                         // Count the number of true values
@@ -701,7 +704,7 @@
 
             // Bind "try again" button
             $(_element + ' ' + _tryAgainBtn).on('click', function(e) {
-                e.preventDefault();
+                //e.preventDefault();
                 plugin.method.resetQuiz(this, {callback: plugin.config.animationCallbacks.resetQuiz});
             });
 
