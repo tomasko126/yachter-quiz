@@ -11,6 +11,785 @@
     },
     "questions": [
         {
+            "q": " Za čo zodpovedá správca vodného toku? ",
+            "a": [
+                {
+                    "option": " správca vodného toku , ktorý plní úlohy prevádzkovateľa vodnej cesty , je zodpovedný za udržiavanie a zlepšovanie podmienok na prevádzku plavidiel na nesledovaných vodných cestách ",
+                    "correct": false
+                },
+                {
+                    "option": " Správca vodného toku, ktorý plní úlohy prevádzkovateľa vodnej cesty, je zodpovedný za udržiavanie a zlepšovanie podmienok na prevádzku plavidiel na sledovaných vodných cestách. Správca vodného toku zodpovedá za vytýčenie plavebnej dráhy, za vyznačenie plavebných prekážok na vodných cestách a ich odstraňovanie na základe pokynov Dopravného úradu ",
+                    "correct": true
+                },
+                {
+                    "option": " správca vodného toku zodpovedá iba za riadne vytýčenie plavebnej dráhy, ktoré vykonáva na základe pokynov Dopravného úradu, nezodpovedá za udržiavanie a zlepšovanie podmienok na prevádzku plavidiel na sledovaných vodných cestách  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Vodnou dopravou sa podľa zákona 338/2000 Z.z. v znení neskorších predpisov rozumie: ",
+            "a": [
+                {
+                    "option": " preprava tovaru a osôb plavidlami na vodných cestách na účely podnikania aj vtedy, ak toto podnikanie nie je vykonávané pravidelne ",
+                    "correct": true
+                },
+                {
+                    "option": " preprava tovaru a osôb plavidlami na vodných cestách na účely podnikania iba vtedy, ak toto podnikanie je vykonávané pravidelne ",
+                    "correct": false
+                },
+                {
+                    "option": " iba preprava tovaru na vodných cestách na účely podnikania  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Vnútrozemskou vodnou cestou sa podľa zákona 338/2000 Z.z. v znení neskorších predpisov rozumie: ",
+            "a": [
+                {
+                    "option": " vodný tok, iná vodná plocha, odkryté podzemné vody, povrchové, podzemné a banské vody ",
+                    "correct": false
+                },
+                {
+                    "option": " vodný tok, alebo iná vodná plocha, ako sú povrchové, podzemné a banské vody, ktoré sú splavné pre daný typ plavidla a aj tie na ktorých je plavba zakázaná ",
+                    "correct": false
+                },
+                {
+                    "option": " vodný tok, alebo iná vodná plocha , ako sú povrchové, podzemné a banské vody, ktoré sú splavné pre daný typ plavidla a na ktorých nie je plavba zakázaná  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Ktoré plavidlá sa zapisujú do registra plavidiel? ",
+            "a": [
+                {
+                    "option": " plavidlá, ktorých celková hmotnosť bez povolenej užitočnej hmotnosti nepresahuje 1000 kg alebo výkon pohonného zariadenia je menší ako 2 kW ",
+                    "correct": false
+                },
+                {
+                    "option": " plavidlá, ktorých celková hmotnosť vrátane povolenej užitočnej hmotnosti presahuje 1000 kg alebo výkon pohonného zariadenia je vyšší ako 4 kW alebo plocha plachiet je väčšia ako 12 m2 a nie sú registrované mimo územia Slovenskej republiky, okrem plavidiel určených výlučne na športovú činnosť vykonávanú na vodných plochách vymedzených plavebným opatrením. ",
+                    "correct": true
+                },
+                {
+                    "option": " plavidlá, ktorých dĺžka presahuje 4 m  \f",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Na malom plavidle musia byť: ",
+            "a": [
+                {
+                    "option": " lodný denník, zoznam posádky plavidla, doklad o poistení zodpovednosti za škodu spôsobenú prevádzkou plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " zoznam posádky, lodné osvedčenie alebo osobitné povolenie na prevádzku plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " lodné osvedčenie alebo osobitné povolenie na prevádzku plavidla a doklad o poistení zodpovednosti za škodu spôsobenú prevádzkou plavidla, povolenie na státie plávajúceho zariadenia na vodnej ceste alebo v prístave ak je plávajúcim zariadením, povolenie na zriadenie a prevádzkovanie rádiovej stanice, ak má plavidlo takúto stanicu, správa o revízii vyhradeného technického zariadenia podľa druhu vyhradeného technického zariadenia.  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Pod pojmom vnútrozemská plavba sa rozumie? ",
+            "a": [
+                {
+                    "option": " prevádzka plavidiel na vnútrozemských vodných cestách a v prístavoch vrátane činností súvisiacich s touto prevádzkou ",
+                    "correct": true
+                },
+                {
+                    "option": " preprava tovaru a osôb plavidlami na vodných cestách na účely podnikania iba vtedy, ak toto podnikanie je vykonávané pravidelne ",
+                    "correct": false
+                },
+                {
+                    "option": " iba preprava tovaru na vodných cestách na účely podnikania  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Orgánmi štátnej správy pre vnútrozemskú plavbu a prístavy sú: ",
+            "a": [
+                {
+                    "option": " Dopravný úrad a Ministerstvo hospodárstva Slovenskej republiky ",
+                    "correct": false
+                },
+                {
+                    "option": " Ministerstvo dopravy, výstavby a regionálneho rozvoja SR a Dopravný úrad ",
+                    "correct": true
+                },
+                {
+                    "option": " Ministerstvo vnútra a Polícia Slovenskej republiky  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Činnosť na vodnej ceste alebo v jej ochrannom pásme, ktorá by mohla ovplyvniť plavbu možno vykonávať len po predchádzajúcom súhlase: ",
+            "a": [
+                {
+                    "option": " Ministerstva dopravy, pôšt a telekomunikácií, ",
+                    "correct": false
+                },
+                {
+                    "option": " Dopravného úradu, ",
+                    "correct": true
+                },
+                {
+                    "option": " správcu vodného toku.  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Môže viesť malé plavidlo podliehajúce registrácii osoba, ktorá nemá odbornú spôsobilosť „Vodca malého plavidla“ ? ",
+            "a": [
+                {
+                    "option": " môže, ale iba na stojatých vodách ",
+                    "correct": false
+                },
+                {
+                    "option": " môže, ak je na palube osoba staršia ako 18 rokov ",
+                    "correct": false
+                },
+                {
+                    "option": " nemôže  \f",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Štátny odborný dozor nad prevádzkou plavidiel vykonáva: ",
+            "a": [
+                {
+                    "option": " Policajný zbor Slovenskej republiky ",
+                    "correct": false
+                },
+                {
+                    "option": " Dopravný úrad ",
+                    "correct": true
+                },
+                {
+                    "option": " odbor dopravy na ministerstve vnútra  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Lodné osvedčenie alebo osobitné povolenie na prevádzku plavidla je: ",
+            "a": [
+                {
+                    "option": " súkromná listina vlastníka plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " verejná listina ",
+                    "correct": true
+                },
+                {
+                    "option": " je verejná listina len u plavidiel s výtlakom väčším ako 100 m3  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Lodné osvedčenie je: ",
+            "a": [
+                {
+                    "option": " lodná listina, ktorou sa preukazuje spôsobilosť plavidla na plavbu, vydáva ho Dopravný úrad ",
+                    "correct": true
+                },
+                {
+                    "option": " lodná listina, ktorou sa preukazuje spôsobilosť plavidla na plavbu, vydáva ho Ministerstvo dopravy, pôšt a telekomunikácií ",
+                    "correct": false
+                },
+                {
+                    "option": " lodná listina určujúca rozmery plavidla, vydáva ho výrobca plavidla  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Vo verejných prístavoch prístavné poplatky vyberá: ",
+            "a": [
+                {
+                    "option": " Dopravný úrad ",
+                    "correct": false
+                },
+                {
+                    "option": " Ministerstvo dopravy, pôšt a telekomunikácií ",
+                    "correct": false
+                },
+                {
+                    "option": " Verejné prístavy, a.s.  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Výnimku z platenia prístavných poplatkov za užívanie verejného prístavu: ",
+            "a": [
+                {
+                    "option": " nemožno udeliť ",
+                    "correct": true
+                },
+                {
+                    "option": " udeľuje Dopravný úrad ",
+                    "correct": false
+                },
+                {
+                    "option": " udeľuje správca verejného prístavu  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Plavebný inšpektor sa pri výkone štátneho odborného dozoru preukazuje: ",
+            "a": [
+                {
+                    "option": " preukazom odbornej spôsobilosti vodcu malého plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " preukazom plavebného inšpektora ",
+                    "correct": true
+                },
+                {
+                    "option": " klasifikačným preukazom  \f",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Je povinný vodca plavidla nahlásiť Dopravnému úradu každú plavebnú nehodu? ",
+            "a": [
+                {
+                    "option": " áno ",
+                    "correct": false
+                },
+                {
+                    "option": " nie, ak škoda vznikla len na vodnej ceste ",
+                    "correct": false
+                },
+                {
+                    "option": " nie, ak škoda vznikla len na plavidle a zrejme nepresahuje hodnotu 10 000 €  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Čo sa rozumie pod pojmom malé plavidlo v zmysle zákona 338/2000 Z.z.? ",
+            "a": [
+                {
+                    "option": " plavidlo s dĺžkou trupu do 20 m, ktoré je určené na prepravu najviac 12 cestujúcich a plavidlo, ktoré je určené len na športové a oddychové účely bez ohľadu na spôsob jeho pohonu s dĺžkou trupu od 2,5 m do 24 m s výnimkou plavidiel postavených alebo určených na tlačenie alebo vlečenie alebo vedenie v bočne zviazanej zostave plavidiel, ktoré nie sú malými plavidlami, prievozných lodí a plávajúcich strojov, ",
+                    "correct": true
+                },
+                {
+                    "option": " plavidlo s dĺžkou trupu do 25 m, určené na prepravu najviac 20 cestujúcich a plavidlo,ktoré je určené len športové a rekreačné účely bez ohľadu na spôsob jeho pohonu s dĺžkou trupu od 2,5 m do 24 m s výnimkou plavidiel postavených alebo určených na tlačenie alebo vlečenie alebo vedenie v bočne zviazanej zostave plavidiel, ktoré nie sú malými plavidlami, prievozných lodí a plávajúcich strojov ",
+                    "correct": false
+                },
+                {
+                    "option": " plavidlo s dĺžkou trupu do 20 m, určené na prepravu najviac 18 cestujúcich a plavidlo, ktoré je určené len športové a rekreačné účely bez ohľadu na spôsob jeho pohonu s dĺžkou trupu od 2,5 m do 24 m s výnimkou plavidiel postavených alebo určených na tlačenie alebo vlečenie alebo vedenie v bočne zviazanej zostave plavidiel, ktoré nie sú malými plavidlami, prievozných lodí a plávajúcich strojov  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Na zabezpečenie bezpečnosti a plynulosti plavebnej prevádzky Dopravný úrad vydáva: ",
+            "a": [
+                {
+                    "option": " zákony ",
+                    "correct": false
+                },
+                {
+                    "option": " plavebné opatrenia ",
+                    "correct": true
+                },
+                {
+                    "option": " plavebné návrhy  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Ustanovenia zákona 338/2000Z.z. o vnútrozemskej plavbe sa na neverejnú dopravu po vodných cestách vzťahujú: ",
+            "a": [
+                {
+                    "option": " v plnom rozsahu ",
+                    "correct": false
+                },
+                {
+                    "option": " primerane ",
+                    "correct": true
+                },
+                {
+                    "option": " nevzťahujú  \f",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Prevádzkovateľom plavidla je: ",
+            "a": [
+                {
+                    "option": " osoba, ktorú za prevádzkovateľa určil Dopravný úrad rozhodnutím ",
+                    "correct": false
+                },
+                {
+                    "option": " ten kto vedie plavidlo na vlastnú zodpovednosť ",
+                    "correct": false
+                },
+                {
+                    "option": " jeho vlastník alebo ten, kto vykonáva prevádzku plavidla vo vlastnom mene a na základe zmluvy s vlastníkom plavidla  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Ktoré plavidlá majú povinnosť niesť počas plavby štátnu vlajku Slovenskej republiky? ",
+            "a": [
+                {
+                    "option": " loď vnútrozemskej plavby malé plavidlo, ktoré podlieha registrácii, prievozná loď a plávajúci stroj ",
+                    "correct": true
+                },
+                {
+                    "option": " iba plavidlá, ktoré plávajú v hraničných vodách ",
+                    "correct": false
+                },
+                {
+                    "option": " iba plavidlá, ktoré plávajú na nesledovaných vodných cestách  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Ktoré plavidlá podliehajú zápisu do registra plavidiel? ",
+            "a": [
+                {
+                    "option": " len plavidlá s výtlakom nad 100 m3, čiže podliehajú ciachovaniu ",
+                    "correct": false
+                },
+                {
+                    "option": " plavidlá s výkonom pohonného strojného zariadenia vyšším ako 6 kW, alebo plocha plachiet je väčšia ako 20 m2 ",
+                    "correct": false
+                },
+                {
+                    "option": " plavidlá, ktorých celková hmotnosť vrátane povolenej užitočnej hmotnosti presahuje 1000 kg alebo výkon pohonného zariadenia je vyšší ako 4 kW, alebo plocha plachiet je väčšia ako 12 m2, okrem plavidiel určených výlučne na športovú činnosť vykonávanú na vodných plochách vymedzených plavebným opatrením.  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Kto a na základe čoho vykonáva výmaz plavidla z registra plavidiel? ",
+            "a": [
+                {
+                    "option": " Ministerstvo dopravy, výstavby a regionálneho rozvoja SR na základe oznámenia orgánov činných v trestnom konaní ",
+                    "correct": false
+                },
+                {
+                    "option": " Dopravný úrad len na základe žiadosti vlastníka alebo v prípade, že rozhodol o jeho trvalom vyradení z prevádzky ",
+                    "correct": true
+                },
+                {
+                    "option": " odbor dopravy na Ministerstve vnútra SR na základe súdneho nariadenia  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Možno prevádzkovať malé plavidlo, podliehajúce registrácii, bez uzatvorenia zmluvného poistenia zodpovednosti za škody spôsobené prevádzkou plavidla? ",
+            "a": [
+                {
+                    "option": " možno, ale len ak sa jedná o plachetnice prevádzkované na vodných nádržiach a celková plocha plachiet nepresahuje 20m2 ",
+                    "correct": false
+                },
+                {
+                    "option": " plavidlo, ktoré je zapísané do evidencie plavidiel, možno prevádzkovať na vodnej ceste len s uzavretým poistením zodpovednosti za škody spôsobené prevádzkou plavidla. ",
+                    "correct": true
+                },
+                {
+                    "option": " pokiaľ sa prevádzkuje malé plavidlo na uzatvorených vodných cestách nie je potrebné uzatvoriť poistenia zodpovednosti za škody spôsobené prevádzkou plavidla  \f",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Lodné osvedčenie malého plavidla, ktoré vydáva Dopravný úrad má platnosť najviac: ",
+            "a": [
+                {
+                    "option": " 10 rokov ",
+                    "correct": false
+                },
+                {
+                    "option": " 5 rokov ",
+                    "correct": true
+                },
+                {
+                    "option": " 20 rokov  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Kto vykonáva odborné vyšetrovanienie plavebnej nehody? ",
+            "a": [
+                {
+                    "option": " Dopravný úrad. ",
+                    "correct": true
+                },
+                {
+                    "option": " Policajný zbor Slovenskej republiky ",
+                    "correct": false
+                },
+                {
+                    "option": " správca vodného toku na ktorom nehoda vznikla  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Majú plavební inšpektori právo vstupovať na plavidlá počas plavby alebo počas ich státia? ",
+            "a": [
+                {
+                    "option": " áno, ale len na plavidlá prevádzkované právnickou osobou ",
+                    "correct": false
+                },
+                {
+                    "option": " áno, za účelom výkonu štátneho odborného dozoru nad plavbou ",
+                    "correct": true
+                },
+                {
+                    "option": " nie, len vtedy ak došlo k plavebnej nehode ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Ako rozoznáte plavidlo Dopravného úradu vykonávajúce štátny odborný dozor nad plavbou od ostatných plavidiel? ",
+            "a": [
+                {
+                    "option": " na plavidle Dopravného úradu bliká modré svetlo ",
+                    "correct": true
+                },
+                {
+                    "option": " na plavidle Dopravného úradu bliká oranžové svetlo ",
+                    "correct": false
+                },
+                {
+                    "option": " na plavidle Dopravného úradu bliká červené svetlo ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Prehliadky plavidiel na účel overenia ich spôsobilosti vykonáva: ",
+            "a": [
+                {
+                    "option": " Policajný zbor Slovenskej republiky ",
+                    "correct": false
+                },
+                {
+                    "option": " Ministerstvo dopravy, výstavby a regionálneho rozvoja SR ",
+                    "correct": false
+                },
+                {
+                    "option": " Dopravný úrad  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Register plavidiel je: ",
+            "a": [
+                {
+                    "option": " verejný a každý má právo na základe písomnej žiadosti do neho nahliadať a robiť si z neho výpisy alebo odpisy ",
+                    "correct": true
+                },
+                {
+                    "option": " neverejne prístupný zoznam ",
+                    "correct": false
+                },
+                {
+                    "option": " je utajený zoznam  \f",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Štátna vlajka Slovenskej republiky môže byť vztýčená na plavidle: ",
+            "a": [
+                {
+                    "option": " stále ",
+                    "correct": false
+                },
+                {
+                    "option": " len v čase od východu do západu slnka ",
+                    "correct": true
+                },
+                {
+                    "option": " len v čase štátneho smútku  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Plavebná nehoda je: ",
+            "a": [
+                {
+                    "option": " udalosť, ktorá sa stala iba počas prevádzky plavidla, nie v príčinnej súčinnosti s ňou a má za následok výlučne poškodenie alebo zničenie plavidla, jeho súčasti alebo výstroja ",
+                    "correct": false
+                },
+                {
+                    "option": " udalosť, ktorá sa stala počas prevádzky plavidla alebo v príčinnej súvislosti s ňou a má za následok poškodenie alebo zničenie plavidla, jeho súčasti alebo výstroja, poškodenie alebo zničenie prepravovaného tovaru, ak tieto následky nevyplynuli z povahy samotného nákladu, poškodenie vodnej cesty alebo stavieb na nej alebo spôsobenie ujmy na zdraví či smrť. ",
+                    "correct": true
+                },
+                {
+                    "option": " udalosť, ktorá sa nestala počas prevádzky plavidla, ale v príčinnej súvislosti s ňou a má za následok poškodenie plavidla alebo vodnej cesty  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " O zriadení a zrušení požičovne malých plavidiel rozhoduje: ",
+            "a": [
+                {
+                    "option": " klasifikačná organizácia ",
+                    "correct": false
+                },
+                {
+                    "option": " Ministerstvo dopravy, pôšt a telekomunikácií ",
+                    "correct": false
+                },
+                {
+                    "option": " Dopravný úrad  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Osobitné povolenie na prevádzku plavidla vydáva: ",
+            "a": [
+                {
+                    "option": " vydáva ho Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky na základe žiadosti prevádzkovateľa plavidla na dobu nevyhnutne potrebnú na uskutočnenie jednotlivej plavby, spravidla skúšobnej ",
+                    "correct": false
+                },
+                {
+                    "option": " vydáva ho Dopravný úrad na základe žiadosti prevádzkovateľa plavidla na dobu nevyhnutne potrebnú ",
+                    "correct": true
+                },
+                {
+                    "option": " vydáva ho Dopravný úrad na základe žiadosti prevádzkovateľa plavidla na dobu určitú, najviac na päť rokov  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Plavidlá svojimi vlastnosťami musia vyhovovať: ",
+            "a": [
+                {
+                    "option": " iba podmienkam na vodnej ceste ",
+                    "correct": false
+                },
+                {
+                    "option": " iba Pravidlám bezpečnosti prevádzky plavidla po vnútrozemských vodných cestách Slovenskej republiky ",
+                    "correct": false
+                },
+                {
+                    "option": " pravidlám bezpečnosti prevádzky plavidla, požiadavkám na bezpečnosť členov posádky plavidla a prepravovaných osôb, pravidlám prepravy nebezpečných tovarov a podmienkam na vodnej ceste  \f",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Prístaviskom sa rozumie: ",
+            "a": [
+                {
+                    "option": " miesto, ktoré slúži na vykonávanie činnosti súvisiacej s obsluhou a prevádzkou plavidiel ",
+                    "correct": true
+                },
+                {
+                    "option": " vymedzené územie vrátane vodnej časti, stavieb a zariadení, ktoré slúžia na prekladanie, skladovanie, opracovanie a dopravu tovarov, naloďovanie a vyloďovanie cestujúcich a ochranu plavidiel pri prechode ľadochodov a povodňových prietokov, ako aj na vykonávanie činností súvisiacich s prevádzkou plavidiel a ich opravou, rekonštrukciou alebo stavbou ",
+                    "correct": false
+                },
+                {
+                    "option": " miesto slúžiace na oddych členov posádky plavidla  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Prístavom sa rozumie: ",
+            "a": [
+                {
+                    "option": " miesto vykotvenia plavidiel za účelom ich zazimovania ",
+                    "correct": false
+                },
+                {
+                    "option": " vymedzené územie vrátane vodnej časti, stavieb a zariadení, ktoré slúžia na prekladanie, skladovanie, opracovanie a dopravu tovarov, naloďovanie a vyloďovanie cestujúcich a ochranu plavidiel pri prechode ľadochodov a povodňových prietokov, ako aj na vykonávanie činností súvisiacich s prevádzkou plavidiel a ich opravou, rekonštrukciou alebo stavbou ",
+                    "correct": true
+                },
+                {
+                    "option": " miesto slúžiace na oddych členov posádky plavidla  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Štátny odborný dozor nad dodržiavaním pravidiel bezpečnosti vnútrozemskej plavby vykonáva: ",
+            "a": [
+                {
+                    "option": " Policajný zbor Slovenskej republiky ",
+                    "correct": false
+                },
+                {
+                    "option": " Dopravný úrad ",
+                    "correct": true
+                },
+                {
+                    "option": " Správca vodného toku, alebo inej vodnej plochy  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Prevádzkou plavidiel sa podľa zákona 338/2000 Z.z. v znení neskorších predpisov rozumie: ",
+            "a": [
+                {
+                    "option": " iba plavba plavidiel na vodných cestách a v prístavoch ",
+                    "correct": false
+                },
+                {
+                    "option": " iba státie alebo kotvenie plavidiel na vodných cestách alebo v prístavoch ",
+                    "correct": false
+                },
+                {
+                    "option": " plavba, státie alebo kotvenie plavidiel na vodných cestách alebo v prístavoch  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Ak plavebný inšpektor pri výkone štátneho odborného dozoru nad plavbou zistí u vodcu malého plavidla závažné porušenie zákona o vnútrozemskej plavbe alebo súvisiacich všeobecne záväzných právnych predpisov môže vodcovi malého plavidla: ",
+            "a": [
+                {
+                    "option": " zadržať preukaz odbornej spôsobilosti vodcu malého plavidla ",
+                    "correct": true
+                },
+                {
+                    "option": " zadržať lodné osvedčenie ",
+                    "correct": false
+                },
+                {
+                    "option": " zadržať klasifikačný preukaz  \f",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Ak plavebný inšpektor pri výkone štátneho odborného dozoru nad plavbou zistí závady alebo nedostatky na plavidle, ktoré by mohli ohroziť bezpečnosť prevádzky plavidla môže vodcovi malého plavidla: ",
+            "a": [
+                {
+                    "option": " zadržať preukaz odbornej spôsobilosti vodcu malého plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " zadržať lodné osvedčenie alebo osvedčenie o schválení plavidla ",
+                    "correct": true
+                },
+                {
+                    "option": " zadržať klasifikačný preukaz",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
             "q": "Pojem \"plavidlo\" znamená podľa Cevni:\r ",
             "a": [
                 {
@@ -2603,6 +3382,1868 @@
                 },
                 {
                     "option": "obyčajné biele svetlo umiestnené na vhodnom mieste a v takej výške, aby bolo viditeľné zo všetkých strán\r \r ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": "Juvenilná voda je: ",
+            "a": [
+                {
+                    "option": " skondenzovaná para alebo dažďová voda ",
+                    "correct": true
+                },
+                {
+                    "option": " oligocénna voda ťažená z hĺbky 300m ",
+                    "correct": false
+                },
+                {
+                    "option": " voda z roztopených ľadovcov  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": "Brakická voda je: ",
+            "a": [
+                {
+                    "option": " morská - slaná voda ",
+                    "correct": false
+                },
+                {
+                    "option": " sladká (riečna voda) zmiešaná s morskou vodou v ústiach veľkých riek ",
+                    "correct": true
+                },
+                {
+                    "option": " riečna - sladká voda  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": "Morská voda má hmotnosť približne: ",
+            "a": [
+                {
+                    "option": " 1 liter = 1,00 kg ",
+                    "correct": false
+                },
+                {
+                    "option": " 1 liter = 2,00 kg ",
+                    "correct": false
+                },
+                {
+                    "option": " 1 liter = 1,16 kg  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": "Riečna - sladká voda má hmotnosť približne: ",
+            "a": [
+                {
+                    "option": " 1 liter = 1,00 kg ",
+                    "correct": true
+                },
+                {
+                    "option": " 1 liter = 1,16 kg ",
+                    "correct": false
+                },
+                {
+                    "option": " 1 liter = 2,00 kg  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": "Vnútorné moria sú: ",
+            "a": [
+                {
+                    "option": " slané jazerá do plochy 1000 m2 ",
+                    "correct": false
+                },
+                {
+                    "option": " moria zo slanou vodou celkom obkľúčené pevninami; s inými moriami sú spojené iba úžinami alebo umelými prieplavmi, alebo nie sú s nimi spojené vôbec ",
+                    "correct": true
+                },
+                {
+                    "option": " uzavreté vodné plochy (priehrady na riekach)  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": "Svetové moria sú: ",
+            "a": [
+                {
+                    "option": " moria tvoriace prirodzené hranice medzi dvoma alebo viacerými štátmi ",
+                    "correct": false
+                },
+                {
+                    "option": " moria tvoriace prirodzené hranice medzi dvoma alebo viacerými svetadielmi ",
+                    "correct": false
+                },
+                {
+                    "option": " oceány a moria  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": "Stojaté vodstvo: ",
+            "a": [
+                {
+                    "option": " je prirodzeného alebo umelého pôvodu (močiare, jazerá, uzavreté vodné nádrže, moria) ",
+                    "correct": true
+                },
+                {
+                    "option": " sú iba jazerá so slanou vodou ",
+                    "correct": false
+                },
+                {
+                    "option": " sú iba moria so slanou morskou vodou  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": "Voda v tekutom stave pokrýva zemský povrch v množstve okolo: ",
+            "a": [
+                {
+                    "option": " 90% ",
+                    "correct": false
+                },
+                {
+                    "option": " 75% ",
+                    "correct": true
+                },
+                {
+                    "option": " 50%  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": "Povodie je: ",
+            "a": [
+                {
+                    "option": " hranica medzi jednotlivými vodnými tokmi, obyčajne prechádza po hrebeňoch hôr, oddeľujúcich vodné toky ",
+                    "correct": false
+                },
+                {
+                    "option": " plocha vodnej nádrže, jazera, rybníka a podobne ",
+                    "correct": false
+                },
+                {
+                    "option": " plocha zemského povrchu, z ktorého jeden hlavný tok odvádza vodu do iného väčšieho vodného toku alebo mora  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Rozvodie je: ",
+            "a": [
+                {
+                    "option": " hranica medzi jednotlivými vodnými tokmi, obyčajne prechádza po hrebeňoch hôr, oddeľujúcich vodné toky ",
+                    "correct": true
+                },
+                {
+                    "option": " plocha zemského povrchu, z ktorého jeden hlavný tok odvádza vodu do iného väčšieho vodného toku alebo mora ",
+                    "correct": false
+                },
+                {
+                    "option": " rozdelenie vodného toku; napríklad pri ostrove  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Vodný stav je: ",
+            "a": [
+                {
+                    "option": " určujúcim údajom pre stavbu lodí - a znamená podiel soli vo vode , čo je dôležité pri zisťovaní korózie lodných telies ",
+                    "correct": false
+                },
+                {
+                    "option": " výška vodnej hladiny na vodnej ceste v mieste merania ",
+                    "correct": true
+                },
+                {
+                    "option": " určujúcim údajom pre teplotu vody a tým ochranu lodných telies  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Zvratné prúdy sú prúdy vznikajúce: ",
+            "a": [
+                {
+                    "option": " pri plavbe za tlačnou zostavou ",
+                    "correct": false
+                },
+                {
+                    "option": " pri plavbe za vlečnou zostavou ",
+                    "correct": false
+                },
+                {
+                    "option": " na vodnom toku za rôznymi výčnelkami z brehov  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Plytčiny sú miesta na vodnej ceste: ",
+            "a": [
+                {
+                    "option": " s obmedzenými hĺbkami ",
+                    "correct": true
+                },
+                {
+                    "option": " vhodné na predchádzanie ",
+                    "correct": false
+                },
+                {
+                    "option": " s neohraničenou hĺbkou  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Regulácia vodnej cesty je: ",
+            "a": [
+                {
+                    "option": " postavenie priehrad a plavebných komôr na vodnom toku ",
+                    "correct": false
+                },
+                {
+                    "option": " úprava vodného toku na zlepšenie plavebných pomerov regulačným bagrovaním, úpravou brehov a výstavbou priečnych aj pozdĺžnych výhonov a hrádzí ",
+                    "correct": true
+                },
+                {
+                    "option": " plavebný kanál vybudovaný medzi dvomi vodnými cestami  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Výhony sú: ",
+            "a": [
+                {
+                    "option": " kamenné hrádze pozdĺž brehov vodného toku, aby sa vodný prúd rieky sústreďoval do užšieho miesta a tým vytvoril zvýšenie plavebnej hladiny ",
+                    "correct": false
+                },
+                {
+                    "option": " uzavretie vodného toku pozdĺžnou hrádzou ",
+                    "correct": false
+                },
+                {
+                    "option": " kamenné hrádze vybiehajúce naprieč od brehov do riečneho koryta, aby sa vodný prúd rieky sústreďoval do užšieho miesta a tým vytvoril zvýšenie plavebnej hladiny  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Prieplav je: ",
+            "a": [
+                {
+                    "option": " umelo vytvorená vodná cesta ",
+                    "correct": true
+                },
+                {
+                    "option": " prirodzená vodná cesta určená na preplávanie veľkých lodí ",
+                    "correct": false
+                },
+                {
+                    "option": " zavlažovací kanál  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Vietor je: ",
+            "a": [
+                {
+                    "option": " zhusťovanie vodnej pary pri ochladzovaní ",
+                    "correct": false
+                },
+                {
+                    "option": " horizontálne prúdenie vzduchu, ktoré vzniká v dôsledku rozdielnych tlakov a teploty vzdušných vrstiev, prúdi zo studenej do teplej oblasti ",
+                    "correct": true
+                },
+                {
+                    "option": " prúdenie vzduchu, ktoré vzniká v dôsledku rozdielnych tlakov a teploty vzdušných vrstiev, prúdi z teplej do studenej oblasti (studený vzduch stúpa hore a uvoľňuje spodné miesto teplému vzduchu)  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Dunaj preteká cez nasledovné krajiny: ",
+            "a": [
+                {
+                    "option": " Nemecko, Rakúsko, Slovensko, Maďarsko, Chorvátsko, Srbsko, Rumunsko, Bulharsko, Moldavsko, Ukrajina ",
+                    "correct": true
+                },
+                {
+                    "option": " Nemecko, Rakúsko, Slovensko, Maďarsko, Slovinsko, Srbsko, Rumunsko, Bulharsko, Ukrajina ",
+                    "correct": false
+                },
+                {
+                    "option": " Nemecko, Rakúsko, Slovensko, Maďarsko, Slovinsko, Chorvátsko, Macedónsko, Rumunsko, Bulharsko, Ukrajina  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Hmla je: ",
+            "a": [
+                {
+                    "option": " vyparená voda, vzniká v dôsledku ochladzovania sa vody v riečnom koryte ",
+                    "correct": false
+                },
+                {
+                    "option": " vyparená voda, vzniká v dôsledku oteplenia sa vzduchu nad vodnou hladinou ",
+                    "correct": false
+                },
+                {
+                    "option": " zhustená vodná para v najnižších vrstvách vzduchu, vzniká rozdielom teplôt vzduchu a zemského povrchu (vzduch je chladnejší ako zemský povrch)  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Dunaj podľa dĺžky v Európe je rieka: ",
+            "a": [
+                {
+                    "option": " prvá najdlhšia ",
+                    "correct": false
+                },
+                {
+                    "option": " druhá najdlhšia ",
+                    "correct": true
+                },
+                {
+                    "option": " tretia najdlhšia  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Do povodia Dunaja nepatrí rieka: ",
+            "a": [
+                {
+                    "option": " Váh ",
+                    "correct": false
+                },
+                {
+                    "option": " Bodrog ",
+                    "correct": false
+                },
+                {
+                    "option": " Dunajec  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Jedna námorná míľa je: ",
+            "a": [
+                {
+                    "option": " 1852 m ",
+                    "correct": true
+                },
+                {
+                    "option": " 1609,3 m ",
+                    "correct": false
+                },
+                {
+                    "option": " 1000 m  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Uzol je miera pre meranie: ",
+            "a": [
+                {
+                    "option": " hĺbky ",
+                    "correct": false
+                },
+                {
+                    "option": " rýchlosti plavby na mori ",
+                    "correct": true
+                },
+                {
+                    "option": " rýchlosti a sily vetra  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Rýchlosť jeden uzol je: ",
+            "a": [
+                {
+                    "option": " 1,6093 km/h ",
+                    "correct": false
+                },
+                {
+                    "option": " 1,852 km/h ",
+                    "correct": true
+                },
+                {
+                    "option": " 1,000 km/h  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Rýchlosť jeden uzol je: ",
+            "a": [
+                {
+                    "option": "1,0 km/hod  ",
+                    "correct": false
+                },
+                {
+                    "option": "1,0 anglická míľa/hod  ",
+                    "correct": false
+                },
+                {
+                    "option": "1,0 námorná míľa/hod  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Beaufortova stupnica udáva: ",
+            "a": [
+                {
+                    "option": " magnetickú deklináciu ",
+                    "correct": false
+                },
+                {
+                    "option": " rýchlosť a silu vetra ",
+                    "correct": true
+                },
+                {
+                    "option": " rýchlosť a silu prúdu vodného toku  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Malý Dunaj tvorí s Dunajom: ",
+            "a": [
+                {
+                    "option": " Veľký Žitný ostrov ",
+                    "correct": true
+                },
+                {
+                    "option": " Malý Žitný ostrov ",
+                    "correct": false
+                },
+                {
+                    "option": " Ostrov Svätého Ondreja  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Mošonský Dunaj je rameno Dunaja prechádzajúce: ",
+            "a": [
+                {
+                    "option": " slovenským územím ",
+                    "correct": false
+                },
+                {
+                    "option": " slovensko - maďarským územím ",
+                    "correct": true
+                },
+                {
+                    "option": " maďarským územím  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Protipovodňová hrádza je: ",
+            "a": [
+                {
+                    "option": " hrádza po obidvoch brehoch vodného toku, zamedzujúca rozliatiu sa vody pri vysokých vodných stavoch a pri povodniach do širokého okolia vodného toku ",
+                    "correct": true
+                },
+                {
+                    "option": " hrádza, rozdeľujúca vodný tok na dve ramená ",
+                    "correct": false
+                },
+                {
+                    "option": " hrádza, postavená kolmo z brehu do vodného toku, za účelom sústredenia prúdu do užšieho prietoku a tým zvýšenie plavebných hĺbok  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Rosný bod je teplota: ",
+            "a": [
+                {
+                    "option": " pri ktorej a začína voda vyparovať ",
+                    "correct": false
+                },
+                {
+                    "option": " je bod varu vody ",
+                    "correct": false
+                },
+                {
+                    "option": " pri ktorej sa vzduch, nasýtený vodnými parami, začína zrážať  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Umelá vodná cesta je: ",
+            "a": [
+                {
+                    "option": " umelo vybudovaná vodná cesta: kanál, prieplav, plavebný most, ktorá spája dve alebo viac prirodzených vodných ciest ",
+                    "correct": true
+                },
+                {
+                    "option": " uzavreté prírodné jazero ",
+                    "correct": false
+                },
+                {
+                    "option": " jazero v horách (morské oko), na ktorom sa uskutočňuje plavba  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Vnútrozemské vodné cesty sú: ",
+            "a": [
+                {
+                    "option": " v rámci jedného štátu ",
+                    "correct": false
+                },
+                {
+                    "option": " vodný tok alebo iná vodná plocha, ako sú povrchové, podzemné a banské vody, ktoré sú splavné pre daný typ plavidla a na ktorých nie je plavba zakázaná ",
+                    "correct": true
+                },
+                {
+                    "option": " vodné cesty vo vnútri jedného štátu, vodné cesty tvoriace prirodzenú alebo umelú štátnu hranicu, sa za také nepovažujú  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Laterárne prieplavy sú: ",
+            "a": [
+                {
+                    "option": " umelo vybudované vodné cesty súbežné s hlavnými vodnými tokmi ",
+                    "correct": true
+                },
+                {
+                    "option": " vodné cesty, z ktorých sa môže odčerpávať voda na zavlažovanie ",
+                    "correct": false
+                },
+                {
+                    "option": " prieplavy medzi moriami a oceánmi (Panamský, Suezský)  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Vodočet je: ",
+            "a": [
+                {
+                    "option": " prístroj na meranie rýchlosti prúdenia vody ",
+                    "correct": false
+                },
+                {
+                    "option": " prostriedok na meranie výšky vodnej hladiny v mieste merania ",
+                    "correct": true
+                },
+                {
+                    "option": " prístroj na meranie rýchlosti plavidla  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Hydromodul je: ",
+            "a": [
+                {
+                    "option": " najvyšší vodný stav, nameraný na určitom vodnom toku alebo uzavretej vodnej ceste ",
+                    "correct": false
+                },
+                {
+                    "option": " najnižší vodný stav, nameraný na určitom vodnom toku alebo uzavretej vodnej ceste ",
+                    "correct": false
+                },
+                {
+                    "option": " výškový rozdiel medzi najvyšším a najnižším vodným stavom v stanovenom mieste  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Konvexný breh je: ",
+            "a": [
+                {
+                    "option": " vypuklý breh vodného toku (vnútorný oblúk zákruty toku) ",
+                    "correct": true
+                },
+                {
+                    "option": " vydutý breh vodného toku (kde vodný prúd vymieľa breh) ",
+                    "correct": false
+                },
+                {
+                    "option": " umelo vybudovaný breh vodného toku z kameňa alebo betónu  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Konkávny breh je: ",
+            "a": [
+                {
+                    "option": " vypuklý breh vodného toku (kde sa tvorí piesčina) ",
+                    "correct": false
+                },
+                {
+                    "option": " vydutý breh vodného toku (vonkajší oblúk zákruty toku) ",
+                    "correct": true
+                },
+                {
+                    "option": " umelo vybudovaný breh vodného toku z kameňa alebo betónu  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Limnigraf je: ",
+            "a": [
+                {
+                    "option": " prístroj na meranie a automatické zapisovanie výšky vodného stavu ",
+                    "correct": true
+                },
+                {
+                    "option": " prístroj na meranie výšky plavebných hĺbok ",
+                    "correct": false
+                },
+                {
+                    "option": " prístroj na meranie rýchlosti plavby  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Absolútny spád vodného toku je: ",
+            "a": [
+                {
+                    "option": " výškový rozdiel dvoch miest na rieke (rozdiel ich nadmorských výšok) udávaný v percentách ",
+                    "correct": false
+                },
+                {
+                    "option": " výškový rozdiel dvoch miest na rieke (rozdiel ich nadmorských výšok) udávaný v metroch ",
+                    "correct": true
+                },
+                {
+                    "option": " výškový rozdiel dvoch miest na rieke (rozdiel ich nadmorských výšok) udávaný v promilách  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Plavebná komora je zariadenia na: ",
+            "a": [
+                {
+                    "option": " laboratórne skúšanie modelov plavidiel ",
+                    "correct": false
+                },
+                {
+                    "option": " ochranný prístav pre plavidlá proti vetru a povodniam ",
+                    "correct": false
+                },
+                {
+                    "option": " prekonávanie výškových rozdielov hladín nad a pod priehradou plavidlami  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Kilometráž riek v povodí Dunaja je: ",
+            "a": [
+                {
+                    "option": " vždy od ústia rieky proti prúdu ",
+                    "correct": true
+                },
+                {
+                    "option": " vždy od prameňa rieky po prúde ",
+                    "correct": false
+                },
+                {
+                    "option": " podľa systému zavedenom správcom toku   ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Kompas alebo buzola je prístroj na určovanie: ",
+            "a": [
+                {
+                    "option": " polohy lode na mori alebo veľkých jazerách, pri zameraní na nebeské telesá ",
+                    "correct": false
+                },
+                {
+                    "option": " smeru a rýchlosti vetra ",
+                    "correct": false
+                },
+                {
+                    "option": " svetových strán  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Sextant je prístroj na určovanie: ",
+            "a": [
+                {
+                    "option": " polohy lode na mori alebo veľkých jazerách, pri zameraní na nebeské telesá ",
+                    "correct": true
+                },
+                {
+                    "option": " smeru a rýchlosti vetra ",
+                    "correct": false
+                },
+                {
+                    "option": " svetových strán  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Anemometer je prístroj na určovanie: ",
+            "a": [
+                {
+                    "option": " polohy lode na mori alebo veľkých jazerách, pri zameraní na nebeské telesá ",
+                    "correct": false
+                },
+                {
+                    "option": " rýchlosti vetra ",
+                    "correct": true
+                },
+                {
+                    "option": " svetových strán  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " GPS je prístroj na určovanie polohy plavidla na princípe: ",
+            "a": [
+                {
+                    "option": " nebeských telies ",
+                    "correct": false
+                },
+                {
+                    "option": " satelitov ",
+                    "correct": true
+                },
+                {
+                    "option": " vodorovných uhlov  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Echolot je prístroj na meranie: ",
+            "a": [
+                {
+                    "option": " ponoru plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " rýchlosti plavby ",
+                    "correct": false
+                },
+                {
+                    "option": " hĺbky pod dnom plavidla  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Log je prístroj na meranie: ",
+            "a": [
+                {
+                    "option": " hĺbky pod dnom plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " rýchlosti plavby ",
+                    "correct": true
+                },
+                {
+                    "option": " ponoru plavidla  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Kormidlo je zariadenie na: ",
+            "a": [
+                {
+                    "option": " udržanie a zmenu smeru plavby ",
+                    "correct": true
+                },
+                {
+                    "option": " pohon lode ",
+                    "correct": false
+                },
+                {
+                    "option": " meranie rýchlosti lode  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Pristávanie k pristávaciemu zariadeniu (pontón, mólo) na tečúcej vode sa vykonáva zásadne plavbou: ",
+            "a": [
+                {
+                    "option": " po prúde v ostrom uhle k pristávaciemu zariadeniu ",
+                    "correct": false
+                },
+                {
+                    "option": " proti prúdu ",
+                    "correct": true
+                },
+                {
+                    "option": " kolmo na pristávacie zariadenie alebo breh  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Pri odplávaní od pristávacieho zariadenia (pontón, mólo) na tečúcej vode odviažeme najskôr: ",
+            "a": [
+                {
+                    "option": " predné lano a necháme sa na zadnom lane otočiť do poprúdneho smeru ",
+                    "correct": false
+                },
+                {
+                    "option": " predné lano a spustením motora udržiavame plavidlo v protiprúdnom smere ",
+                    "correct": false
+                },
+                {
+                    "option": " krížne lano, zadné lano, spustíme motor, zaradíme pomalý chod vpred a odviažeme predné lano  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Pri vyplávaní z kľudnej vody bazénu prístavu alebo kanálu plávame vždy: ",
+            "a": [
+                {
+                    "option": " spätným chodom tak, aby nám prúd nestrhol čelo plavidla, s čo najväčšími otáčkami motora ",
+                    "correct": false
+                },
+                {
+                    "option": " predným chodom pri zohľadnení miestnych podmienok a plavebnej premávky ",
+                    "correct": true
+                },
+                {
+                    "option": " kolmo na prúd tečúcej vody, čo najväčšou rýchlosťou  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Traverzové preplávanie prúdu (z jedného brehu k druhém ) je: ",
+            "a": [
+                {
+                    "option": " nastavenie plavidla v protiprúdnom smere asi 45° proti osi prúdu s primeraným použitím propulzného zariadenia ",
+                    "correct": true
+                },
+                {
+                    "option": " plavba kolmo na prúd vodného toku ",
+                    "correct": false
+                },
+                {
+                    "option": " plavba po prúde, kde si pomáhame spätným chodom  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Pri zvlnenej vodnej hladine prechádzame vlnami pokiaľ možno vždy: ",
+            "a": [
+                {
+                    "option": " kolmo na vlny a vždy čo najväčšou rýchlosťou ",
+                    "correct": false
+                },
+                {
+                    "option": " kolmo na vlny zníženou rýchlosťou ",
+                    "correct": true
+                },
+                {
+                    "option": " pod uhlom 30° k preplávajúcej vlne a čo najväčšou rýchlosťou  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Príliv a odliv na mori je spôsobený: ",
+            "a": [
+                {
+                    "option": " rotáciou Zeme okolo svojej osi ",
+                    "correct": false
+                },
+                {
+                    "option": " príťažlivou silou Mesiaca a Marsu ",
+                    "correct": false
+                },
+                {
+                    "option": " príťažlivou silou Slnka a Mesiaca  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Plavebnú nehodu je potrebné v každom prípade nahlásiť: ",
+            "a": [
+                {
+                    "option": " Dopravnému úradu, ak škoda nevznikla len na plavidle alebo škoda vznikla len na plavidle a prevyšuje 10 000,- € ",
+                    "correct": true
+                },
+                {
+                    "option": " polícii a správcovi toku ",
+                    "correct": false
+                },
+                {
+                    "option": " správcovi stavby  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Poškodenie CASCO (kasko) znamená poškodenie: ",
+            "a": [
+                {
+                    "option": " plavidla aj tovaru ",
+                    "correct": false
+                },
+                {
+                    "option": " tovaru a osôb ",
+                    "correct": false
+                },
+                {
+                    "option": " plavidla  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Poškodenie CARGO (kargo) znamená poškodenie: ",
+            "a": [
+                {
+                    "option": " nákladu a osôb ",
+                    "correct": true
+                },
+                {
+                    "option": " plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " plavidla aj tovaru a osôb  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " S plavidlom pristávame: ",
+            "a": [
+                {
+                    "option": " po vetre ",
+                    "correct": false
+                },
+                {
+                    "option": " po vetre a proti prúdu ",
+                    "correct": false
+                },
+                {
+                    "option": " podľa možnosti proti vetru a proti prúdu  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Balast je: ",
+            "a": [
+                {
+                    "option": " umelá záťaž, slúžiaca na zvýšenie ťažiska ",
+                    "correct": false
+                },
+                {
+                    "option": " umelá záťaž, vyrovnávajúca (stabilizujúca) polohu plavidla v pozdĺžnej aj priečnej osi ",
+                    "correct": true
+                },
+                {
+                    "option": " umelá záťaž, slúžiaca na zmenšenie metacentrickej výšky  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Zemepisná šírka označuje: ",
+            "a": [
+                {
+                    "option": " uhol medzi nultým (Greenwichským) poludníkom a určitým bodom na východnej alebo západnej pologuli ( 0° - 180° ) ",
+                    "correct": false
+                },
+                {
+                    "option": " poludník ",
+                    "correct": false
+                },
+                {
+                    "option": " uhol medzi rovníkom a príslušnou polohou určitého bodu na severnej alebo južnej pologuli (0°90°)  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Zemepisná dĺžka označuje: ",
+            "a": [
+                {
+                    "option": " uhol medzi rovníkom a príslušnou polohou určitého bodu na severnej alebo južnej pologuli (0°90°) ",
+                    "correct": false
+                },
+                {
+                    "option": " uhol medzi nultým (Greenwichským) poludníkom a určitým bodom na východnej alebo západnej pologuli ( 0° - 180° ) ",
+                    "correct": true
+                },
+                {
+                    "option": " rovnobežku  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Trimaran je plavidlo: ",
+            "a": [
+                {
+                    "option": " s jedným trupom ",
+                    "correct": false
+                },
+                {
+                    "option": " s dvoma trupmi ",
+                    "correct": false
+                },
+                {
+                    "option": " s troma trupmi  \f",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Katamaran je plavidlo: ",
+            "a": [
+                {
+                    "option": " s jedným trupom ",
+                    "correct": false
+                },
+                {
+                    "option": " s dvoma trupmi ",
+                    "correct": true
+                },
+                {
+                    "option": " s troma trupmi  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Akčný rádius je: ",
+            "a": [
+                {
+                    "option": " polomer otáčania sa plavidiel ",
+                    "correct": false
+                },
+                {
+                    "option": " polomer zákrut na vodnom toku ",
+                    "correct": false
+                },
+                {
+                    "option": " vzdialenosť, kam až môže plavidlo doplávať vzhľadom k spotrebe pohonných hmôt a zásob  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Balastná nádrž je umiestnená: ",
+            "a": [
+                {
+                    "option": " v trupe plavidla (steny a dno), slúži na vyrovnávanie - stabilizáciu náklonov plavidla ",
+                    "correct": true
+                },
+                {
+                    "option": " v trupe plavidla (steny a dno) slúži na reguláciu ponoru a zaistenie stability plavidla pri plavbe plne naloženého plavidla na mori ",
+                    "correct": false
+                },
+                {
+                    "option": " v trupe plavidla (steny a dno) slúži na reguláciu ponoru a zaistenie stability plavidla pri plavbe plne naloženého plavidla na riekach a jazerách  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Signálna bója je: ",
+            "a": [
+                {
+                    "option": " ukotvené duté teleso, ktoré plní výlučne úlohy na označenie iba ostrovov a ramien vodnej cesty ",
+                    "correct": false
+                },
+                {
+                    "option": " zariadenie slúžiace iba na vyviazanie plavidiel ",
+                    "correct": false
+                },
+                {
+                    "option": " ukotvené duté teleso, ktoré plní úlohy na označenie vodnej cesty  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Cyklón na severnej pologuli je: ",
+            "a": [
+                {
+                    "option": " víchor, prejavujúci sa vírom točiacim sa proti smeru hodinových ručičiek, vznikajúci v extrémne nízkom barometrickom tlaku, postupuje spravidla severovýchodným smerom - veľmi nebezpečný pre plavidlá ",
+                    "correct": true
+                },
+                {
+                    "option": " víchor, prejavujúci sa vírom točiacim sa v smere hodinových ručičiek, vznikajúci v extrémne nízkom barometrickom tlaku, postupuje spravidla juhovýchodným smerom - veľmi nebezpečný pre plavidlá ",
+                    "correct": false
+                },
+                {
+                    "option": " víchor, prejavujúci sa vírom točiacim sa v smere hodinových ručičiek, vznikajúci v extrémne nízkom barometrickom tlaku, postupuje spravidla severozápadným smerom - veľmi nebezpečný hlavne pre pobrežné stavby  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Goniometer je prístroj používaný na zisťovanie polohy lode na princípe: ",
+            "a": [
+                {
+                    "option": " vodorovných uhlov ",
+                    "correct": true
+                },
+                {
+                    "option": " priestorových uhlov ",
+                    "correct": false
+                },
+                {
+                    "option": " kurzu plavidla k nebeským telesám  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Gyrokompas je: ",
+            "a": [
+                {
+                    "option": " buzola na určovanie svetových strán ",
+                    "correct": false
+                },
+                {
+                    "option": " zotrvačníkový kompas, ktorý ukazuje sever nezávisle na magnetickom poli plavidla ",
+                    "correct": true
+                },
+                {
+                    "option": " prístroj na zisťovanie polohy lode na mori voči nebeským telesám  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Kokpit je priestor v malom plavidle: ",
+            "a": [
+                {
+                    "option": " medzi lodným dnom a podlahou plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " priestor, kde sa nachádza lodný motor ",
+                    "correct": false
+                },
+                {
+                    "option": " nekrytý priestor pre posádku  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Kolízny priestor je priestor nachádzajúci sa na plavidle: ",
+            "a": [
+                {
+                    "option": " vodotesne oddelený na čele (predný) alebo na korme (zadný), ktorý má za úlohu zachytiť časť síl pôsobiacich pri náraze plavidla ",
+                    "correct": true
+                },
+                {
+                    "option": " na bokoch plavidla (pravý a ľavý), ktorý má za úlohu zachytiť časť síl pôsobiacich pri náraze plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " na dne plavidla, ktorý má za úlohu zachytiť časť síl pôsobiacich pri náraze alebo nasadnutí plavidla \f",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Kýl je: ",
+            "a": [
+                {
+                    "option": " základný priečny nosník lodného trupu - rebro ",
+                    "correct": false
+                },
+                {
+                    "option": " základný pozdĺžny nosník lodného trupu - opora rebier a prechádza od čela po kormu plavidla ",
+                    "correct": true
+                },
+                {
+                    "option": " hlavný stožiar na plachetniciach  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Log je prístroj na meranie: ",
+            "a": [
+                {
+                    "option": " polohy lode podľa hviezd ",
+                    "correct": false
+                },
+                {
+                    "option": " hĺbky vody pod dnom plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " rýchlosti lode  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Marža je vzdialenosť medzi: ",
+            "a": [
+                {
+                    "option": " bokom plavidla a najbližším brehom ",
+                    "correct": false
+                },
+                {
+                    "option": " dnom plavidla a dnom vodnej cesty ",
+                    "correct": true
+                },
+                {
+                    "option": " najvyšším pevným bodom na plavidle a najnižším podjazdným bodom, napríklad mostného otvoru, lanom prievozu alebo elektrickým vedením  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Mercatorove mapy sú mapy pre námorné plavbu: ",
+            "a": [
+                {
+                    "option": " s hyperbolickou projekciou ",
+                    "correct": false
+                },
+                {
+                    "option": " s parabolickou projekciou ",
+                    "correct": false
+                },
+                {
+                    "option": " zobrazujúce poludníky a rovnobežky ako priamky  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Nautika je náuka o: ",
+            "a": [
+                {
+                    "option": " stabilite plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " stavbe plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " plavbe a plavidle  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Nosnosť plavidla je hmotnosť: ",
+            "a": [
+                {
+                    "option": " lodného nákladu alebo cestujúcich, zásob, vody, paliva, posádky - t.j. rozdiel medzi prázdnou a naloženou loďou ",
+                    "correct": true
+                },
+                {
+                    "option": " iba lodného telesa ",
+                    "correct": false
+                },
+                {
+                    "option": " zásob, paliva, vody, posádky, cestujúcich  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Pasát je vietor: ",
+            "a": [
+                {
+                    "option": " teplý, vanúci z južnej Európy cez Alpy na sever, spôsobujúci topenie snehu a ľadu v Alpách ",
+                    "correct": false
+                },
+                {
+                    "option": " prevládajúcí v tropických oblastiach, pravidelne a rovnomerne vanúci vietor po celý rok ",
+                    "correct": true
+                },
+                {
+                    "option": " studený, vanúci zo severnej Európy na juh v zimnom období  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Fén je vietor: ",
+            "a": [
+                {
+                    "option": " celoročný vietor, ktorý vanie od subtropických oblastí k rovníku, spôsobený tepelnou cirkuláciou Zeme ",
+                    "correct": false
+                },
+                {
+                    "option": " studený, vanúci zo severnej Európy na juh v zimnom období ",
+                    "correct": false
+                },
+                {
+                    "option": " teplý, vanúci z juhu cez Alpy na sever  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Periskop je zariadenie na: ",
+            "a": [
+                {
+                    "option": " zisťovanie mín a iných výbušných nástražných systémov ",
+                    "correct": false
+                },
+                {
+                    "option": " lodný ďalekohľad ",
+                    "correct": false
+                },
+                {
+                    "option": " používanie na ponorkách - optický prístroj založený na princípe šošoviek a zrkadiel  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Remorkáž je: ",
+            "a": [
+                {
+                    "option": " vlečenie alebo tlačenie plavidiel ",
+                    "correct": true
+                },
+                {
+                    "option": " plavba samostatne plávajúcich plavidiel ",
+                    "correct": false
+                },
+                {
+                    "option": " plavba samosplavom  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Obrat (rondo) znamená: ",
+            "a": [
+                {
+                    "option": " plavba proti prúdu ",
+                    "correct": false
+                },
+                {
+                    "option": " obrat plavidla alebo zostavy ",
+                    "correct": true
+                },
+                {
+                    "option": " plavba po prúde  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Trajekt je: ",
+            "a": [
+                {
+                    "option": " plavidlo prispôsobené len na prevoz lietadiel ",
+                    "correct": false
+                },
+                {
+                    "option": " plavidlo prispôsobené na prevoz nebezpečných nákladov ",
+                    "correct": false
+                },
+                {
+                    "option": " námorná prievozná loď  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Pilot (lodivod) v námornom ponímaní je odborník na: ",
+            "a": [
+                {
+                    "option": " stavbu lodí ",
+                    "correct": false
+                },
+                {
+                    "option": " odborne spôsobilá osoba určená na manévrovanie a vedenie plavidiel v určitom prístave alebo na určitej vodnej ceste ",
+                    "correct": true
+                },
+                {
+                    "option": " vedenie lode na mori  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " V zákrutách pri veľkých rýchlostiach plavidiel pôsobí odstredivá sila na plavidlo tak, že: ",
+            "a": [
+                {
+                    "option": " ho vynáša smerom dovnútra - zmenšuje polomer otáčania alebo zatáčania ",
+                    "correct": false
+                },
+                {
+                    "option": " plavidlo stojí pevne v svojej plavebnej dráhe ",
+                    "correct": false
+                },
+                {
+                    "option": " ho vynáša smerom von - zväčšuje polomer otáčania alebo zatáčania  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Vodca plavidla musí pri plavbe zohľadniť: ",
+            "a": [
+                {
+                    "option": " prúd a silu vodného toku, plavebnú prevádzku na vodnom toku a poveternostné podmienky ako vietor a hmla ",
+                    "correct": true
+                },
+                {
+                    "option": " iba silu a smer vetra ",
+                    "correct": false
+                },
+                {
+                    "option": " iba poveternostné podmienky ako hmla a jej hustota  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Klzák je plavidlo: ",
+            "a": [
+                {
+                    "option": " na nosných krídlach ",
+                    "correct": false
+                },
+                {
+                    "option": " na vzdušných vankúšoch ",
+                    "correct": false
+                },
+                {
+                    "option": " s dnom takého tvaru, na ktorom prúd vody môže vyvinúť pri danej rýchlosti dostatočný hydrodynamický vztlak, pôsobiaci zvisle na dno plavidla  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Vodomet ja zariadenie: ",
+            "a": [
+                {
+                    "option": " ktoré svojim propulzným zariadením prečerpáva vodu od dna plavidla a vysokým tlakom ju vytláča za plavidlo v určitom smere, čím spôsobuje chod dopredu ",
+                    "correct": true
+                },
+                {
+                    "option": " zariadenie na prevzdušňovanie a okysličovanie stojatých vôd ",
+                    "correct": false
+                },
+                {
+                    "option": " protipožiarne zariadenie  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Propulzné zariadenie je najvýhodnejšie umiestniť: ",
+            "a": [
+                {
+                    "option": " na čele plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " na pravom boku plavidla ",
+                    "correct": false
+                },
+                {
+                    "option": " na korme plavidla  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Propulzor je: ",
+            "a": [
+                {
+                    "option": " zariadenie potrebné na kotvenie plavidiel po vodnej ploche - klzáky ",
+                    "correct": false
+                },
+                {
+                    "option": " zariadenie potrebné na plachtenie plavidiel po vodnej ploche ",
+                    "correct": false
+                },
+                {
+                    "option": " zariadenie na pohon plavidla  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Manévrovateľnosť plavidla s propulzorom umiestneným na korme je pri spätnom chode:",
+            "a": [
+                {
+                    "option": " rovnaká ako pri vchode vpred ",
+                    "correct": false
+                },
+                {
+                    "option": " horšia ako pri vchode vpred ",
+                    "correct": true
+                },
+                {
+                    "option": " lepšia ako pri vchode vpred  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Dokormidlovacie zariadenia môžu používať: ",
+            "a": [
+                {
+                    "option": " iba malé plavidlá ",
+                    "correct": false
+                },
+                {
+                    "option": " všetky plavidlá ",
+                    "correct": true
+                },
+                {
+                    "option": " iba plávajúce stroje - bagre  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Smerová stabilita plavidla je: ",
+            "a": [
+                {
+                    "option": " schopnosť plavidla pri plavbe udržiavať sa v danom kurze bez ohľadu na vonkajšie vplyvy ",
+                    "correct": true
+                },
+                {
+                    "option": " schopnosť posádky udržiavať plavidlo v danom kurze ",
+                    "correct": false
+                },
+                {
+                    "option": " schopnosť plavidla nepodliehať vonkajším vlyvom, pôsobiacim na jeho kurz (vietor, prúd, smer otáčania vrtule, natočenie kormidelnej plutvy)  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Ovládateľnosť plavidla je: ",
+            "a": [
+                {
+                    "option": " schopnosť plavidla účinne a rýchle meniť smer a rýchlosť plavby ",
+                    "correct": true
+                },
+                {
+                    "option": " schopnosť vodcu plavidla ovládať ho aj za silnej búrky ",
+                    "correct": false
+                },
+                {
+                    "option": " je schopnosť posádky zachrániť plavidlo pri náhodnej kolízii s prekážkou na vodnej ceste  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Lodivodská služba je: ",
+            "a": [
+                {
+                    "option": " pohyb plavidiel po vodných cestách ",
+                    "correct": false
+                },
+                {
+                    "option": " vedenie plavidla lodivodom na nebezpečných a obtiažnych plavebných úsekoch ",
+                    "correct": true
+                },
+                {
+                    "option": " plavba po vnútrozemských vodných cestách  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Nautika je: ",
+            "a": [
+                {
+                    "option": " náuka o pohonnom zariadení ",
+                    "correct": false
+                },
+                {
+                    "option": " náuka o stavbe lodí ",
+                    "correct": false
+                },
+                {
+                    "option": " náuka o vedení plavidiel  ",
+                    "correct": true
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Navigácia je: ",
+            "a": [
+                {
+                    "option": " náuka o stavbe lodí ",
+                    "correct": false
+                },
+                {
+                    "option": " určovanie polohy lodi za účelom stanovovania smeru plavby ",
+                    "correct": true
+                },
+                {
+                    "option": " plavebné obdobie (leto, zima)  ",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": " Kabotáž je: ",
+            "a": [
+                {
+                    "option": " riečna plavba ",
+                    "correct": false
+                },
+                {
+                    "option": " námorná plavba ",
+                    "correct": false
+                },
+                {
+                    "option": " príbrežná plavba pozdĺž pobrežia",
                     "correct": true
                 }
             ],
