@@ -242,6 +242,11 @@
                         }
                         questionHTML.append('<h3>' + formatQuestion + '</h3>');
 
+                        // Append a quiz image
+                        if (question.img) {
+                            questionHTML.append('<img class="quizimg" src="img/' + question.img + '"></h3>');
+                        }
+
                         // Count the number of true values
                         var truths = 0;
                         for (i in question.a) {
