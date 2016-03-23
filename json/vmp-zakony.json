@@ -15,7 +15,9 @@
                     "option": " správca vodného toku zodpovedá iba za riadne vytýčenie plavebnej dráhy, ktoré vykonáva na základe pokynov Dopravného úradu, nezodpovedá za udržiavanie a zlepšovanie podmienok na prevádzku plavidiel na sledovaných vodných cestách  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Vodnou dopravou sa podľa zákona 338/2000 Z.z. v znení neskorších predpisov rozumie: ",
@@ -32,7 +34,9 @@
                     "option": " iba preprava tovaru na vodných cestách na účely podnikania  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Vnútrozemskou vodnou cestou sa podľa zákona 338/2000 Z.z. v znení neskorších predpisov rozumie: ",
@@ -49,7 +53,9 @@
                     "option": " vodný tok, alebo iná vodná plocha , ako sú povrchové, podzemné a banské vody, ktoré sú splavné pre daný typ plavidla a na ktorých nie je plavba zakázaná  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Ktoré plavidlá sa zapisujú do registra plavidiel? ",
@@ -66,7 +72,9 @@
                     "option": " plavidlá, ktorých dĺžka presahuje 4 m  \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Na malom plavidle musia byť: ",
@@ -83,7 +91,9 @@
                     "option": " lodné osvedčenie alebo osobitné povolenie na prevádzku plavidla a doklad o poistení zodpovednosti za škodu spôsobenú prevádzkou plavidla, povolenie na státie plávajúceho zariadenia na vodnej ceste alebo v prístave ak je plávajúcim zariadením, povolenie na zriadenie a prevádzkovanie rádiovej stanice, ak má plavidlo takúto stanicu, správa o revízii vyhradeného technického zariadenia podľa druhu vyhradeného technického zariadenia.  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Pod pojmom vnútrozemská plavba sa rozumie? ",
@@ -100,7 +110,9 @@
                     "option": " iba preprava tovaru na vodných cestách na účely podnikania  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Orgánmi štátnej správy pre vnútrozemskú plavbu a prístavy sú: ",
@@ -117,7 +129,9 @@
                     "option": " Ministerstvo vnútra a Polícia Slovenskej republiky  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Činnosť na vodnej ceste alebo v jej ochrannom pásme, ktorá by mohla ovplyvniť plavbu možno vykonávať len po predchádzajúcom súhlase: ",
@@ -134,7 +148,9 @@
                     "option": " správcu vodného toku.  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Môže viesť malé plavidlo podliehajúce registrácii osoba, ktorá nemá odbornú spôsobilosť „Vodca malého plavidla“ ? ",
@@ -151,7 +167,9 @@
                     "option": " nemôže  \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Štátny odborný dozor nad prevádzkou plavidiel vykonáva: ",
@@ -168,7 +186,9 @@
                     "option": " odbor dopravy na ministerstve vnútra  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Lodné osvedčenie alebo osobitné povolenie na prevádzku plavidla je: ",
@@ -185,7 +205,9 @@
                     "option": " je verejná listina len u plavidiel s výtlakom väčším ako 100 m3  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Lodné osvedčenie je: ",
@@ -202,7 +224,9 @@
                     "option": " lodná listina určujúca rozmery plavidla, vydáva ho výrobca plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Vo verejných prístavoch prístavné poplatky vyberá: ",
@@ -219,7 +243,9 @@
                     "option": " Verejné prístavy, a.s.  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Výnimku z platenia prístavných poplatkov za užívanie verejného prístavu: ",
@@ -236,7 +262,9 @@
                     "option": " udeľuje správca verejného prístavu  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Plavebný inšpektor sa pri výkone štátneho odborného dozoru preukazuje: ",
@@ -253,7 +281,9 @@
                     "option": " klasifikačným preukazom  \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Je povinný vodca plavidla nahlásiť Dopravnému úradu každú plavebnú nehodu? ",
@@ -270,7 +300,9 @@
                     "option": " nie, ak škoda vznikla len na plavidle a zrejme nepresahuje hodnotu 10 000 €  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Čo sa rozumie pod pojmom malé plavidlo v zmysle zákona 338/2000 Z.z.? ",
@@ -287,7 +319,9 @@
                     "option": " plavidlo s dĺžkou trupu do 20 m, určené na prepravu najviac 18 cestujúcich a plavidlo, ktoré je určené len športové a rekreačné účely bez ohľadu na spôsob jeho pohonu s dĺžkou trupu od 2,5 m do 24 m s výnimkou plavidiel postavených alebo určených na tlačenie alebo vlečenie alebo vedenie v bočne zviazanej zostave plavidiel, ktoré nie sú malými plavidlami, prievozných lodí a plávajúcich strojov  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Na zabezpečenie bezpečnosti a plynulosti plavebnej prevádzky Dopravný úrad vydáva: ",
@@ -304,7 +338,9 @@
                     "option": " plavebné návrhy  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Ustanovenia zákona 338/2000Z.z. o vnútrozemskej plavbe sa na neverejnú dopravu po vodných cestách vzťahujú: ",
@@ -321,7 +357,9 @@
                     "option": " nevzťahujú  \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Prevádzkovateľom plavidla je: ",
@@ -338,7 +376,9 @@
                     "option": " jeho vlastník alebo ten, kto vykonáva prevádzku plavidla vo vlastnom mene a na základe zmluvy s vlastníkom plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Ktoré plavidlá majú povinnosť niesť počas plavby štátnu vlajku Slovenskej republiky? ",
@@ -355,7 +395,9 @@
                     "option": " iba plavidlá, ktoré plávajú na nesledovaných vodných cestách  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Ktoré plavidlá podliehajú zápisu do registra plavidiel? ",
@@ -372,7 +414,9 @@
                     "option": " plavidlá, ktorých celková hmotnosť vrátane povolenej užitočnej hmotnosti presahuje 1000 kg alebo výkon pohonného zariadenia je vyšší ako 4 kW, alebo plocha plachiet je väčšia ako 12 m2, okrem plavidiel určených výlučne na športovú činnosť vykonávanú na vodných plochách vymedzených plavebným opatrením.  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Kto a na základe čoho vykonáva výmaz plavidla z registra plavidiel? ",
@@ -389,7 +433,9 @@
                     "option": " odbor dopravy na Ministerstve vnútra SR na základe súdneho nariadenia  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Možno prevádzkovať malé plavidlo, podliehajúce registrácii, bez uzatvorenia zmluvného poistenia zodpovednosti za škody spôsobené prevádzkou plavidla? ",
@@ -406,7 +452,9 @@
                     "option": " pokiaľ sa prevádzkuje malé plavidlo na uzatvorených vodných cestách nie je potrebné uzatvoriť poistenia zodpovednosti za škody spôsobené prevádzkou plavidla  \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Lodné osvedčenie malého plavidla, ktoré vydáva Dopravný úrad má platnosť najviac: ",
@@ -423,7 +471,9 @@
                     "option": " 20 rokov  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Kto vykonáva odborné vyšetrovanienie plavebnej nehody? ",
@@ -440,7 +490,9 @@
                     "option": " správca vodného toku na ktorom nehoda vznikla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Majú plavební inšpektori právo vstupovať na plavidlá počas plavby alebo počas ich státia? ",
@@ -457,7 +509,9 @@
                     "option": " na plavidle Dopravného úradu bliká červené svetlo ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Prehliadky plavidiel na účel overenia ich spôsobilosti vykonáva: ",
@@ -474,7 +528,9 @@
                     "option": " Dopravný úrad  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Register plavidiel je: ",
@@ -491,7 +547,9 @@
                     "option": " je utajený zoznam  \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Štátna vlajka Slovenskej republiky môže byť vztýčená na plavidle: ",
@@ -508,7 +566,9 @@
                     "option": " len v čase štátneho smútku  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Plavebná nehoda je: ",
@@ -525,7 +585,9 @@
                     "option": " udalosť, ktorá sa nestala počas prevádzky plavidla, ale v príčinnej súvislosti s ňou a má za následok poškodenie plavidla alebo vodnej cesty  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " O zriadení a zrušení požičovne malých plavidiel rozhoduje: ",
@@ -542,7 +604,9 @@
                     "option": " Dopravný úrad  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Osobitné povolenie na prevádzku plavidla vydáva: ",
@@ -559,7 +623,9 @@
                     "option": " vydáva ho Dopravný úrad na základe žiadosti prevádzkovateľa plavidla na dobu určitú, najviac na päť rokov  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Plavidlá svojimi vlastnosťami musia vyhovovať: ",
@@ -576,7 +642,9 @@
                     "option": " pravidlám bezpečnosti prevádzky plavidla, požiadavkám na bezpečnosť členov posádky plavidla a prepravovaných osôb, pravidlám prepravy nebezpečných tovarov a podmienkam na vodnej ceste  \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Prístaviskom sa rozumie: ",
@@ -593,7 +661,9 @@
                     "option": " miesto slúžiace na oddych členov posádky plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Prístavom sa rozumie: ",
@@ -610,7 +680,9 @@
                     "option": " miesto slúžiace na oddych členov posádky plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Štátny odborný dozor nad dodržiavaním pravidiel bezpečnosti vnútrozemskej plavby vykonáva: ",
@@ -627,7 +699,9 @@
                     "option": " Správca vodného toku, alebo inej vodnej plochy  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Prevádzkou plavidiel sa podľa zákona 338/2000 Z.z. v znení neskorších predpisov rozumie: ",
@@ -644,7 +718,9 @@
                     "option": " plavba, státie alebo kotvenie plavidiel na vodných cestách alebo v prístavoch  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Ak plavebný inšpektor pri výkone štátneho odborného dozoru nad plavbou zistí u vodcu malého plavidla závažné porušenie zákona o vnútrozemskej plavbe alebo súvisiacich všeobecne záväzných právnych predpisov môže vodcovi malého plavidla: ",
@@ -661,7 +737,9 @@
                     "option": " zadržať klasifikačný preukaz  \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Ak plavebný inšpektor pri výkone štátneho odborného dozoru nad plavbou zistí závady alebo nedostatky na plavidle, ktoré by mohli ohroziť bezpečnosť prevádzky plavidla môže vodcovi malého plavidla: ",
@@ -678,7 +756,19 @@
                     "option": " zadržať klasifikačný preukaz  \fSprávne odpovede: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21.  b a c b c a b b c b b a c a b c a b b c a  22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41.  c b b b a b a c a b b c b c a b b c a b  \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         }
-    ]
+    ],
+    "info": {
+        "name": "",
+        "main": "",
+        "results": "",
+        "level1": "",
+        "level2": "",
+        "level3": "",
+        "level4": "",
+        "level5": ""
+    }
 }

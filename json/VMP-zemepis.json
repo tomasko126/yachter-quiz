@@ -15,7 +15,9 @@
                     "option": " voda z roztopených ľadovcov  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": "Brakická voda je: ",
@@ -32,7 +34,9 @@
                     "option": " riečna - sladká voda  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": "Morská voda má hmotnosť približne: ",
@@ -49,7 +53,9 @@
                     "option": " 1 liter = 1,16 kg  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": "Riečna - sladká voda má hmotnosť približne: ",
@@ -66,7 +72,9 @@
                     "option": " 1 liter = 2,00 kg  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": "Vnútorné moria sú: ",
@@ -83,7 +91,9 @@
                     "option": " uzavreté vodné plochy (priehrady na riekach)  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": "Svetové moria sú: ",
@@ -100,7 +110,9 @@
                     "option": " oceány a moria  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": "Stojaté vodstvo: ",
@@ -117,7 +129,9 @@
                     "option": " sú iba moria so slanou morskou vodou  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": "Voda v tekutom stave pokrýva zemský povrch v množstve okolo: ",
@@ -134,7 +148,9 @@
                     "option": " 50%  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": "Povodie je: ",
@@ -151,7 +167,9 @@
                     "option": " plocha zemského povrchu, z ktorého jeden hlavný tok odvádza vodu do iného väčšieho vodného toku alebo mora  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Rozvodie je: ",
@@ -168,7 +186,9 @@
                     "option": " rozdelenie vodného toku; napríklad pri ostrove  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Vodný stav je: ",
@@ -185,7 +205,9 @@
                     "option": " určujúcim údajom pre teplotu vody a tým ochranu lodných telies  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Zvratné prúdy sú prúdy vznikajúce: ",
@@ -202,7 +224,9 @@
                     "option": " na vodnom toku za rôznymi výčnelkami z brehov  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Plytčiny sú miesta na vodnej ceste: ",
@@ -219,7 +243,9 @@
                     "option": " s neohraničenou hĺbkou  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Regulácia vodnej cesty je: ",
@@ -236,7 +262,9 @@
                     "option": " plavebný kanál vybudovaný medzi dvomi vodnými cestami  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Výhony sú: ",
@@ -253,7 +281,9 @@
                     "option": " kamenné hrádze vybiehajúce naprieč od brehov do riečneho koryta, aby sa vodný prúd rieky sústreďoval do užšieho miesta a tým vytvoril zvýšenie plavebnej hladiny  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Prieplav je: ",
@@ -270,7 +300,9 @@
                     "option": " zavlažovací kanál  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Vietor je: ",
@@ -287,7 +319,9 @@
                     "option": " prúdenie vzduchu, ktoré vzniká v dôsledku rozdielnych tlakov a teploty vzdušných vrstiev, prúdi z teplej do studenej oblasti (studený vzduch stúpa hore a uvoľňuje spodné miesto teplému vzduchu)  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Dunaj preteká cez nasledovné krajiny: ",
@@ -304,7 +338,9 @@
                     "option": " Nemecko, Rakúsko, Slovensko, Maďarsko, Slovinsko, Chorvátsko, Macedónsko, Rumunsko, Bulharsko, Ukrajina  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Hmla je: ",
@@ -321,7 +357,9 @@
                     "option": " zhustená vodná para v najnižších vrstvách vzduchu, vzniká rozdielom teplôt vzduchu a zemského povrchu (vzduch je chladnejší ako zemský povrch)  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Dunaj podľa dĺžky v Európe je rieka: ",
@@ -338,7 +376,9 @@
                     "option": " tretia najdlhšia  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Do povodia Dunaja nepatrí rieka: ",
@@ -355,7 +395,9 @@
                     "option": " Dunajec  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Jedna námorná míľa je: ",
@@ -372,7 +414,9 @@
                     "option": " 1000 m  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Uzol je miera pre meranie: ",
@@ -389,7 +433,9 @@
                     "option": " rýchlosti a sily vetra  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Rýchlosť jeden uzol je: ",
@@ -406,7 +452,9 @@
                     "option": " 1,000 km/h  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Rýchlosť jeden uzol je: ",
@@ -418,7 +466,9 @@
                 {
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Beaufortova stupnica udáva: ",
@@ -435,7 +485,9 @@
                     "option": " rýchlosť a silu prúdu vodného toku  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Malý Dunaj tvorí s Dunajom: ",
@@ -452,7 +504,9 @@
                     "option": " Ostrov Svätého Ondreja  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Mošonský Dunaj je rameno Dunaja prechádzajúce: ",
@@ -469,7 +523,9 @@
                     "option": " maďarským územím  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Protipovodňová hrádza je: ",
@@ -486,7 +542,9 @@
                     "option": " hrádza, postavená kolmo z brehu do vodného toku, za účelom sústredenia prúdu do užšieho prietoku a tým zvýšenie plavebných hĺbok  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Rosný bod je teplota: ",
@@ -503,7 +561,9 @@
                     "option": " pri ktorej sa vzduch, nasýtený vodnými parami, začína zrážať  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Umelá vodná cesta je: ",
@@ -520,7 +580,9 @@
                     "option": " jazero v horách (morské oko), na ktorom sa uskutočňuje plavba  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Vnútrozemské vodné cesty sú: ",
@@ -537,7 +599,9 @@
                     "option": " vodné cesty vo vnútri jedného štátu, vodné cesty tvoriace prirodzenú alebo umelú štátnu hranicu, sa za také nepovažujú  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Laterárne prieplavy sú: ",
@@ -554,7 +618,9 @@
                     "option": " prieplavy medzi moriami a oceánmi (Panamský, Suezský)  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Vodočet je: ",
@@ -571,7 +637,9 @@
                     "option": " prístroj na meranie rýchlosti plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Hydromodul je: ",
@@ -588,7 +656,9 @@
                     "option": " výškový rozdiel medzi najvyšším a najnižším vodným stavom v stanovenom mieste  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Konvexný breh je: ",
@@ -605,7 +675,9 @@
                     "option": " umelo vybudovaný breh vodného toku z kameňa alebo betónu  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Konkávny breh je: ",
@@ -622,7 +694,9 @@
                     "option": " umelo vybudovaný breh vodného toku z kameňa alebo betónu  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Limnigraf je: ",
@@ -639,7 +713,9 @@
                     "option": " prístroj na meranie rýchlosti plavby  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Absolútny spád vodného toku je: ",
@@ -656,7 +732,9 @@
                     "option": " výškový rozdiel dvoch miest na rieke (rozdiel ich nadmorských výšok) udávaný v promilách  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Plavebná komora je zariadenia na: ",
@@ -673,7 +751,9 @@
                     "option": " prekonávanie výškových rozdielov hladín nad a pod priehradou plavidlami  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Kilometráž riek v povodí Dunaja je: ",
@@ -690,7 +770,9 @@
                     "option": " podľa systému zavedenom správcom toku   ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Kompas alebo buzola je prístroj na určovanie: ",
@@ -707,7 +789,9 @@
                     "option": " svetových strán  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Sextant je prístroj na určovanie: ",
@@ -724,7 +808,9 @@
                     "option": " svetových strán  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Anemometer je prístroj na určovanie: ",
@@ -741,7 +827,9 @@
                     "option": " svetových strán  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " GPS je prístroj na určovanie polohy plavidla na princípe: ",
@@ -758,7 +846,9 @@
                     "option": " vodorovných uhlov  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Echolot je prístroj na meranie: ",
@@ -775,7 +865,9 @@
                     "option": " hĺbky pod dnom plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Log je prístroj na meranie: ",
@@ -792,7 +884,9 @@
                     "option": " ponoru plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Kormidlo je zariadenie na: ",
@@ -809,7 +903,9 @@
                     "option": " meranie rýchlosti lode  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Pristávanie k pristávaciemu zariadeniu (pontón, mólo) na tečúcej vode sa vykonáva zásadne plavbou: ",
@@ -826,7 +922,9 @@
                     "option": " kolmo na pristávacie zariadenie alebo breh  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Pri odplávaní od pristávacieho zariadenia (pontón, mólo) na tečúcej vode odviažeme najskôr: ",
@@ -843,7 +941,9 @@
                     "option": " krížne lano, zadné lano, spustíme motor, zaradíme pomalý chod vpred a odviažeme predné lano  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Pri vyplávaní z kľudnej vody bazénu prístavu alebo kanálu plávame vždy: ",
@@ -860,7 +960,9 @@
                     "option": " kolmo na prúd tečúcej vody, čo najväčšou rýchlosťou  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Traverzové preplávanie prúdu (z jedného brehu k druhém ) je: ",
@@ -877,7 +979,9 @@
                     "option": " plavba po prúde, kde si pomáhame spätným chodom  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Pri zvlnenej vodnej hladine prechádzame vlnami pokiaľ možno vždy: ",
@@ -894,7 +998,9 @@
                     "option": " pod uhlom 30° k preplávajúcej vlne a čo najväčšou rýchlosťou  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Príliv a odliv na mori je spôsobený: ",
@@ -911,7 +1017,9 @@
                     "option": " príťažlivou silou Slnka a Mesiaca  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Plavebnú nehodu je potrebné v každom prípade nahlásiť: ",
@@ -928,7 +1036,9 @@
                     "option": " správcovi stavby  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Poškodenie CASCO (kasko) znamená poškodenie: ",
@@ -945,7 +1055,9 @@
                     "option": " plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Poškodenie CARGO (kargo) znamená poškodenie: ",
@@ -962,7 +1074,9 @@
                     "option": " plavidla aj tovaru a osôb  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " S plavidlom pristávame: ",
@@ -979,7 +1093,9 @@
                     "option": " podľa možnosti proti vetru a proti prúdu  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Balast je: ",
@@ -996,7 +1112,9 @@
                     "option": " umelá záťaž, slúžiaca na zmenšenie metacentrickej výšky  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Zemepisná šírka označuje: ",
@@ -1013,7 +1131,9 @@
                     "option": " uhol medzi rovníkom a príslušnou polohou určitého bodu na severnej alebo južnej pologuli (0°90°)  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Zemepisná dĺžka označuje: ",
@@ -1030,7 +1150,9 @@
                     "option": " rovnobežku  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Trimaran je plavidlo: ",
@@ -1047,7 +1169,9 @@
                     "option": " s troma trupmi  \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Katamaran je plavidlo: ",
@@ -1064,7 +1188,9 @@
                     "option": " s troma trupmi  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Akčný rádius je: ",
@@ -1081,7 +1207,9 @@
                     "option": " vzdialenosť, kam až môže plavidlo doplávať vzhľadom k spotrebe pohonných hmôt a zásob  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Balastná nádrž je umiestnená: ",
@@ -1098,7 +1226,9 @@
                     "option": " v trupe plavidla (steny a dno) slúži na reguláciu ponoru a zaistenie stability plavidla pri plavbe plne naloženého plavidla na riekach a jazerách  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Signálna bója je: ",
@@ -1115,7 +1245,9 @@
                     "option": " ukotvené duté teleso, ktoré plní úlohy na označenie vodnej cesty  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Cyklón na severnej pologuli je: ",
@@ -1132,7 +1264,9 @@
                     "option": " víchor, prejavujúci sa vírom točiacim sa v smere hodinových ručičiek, vznikajúci v extrémne nízkom barometrickom tlaku, postupuje spravidla severozápadným smerom - veľmi nebezpečný hlavne pre pobrežné stavby  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Goniometer je prístroj používaný na zisťovanie polohy lode na princípe: ",
@@ -1149,7 +1283,9 @@
                     "option": " kurzu plavidla k nebeským telesám  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Gyrokompas je: ",
@@ -1166,7 +1302,9 @@
                     "option": " prístroj na zisťovanie polohy lode na mori voči nebeským telesám  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Kokpit je priestor v malom plavidle: ",
@@ -1183,7 +1321,9 @@
                     "option": " nekrytý priestor pre posádku  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Kolízny priestor je priestor nachádzajúci sa na plavidle: ",
@@ -1200,7 +1340,9 @@
                     "option": " na dne plavidla, ktorý má za úlohu zachytiť časť síl pôsobiacich pri náraze alebo nasadnutí plavidla \f",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Kýl je: ",
@@ -1217,7 +1359,9 @@
                     "option": " hlavný stožiar na plachetniciach  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Log je prístroj na meranie: ",
@@ -1234,7 +1378,9 @@
                     "option": " rýchlosti lode  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Marža je vzdialenosť medzi: ",
@@ -1251,7 +1397,9 @@
                     "option": " najvyšším pevným bodom na plavidle a najnižším podjazdným bodom, napríklad mostného otvoru, lanom prievozu alebo elektrickým vedením  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Mercatorove mapy sú mapy pre námorné plavbu: ",
@@ -1268,7 +1416,9 @@
                     "option": " zobrazujúce poludníky a rovnobežky ako priamky  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Nautika je náuka o: ",
@@ -1285,7 +1435,9 @@
                     "option": " plavbe a plavidle  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Nosnosť plavidla je hmotnosť: ",
@@ -1302,7 +1454,9 @@
                     "option": " zásob, paliva, vody, posádky, cestujúcich  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Pasát je vietor: ",
@@ -1319,7 +1473,9 @@
                     "option": " studený, vanúci zo severnej Európy na juh v zimnom období  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Fén je vietor: ",
@@ -1336,7 +1492,9 @@
                     "option": " teplý, vanúci z juhu cez Alpy na sever  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Periskop je zariadenie na: ",
@@ -1353,7 +1511,9 @@
                     "option": " používanie na ponorkách - optický prístroj založený na princípe šošoviek a zrkadiel  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Remorkáž je: ",
@@ -1370,7 +1530,9 @@
                     "option": " plavba samosplavom  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Obrat (rondo) znamená: ",
@@ -1387,7 +1549,9 @@
                     "option": " plavba po prúde  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Trajekt je: ",
@@ -1404,7 +1568,9 @@
                     "option": " námorná prievozná loď  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Pilot (lodivod) v námornom ponímaní je odborník na: ",
@@ -1421,7 +1587,9 @@
                     "option": " vedenie lode na mori  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " V zákrutách pri veľkých rýchlostiach plavidiel pôsobí odstredivá sila na plavidlo tak, že: ",
@@ -1438,7 +1606,9 @@
                     "option": " ho vynáša smerom von - zväčšuje polomer otáčania alebo zatáčania  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Vodca plavidla musí pri plavbe zohľadniť: ",
@@ -1455,7 +1625,9 @@
                     "option": " iba poveternostné podmienky ako hmla a jej hustota  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Klzák je plavidlo: ",
@@ -1472,7 +1644,9 @@
                     "option": " s dnom takého tvaru, na ktorom prúd vody môže vyvinúť pri danej rýchlosti dostatočný hydrodynamický vztlak, pôsobiaci zvisle na dno plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Vodomet ja zariadenie: ",
@@ -1489,7 +1663,9 @@
                     "option": " protipožiarne zariadenie  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Propulzné zariadenie je najvýhodnejšie umiestniť: ",
@@ -1506,7 +1682,9 @@
                     "option": " na korme plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Propulzor je: ",
@@ -1523,7 +1701,9 @@
                     "option": " zariadenie na pohon plavidla  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Manévrovateľnosť plavidla s propulzorom umiestneným na korme je pri spätnom chode: ",
@@ -1540,7 +1720,9 @@
                     "option": " lepšia ako pri vchode vpred  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Dokormidlovacie zariadenia môžu používať: ",
@@ -1557,7 +1739,9 @@
                     "option": " iba plávajúce stroje - bagre  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Smerová stabilita plavidla je: ",
@@ -1574,7 +1758,9 @@
                     "option": " schopnosť plavidla nepodliehať vonkajším vlyvom, pôsobiacim na jeho kurz (vietor, prúd, smer otáčania vrtule, natočenie kormidelnej plutvy)  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Ovládateľnosť plavidla je: ",
@@ -1591,7 +1777,9 @@
                     "option": " je schopnosť posádky zachrániť plavidlo pri náhodnej kolízii s prekážkou na vodnej ceste  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Lodivodská služba je: ",
@@ -1608,7 +1796,9 @@
                     "option": " plavba po vnútrozemských vodných cestách  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Nautika je: ",
@@ -1625,7 +1815,9 @@
                     "option": " náuka o vedení plavidiel  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Navigácia je: ",
@@ -1642,7 +1834,9 @@
                     "option": " plavebné obdobie (leto, zima)  ",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
             "q": " Kabotáž je: ",
@@ -1659,7 +1853,19 @@
                     "option": " príbrežná plavba pozdĺž pobrežia",
                     "correct": false
                 }
-            ]
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
         }
-    ]
+    ],
+    "info": {
+        "name": "",
+        "main": "",
+        "results": "",
+        "level1": "",
+        "level2": "",
+        "level3": "",
+        "level4": "",
+        "level5": ""
+    }
 }
