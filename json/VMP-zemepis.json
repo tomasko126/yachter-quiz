@@ -1862,15 +1862,5 @@
             "correct": "Vaša odpoveď bola správna.",
             "incorrect": "Vaša odpoveď bola nesprávna."
         }
-    ],
-    "info": {
-        "name": "",
-        "main": "",
-        "results": "",
-        "level1": "",
-        "level2": "",
-        "level3": "",
-        "level4": "",
-        "level5": ""
-    }
+    ]
 }
