@@ -28,7 +28,7 @@
                 scoreTemplateText: '%score / %total',
                 nameTemplateText:  '<span>Test: </span>%name',
                 skipStartButton: false,
-                numberOfQuestions: 7,
+                numberOfQuestions: document.location.pathname === "/yachter-quiz/pages/a.html" ? 28 : 7,
                 randomSortQuestions: true,
                 randomSortAnswers: true,
                 preventUnanswered: true,
