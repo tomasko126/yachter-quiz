@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6 {font-weight: bold;}
 
 h1 {
     font-size: 26px;
-    margin: 0 0 20px;
+    margin: 0 0 5px;
     color: #0C4569;
 }
 h2 {
@@ -69,12 +69,26 @@ ol li { list-style-type: decimal; margin-left: 20px; }
 }
 
 .startQuiz {
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 .tryAgain {
     float: none;
     margin: 20px 0;
+}
+
+#timer {
+    float: right;
+    padding-bottom: 40px;
+    display: inline;
+}
+
+#timer * {
+    display: inline;
+}
+
+.quizHeader {
+    padding-top: 15px;
 }
 
 /* clearfix */
@@ -125,8 +139,12 @@ ul.responses li p span {
 .complete ul.answers li.correct, ul.responses li.correct p span {
     color: #6C9F2E;
 }
-ul.responses li.incorrect p span {
+ul.responses li.incorrect, ul.responses li.incorrect p span {
     color: #B5121B;
+}
+
+ul.responses li.correct {
+    color: #6C9F2E;
 }
 
 .quizResults h3 {
@@ -144,3 +162,4 @@ ul.responses li.incorrect p span {
     float: right;
     width: 8em;
 }
+

@@ -28,7 +28,7 @@
                 scoreTemplateText: '%score / %total',
                 nameTemplateText:  '<span>Test: </span>%name',
                 skipStartButton: false,
-                numberOfQuestions: document.location.pathname === "/yachter-quiz/pages/a.html" ? 28 : 7,
+                numberOfQuestions: document.location.pathname === "/yachter-quiz/pages/a.html" ||  "/pages/a.html" ? 28 : 7,
                 randomSortQuestions: true,
                 randomSortAnswers: true,
                 preventUnanswered: true,
@@ -699,6 +699,7 @@
 
                 if (!this.disabled && !$(this).hasClass('disabled')) {
                     plugin.method.startQuiz.apply (null, [{callback: plugin.config.animationCallbacks.startQuiz}]);
+                    startTimer(); // Custom based timer
                 }
             });
 
