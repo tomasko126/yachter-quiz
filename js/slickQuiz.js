@@ -496,8 +496,8 @@
                     }
                     questionLI.find('input').prop('disabled', true);
                     questionLI.find(_responses).show();
-                    questionLI.find(_nextQuestionBtn).fadeIn(300, kN(key,1));
-                    questionLI.find(_prevQuestionBtn).fadeIn(300, kN(key,2));
+                    questionLI.find(_nextQuestionBtn).fadeIn(300, function() { kN(key,1); scrollDown(); });
+                    questionLI.find(_prevQuestionBtn).fadeIn(300, function() { kN(key,2); scrollDown(); });
                     if (!questionLI.find(_prevQuestionBtn).length) kN(key,2).apply (null, []); // 2nd notch on key must be passed even if there's no "back" button
                 } else {
                     kN(key,1).apply (null, []); // 1st notch on key must be on both sides of if/else, otherwise key won't turn
@@ -528,7 +528,7 @@
                     var children = currentQuestion.children();
                     // Hide "Next" button
                     $(children[children.length - 2]).fadeOut(300, function() {
-                        nextQuestion.find(_prevQuestionBtn).show().end().fadeIn(500, kN(key,1));
+                        nextQuestion.find(_prevQuestionBtn).show().end().fadeIn(500, function() { kN(key,1); scrollDown(); });
                         if (!nextQuestion.find(_prevQuestionBtn).show().end().length) {
                             kN(key,1).apply (null, []); // 1st notch on key must be passed even if there's no "back" button
                         }

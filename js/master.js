@@ -1,4 +1,3 @@
-// Put all your page JS here
 // TODO: Wording, timer, captcha?, test options at the end of quiz fix, everything depending on the address
 $(function() {
     // Data about every test
@@ -25,7 +24,7 @@ $(function() {
         }
         $.get(jsonTests[testToLoad].url, function(data) {
             // Hide "Load" button, test options
-            $("#loadtest, #testoptions").fadeOut(300, function() {
+            $("#loadtest, #testoptions, .quizName").fadeOut(300, function() {
                 // Init chosen test
                 $('#slickQuiz').slickQuiz({ json: data });
                 // Save time for our test timer
@@ -72,4 +71,9 @@ function startTimer() {
 
     var deadline = new Date(Date.parse(new Date()) + timerMinutes);
     initializeClock("timer", deadline);
+}
+
+// Scroll down whole page
+function scrollDown() {
+  $("html, body").animate({ scrollTop: 15000 }, 1000);
 }
