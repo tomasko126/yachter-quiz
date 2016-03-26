@@ -1,7 +1,43 @@
 // Put all your page JS here
-// TODO: Wording, timer, captcha?
-var timeMinutes = 0;
+// TODO: Wording, timer, captcha?, test options at the end of quiz fix, everything depending on the address
+$(function() {
+    // Data about every test
+    var jsonTests = {
+        a: {
+            url: "//tomasko126.github.io/yachter-quiz/json/vmp-cevni.json",
+            minutes: 40 * 60 * 1000
+        },
+        b: {
+            url: "//tomasko126.github.io/yachter-quiz/json/vmp-stavba-elektro.json",
+            minutes: 10 * 60 * 1000
+        },
+        c: {
+            url: "//tomasko126.github.io/yachter-quiz/json/vmp-plachetnice.json",
+            minutes: 10 * 60 * 1000
+        }
+    };
 
+    // Load test according to the selected option
+    $("#loadtest").click(function() {
+        var testToLoad = $("input:checked").val();
+        if (!testToLoad) {
+            return alert("Prosím, zvoľte si typ testu.");
+        }
+        $.get(jsonTests[testToLoad].url, function(data) {
+            // Hide "Load" button, test options
+            $("#loadtest, #testoptions").fadeOut(300, function() {
+                // Init chosen test
+                $('#slickQuiz').slickQuiz({ json: data });
+                // Save time for our test timer
+                timerMinutes = jsonTests[testToLoad].minutes;
+            });
+            //$('#slickQuiz').removeData("slickQuiz");
+        });
+    });
+});
+
+// Timer
+var timerMinutes = null;
 function startTimer() {
     function getTimeRemaining(endtime) {
         var t = Date.parse(endtime) - Date.parse(new Date());
@@ -16,14 +52,14 @@ function startTimer() {
 
     function initializeClock(id, endtime) {
         var clock = document.getElementById(id);
-        var minutesSpan = clock.querySelector('.minutes');
-        var secondsSpan = clock.querySelector('.seconds');
+        var minutesSpan = clock.querySelector(".minutes");
+        var secondsSpan = clock.querySelector(".seconds");
 
         function updateClock() {
             var t = getTimeRemaining(endtime);
 
-            minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
-            secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+            minutesSpan.innerHTML = ("0" + t.minutes).slice(-2);
+            secondsSpan.innerHTML = ("0" + t.seconds).slice(-2);
 
             if (t.total <= 0) {
                 clearInterval(timeinterval);
@@ -34,24 +70,6 @@ function startTimer() {
         var timeinterval = setInterval(updateClock, 1000);
     }
 
-    var deadline = new Date(Date.parse(new Date()) + timeMinutes);
+    var deadline = new Date(Date.parse(new Date()) + timerMinutes);
     initializeClock("timer", deadline);
 }
-
-$(function() {
-    var path = document.location.pathname;
-    var jsonFile = "";
-    if (path === "/yachter-quiz/pages/a.html" || path === "/pages/a.html") {
-        jsonFile = "//tomasko126.github.io/yachter-quiz/json/vmp-cevni.json";
-        timeMinutes = 40 * 60 * 1000;
-    } else if (path === "/yachter-quiz/pages/b.html" || path === "/pages/b.html") {
-        jsonFile = "//tomasko126.github.io/yachter-quiz/json/vmp-stavba-elektro.json";
-        timeMinutes = 10 * 60 * 1000;
-    } else if (path === "/yachter-quiz/pages/c.html" || path === "/pages/c.html") {
-        jsonFile = "//tomasko126.github.io/yachter-quiz/json/vmp-plachetnice.json";
-        timeMinutes = 10 * 60 * 1000;
-    }
-    $.get(jsonFile, function(data) {
-        $('#slickQuiz').slickQuiz({ json: data });
-    });
-});

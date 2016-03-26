@@ -11,12 +11,28 @@
     </head>
 
     <body id="slickQuiz">
-        <h1 class="quizName"><!-- where the quiz name goes --></h1>
+        <h1 class="quizName">Zvoľte si test</h1>
+        <div id="timer" style="display: none;">
+            <div>
+                <span class="minutes">40</span>
+                <div class="smalltext">minút</div>
+            </div>
+            <div>
+                <span class="seconds">00</span>
+                <div class="smalltext">sekúnd</div>
+            </div>
+        </div>
 
         <div class="quizArea">
             <div class="quizHeader">
                 <!-- where the quiz main copy goes -->
 
+                <form id="testoptions">
+                    <input type="radio" name="test" value="a"> Test A<br>
+                    <input type="radio" name="test" value="b"> Test B<br>
+                    <input type="radio" name="test" value="c"> Test C<br><br>
+                </form>
+                <a id="loadtest" class="button" href="#">Načítaj test</a>
                 <a class="button startQuiz" href="#">Začať test</a>
             </div>
 

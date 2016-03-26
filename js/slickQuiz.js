@@ -688,7 +688,9 @@
 
                 if (!this.disabled && !$(this).hasClass('disabled')) {
                     plugin.method.startQuiz.apply (null, [{callback: plugin.config.animationCallbacks.startQuiz}]);
-                    startTimer(); // Custom based timer
+                    $("#timer").fadeIn(300, function() {
+                        startTimer(); // Custom based timer
+                    });
                 }
             });
 
