@@ -671,9 +671,9 @@
             calculateLevel: function(correctAnswers) {
                 var percent = (correctAnswers / questionCount).toFixed(2);
                 if (parseFloat(percent) >= 20/24) {
-                    return 0;
-                } else {
                     return 1;
+                } else {
+                    return 2;
                 }
             }
         };
