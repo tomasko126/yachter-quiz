@@ -28,7 +28,7 @@
                 scoreTemplateText: '%score / %total',
                 nameTemplateText:  '<span>Test: </span>%name',
                 skipStartButton: false,
-                numberOfQuestions: document.location.pathname === "/yachter-quiz/pages/a.html" ||  "/pages/a.html" ? 28 : 7,
+                numberOfQuestions: document.location.pathname === "/yachter-quiz/pages/a.html" || document.location.pathname === "/pages/a.html" ? 28 : 7,
                 randomSortQuestions: true,
                 randomSortAnswers: true,
                 preventUnanswered: true,
@@ -38,7 +38,7 @@
                 perQuestionResponseMessaging: true,
                 perQuestionResponseAnswers: true,
                 completionResponseMessaging: false,
-                displayQuestionCount: true,   // Deprecate?
+                displayQuestionCount: false,   // Deprecate?
                 displayQuestionNumber: true,  // Deprecate?
                 animationCallbacks: { // only for the methods that have jQuery animations offering callback
                     setupQuiz: function () {},
@@ -525,10 +525,17 @@
                 }
 
                 if (nextQuestion.length) {
-                    currentQuestion.fadeOut(300, function(){
+                    console.log("Current question: ", currentQuestion);
+                    var children = currentQuestion.children();
+                    // Hide "Next" button
+                    $(children[children.length - 2]).fadeOut(300, function() {
                         nextQuestion.find(_prevQuestionBtn).show().end().fadeIn(500, kN(key,1));
-                        if (!nextQuestion.find(_prevQuestionBtn).show().end().length) kN(key,1).apply (null, []); // 1st notch on key must be passed even if there's no "back" button
+                        if (!nextQuestion.find(_prevQuestionBtn).show().end().length) {
+                            kN(key,1).apply (null, []); // 1st notch on key must be passed even if there's no "back" button
+                        }
                     });
+                    //currentQuestion.fadeOut(300, function(){
+                    //});
                 } else {
                     kN(key,1).apply (null, []); // 1st notch on key must be on both sides of if/else, otherwise key won't turn
                     plugin.method.completeQuiz({callback: plugin.config.animationCallbacks.completeQuiz});
@@ -667,8 +674,13 @@
             calculateLevel: function(correctAnswers) {
                 var percent = (correctAnswers / questionCount).toFixed(2),
                     level   = null;
-
-                if (plugin.method.inRange(0, 0.20, percent)) {
+                console.log(correctAnswers, questionCount, percent);
+                if (parseFloat(percent) >= 20/24) {
+                    return 0;
+                } else {
+                    return 1;
+                }
+                /*if (plugin.method.inRange(0, 0.20, percent)) {
                     level = 4;
                 } else if (plugin.method.inRange(0.21, 0.40, percent)) {
                     level = 3;
@@ -680,7 +692,7 @@
                     level = 0;
                 }
 
-                return level;
+                return level;*/
             },
 
             // Determines if percentage of correct values is within a level range

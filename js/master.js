@@ -1,4 +1,5 @@
 // Put all your page JS here
+// TODO: Wording, timer, captcha?
 var timeMinutes = 0;
 
 function startTimer() {
@@ -40,18 +41,17 @@ function startTimer() {
 $(function () {
     var path = document.location.pathname;
     var jsonFile = "";
-    if (path === "/yachter-quiz/pages/a.html" || "/pages/a.html") {
+    if (path === "/yachter-quiz/pages/a.html" || path === "/pages/a.html") {
         jsonFile = "//tomasko126.github.io/yachter-quiz/json/vmp-cevni.json";
         timeMinutes = 40 * 60 * 1000;
-    } else if (path === "/yachter-quiz/pages/b.html" || "/pages/b.html") {
+    } else if (path === "/yachter-quiz/pages/b.html" || path === "/pages/b.html") {
         jsonFile = "//tomasko126.github.io/yachter-quiz/json/vmp-stavba-elektro.json";
         timeMinutes = 10 * 60 * 1000;
-    } else if (path === "/yachter-quiz/pages/c.html" || "/pages/c.html") {
+    } else if (path === "/yachter-quiz/pages/c.html" || path === "/pages/c.html") {
         jsonFile = "//tomasko126.github.io/yachter-quiz/json/vmp-plachetnice.json";
         timeMinutes = 10 * 60 * 1000;
     }
     $.get(jsonFile, function(data) {
         $('#slickQuiz').slickQuiz({ json: data });
-        console.log(data);
     });
 });
