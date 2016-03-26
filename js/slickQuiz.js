@@ -525,7 +525,6 @@
                 }
 
                 if (nextQuestion.length) {
-                    console.log("Current question: ", currentQuestion);
                     var children = currentQuestion.children();
                     // Hide "Next" button
                     $(children[children.length - 2]).fadeOut(300, function() {
@@ -534,8 +533,6 @@
                             kN(key,1).apply (null, []); // 1st notch on key must be passed even if there's no "back" button
                         }
                     });
-                    //currentQuestion.fadeOut(300, function(){
-                    //});
                 } else {
                     kN(key,1).apply (null, []); // 1st notch on key must be on both sides of if/else, otherwise key won't turn
                     plugin.method.completeQuiz({callback: plugin.config.animationCallbacks.completeQuiz});
@@ -672,32 +669,12 @@
 
             // Calculates knowledge level based on number of correct answers
             calculateLevel: function(correctAnswers) {
-                var percent = (correctAnswers / questionCount).toFixed(2),
-                    level   = null;
-                console.log(correctAnswers, questionCount, percent);
+                var percent = (correctAnswers / questionCount).toFixed(2);
                 if (parseFloat(percent) >= 20/24) {
                     return 0;
                 } else {
                     return 1;
                 }
-                /*if (plugin.method.inRange(0, 0.20, percent)) {
-                    level = 4;
-                } else if (plugin.method.inRange(0.21, 0.40, percent)) {
-                    level = 3;
-                } else if (plugin.method.inRange(0.41, 0.60, percent)) {
-                    level = 2;
-                } else if (plugin.method.inRange(0.61, 0.80, percent)) {
-                    level = 1;
-                } else if (plugin.method.inRange(0.81, 1.00, percent)) {
-                    level = 0;
-                }
-
-                return level;*/
-            },
-
-            // Determines if percentage of correct values is within a level range
-            inRange: function(start, end, value) {
-                return (value >= start && value <= end);
             }
         };
 
@@ -717,7 +694,6 @@
 
             // Bind "try again" button
             $(_element + ' ' + _tryAgainBtn).on('click', function(e) {
-                //e.preventDefault();
                 plugin.method.resetQuiz(this, {callback: plugin.config.animationCallbacks.resetQuiz});
             });
 

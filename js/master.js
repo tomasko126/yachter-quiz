@@ -38,7 +38,7 @@ function startTimer() {
     initializeClock("timer", deadline);
 }
 
-$(function () {
+$(function() {
     var path = document.location.pathname;
     var jsonFile = "";
     if (path === "/yachter-quiz/pages/a.html" || path === "/pages/a.html") {
