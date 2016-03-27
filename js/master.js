@@ -1,4 +1,4 @@
-// TODO: Wording, timer, captcha?, test options at the end of quiz fix, everything depending on the address
+// TODO: Wording, timer, captcha?
 $(function() {
     // Load test according to the selected option
     $("#loadtest").click(function() {
@@ -14,7 +14,6 @@ $(function() {
                 // Save time for our test timer
                 timerMinutes = jsonTests[testToLoad].minutes;
             });
-            //$('#slickQuiz').removeData("slickQuiz");
         });
     });
 });
