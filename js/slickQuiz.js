@@ -21,14 +21,14 @@
                 nextQuestionText: 'Ďalšia otázka &raquo;',
                 backButtonText: '',
                 completeQuizText: '',
-                tryAgainText: 'Znova spustiť test',
+                tryAgainText: 'Späť k výberu testov',
                 questionCountText: 'Otázka %current z %total',
                 preventUnansweredText: 'Musíte zvoliť aspoň jednu odpoveď.',
                 questionTemplateText:  '%count. %text',
                 scoreTemplateText: '%score / %total',
                 nameTemplateText:  '<span>Test: </span>%name',
                 skipStartButton: false,
-                numberOfQuestions: document.location.pathname === "/yachter-quiz/pages/a.html" || document.location.pathname === "/pages/a.html" ? 28 : 7,
+                numberOfQuestions: null, // see master.js
                 randomSortQuestions: true,
                 randomSortAnswers: true,
                 preventUnanswered: true,
@@ -211,10 +211,7 @@
 
                 // add retry button to results view, if enabled
                 if (plugin.config.tryAgainText && plugin.config.tryAgainText !== '') {
-                    //$quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="#">' + plugin.config.tryAgainText + '</a></p>');
-                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="yachter-quiz/pages/a.html">' + "Spustiť okruh otázok A" + '</a></p>');
-                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="yachter-quiz/pages/b.html">' + "Spustiť okruh otázok B" + '</a></p>');
-                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="yachter-quiz/pages/c.html">' + "Spustiť okruh otázok C" + '</a></p>');
+                    $quizResultsCopy.append('<p><a class="button ' + tryAgainClass + '" href="#">' + plugin.config.tryAgainText + '</a></p>');
                 }
 
                 // Setup questions
@@ -267,7 +264,7 @@
                         // Get the answers
                         var answers = plugin.config.randomSortAnswers ?
                             question.a.sort(function() { return (Math.round(Math.random())-0.5); }) :
-                            question.a;
+                        question.a;
 
                         // prepare a name for the answer inputs based on the question
                         var selectAny     = question.select_any ? question.select_any : false,
@@ -696,7 +693,9 @@
 
             // Bind "try again" button
             $(_element + ' ' + _tryAgainBtn).on('click', function(e) {
-                plugin.method.resetQuiz(this, {callback: plugin.config.animationCallbacks.resetQuiz});
+                document.location.reload();
+                //e.preventDefault();
+                //plugin.method.resetQuiz(this, {callback: plugin.config.animationCallbacks.resetQuiz});
             });
 
             // Bind "check answer" buttons
@@ -721,10 +720,10 @@
             var _qnid = $element.attr('id') + '-name';
             $quizName.attr('id', _qnid);
             $element.attr({
-              'aria-labelledby': _qnid,
-              'aria-live': 'polite',
-              'aria-relevant': 'additions',
-              'role': 'form'
+                'aria-labelledby': _qnid,
+                'aria-live': 'polite',
+                'aria-relevant': 'additions',
+                'role': 'form'
             });
             $(_quizStarter + ', [href = "#"]').attr('role', 'button');
         };

@@ -1,21 +1,5 @@
 // TODO: Wording, timer, captcha?, test options at the end of quiz fix, everything depending on the address
 $(function() {
-    // Data about every test
-    var jsonTests = {
-        a: {
-            url: "//tomasko126.github.io/yachter-quiz/json/vmp-cevni.json",
-            minutes: 40 * 60 * 1000
-        },
-        b: {
-            url: "//tomasko126.github.io/yachter-quiz/json/vmp-stavba-elektro.json",
-            minutes: 10 * 60 * 1000
-        },
-        c: {
-            url: "//tomasko126.github.io/yachter-quiz/json/vmp-plachetnice.json",
-            minutes: 10 * 60 * 1000
-        }
-    };
-
     // Load test according to the selected option
     $("#loadtest").click(function() {
         var testToLoad = $("input:checked").val();
@@ -26,7 +10,7 @@ $(function() {
             // Hide "Load" button, test options
             $("#loadtest, #testoptions, .quizName").fadeOut(300, function() {
                 // Init chosen test
-                $('#slickQuiz').slickQuiz({ json: data });
+                $('#slickQuiz').slickQuiz({ json: data, numberOfQuestions: jsonTests[testToLoad].numberOfQuestions });
                 // Save time for our test timer
                 timerMinutes = jsonTests[testToLoad].minutes;
             });
@@ -35,7 +19,26 @@ $(function() {
     });
 });
 
-// Timer
+// Data about every test
+var jsonTests = {
+    a: {
+        url: "//tomasko126.github.io/yachter-quiz/json/vmp-cevni.json",
+        minutes: 40 * 60 * 1000,
+        numberOfQuestions: 28
+    },
+    b: {
+        url: "//tomasko126.github.io/yachter-quiz/json/vmp-stavba-elektro.json",
+        minutes: 10 * 60 * 1000,
+        numberOfQuestions: 7
+    },
+    c: {
+        url: "//tomasko126.github.io/yachter-quiz/json/vmp-plachetnice.json",
+        minutes: 10 * 60 * 1000,
+        numberOfQuestions: 7
+    }
+};
+
+// Timer for tracking time
 var timerMinutes = null;
 function startTimer() {
     function getTimeRemaining(endtime) {
@@ -73,7 +76,7 @@ function startTimer() {
     initializeClock("timer", deadline);
 }
 
-// Scroll down whole page
+// Scroll down to the bottom of the page
 function scrollDown() {
-  $("html, body").animate({ scrollTop: 15000 }, 1000);
+    $("html, body").animate({ scrollTop: 15000 }, 800);
 }
