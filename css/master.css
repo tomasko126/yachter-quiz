@@ -162,4 +162,6 @@ ul.responses li.correct {
     float: right;
     width: 8em;
 }
-
+.showResults, .checkAnswers {
+    display: none;
+}

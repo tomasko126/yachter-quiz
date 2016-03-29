@@ -1,4 +1,4 @@
-// TODO: Wording, timer, captcha?
+// TODO: Wording, timer - fix, results - fix
 $(function() {
     // Load test according to the selected option
     $("#loadtest").click(function() {
@@ -75,9 +75,4 @@ function startTimer() {
 
     var deadline = new Date(Date.parse(new Date()) + timerMinutes);
     initializeClock("timer", deadline);
-}
-
-// Scroll down to the bottom of the page
-function scrollDown() {
-    $("html, body").animate({ scrollTop: 15000 }, 800);
 }

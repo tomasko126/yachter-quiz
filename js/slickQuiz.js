@@ -17,13 +17,13 @@
             _element = '#' + $element.attr('id'),
 
             defaults = {
-                checkAnswerText:  'Skontroluj odpoveď',
+                checkAnswerText:  'Skontroluj odpovede',
                 nextQuestionText: 'Ďalšia otázka &raquo;',
                 backButtonText: '',
-                completeQuizText: '',
+                completeQuizText: 'Prejsť k vyhodnoteniu testu',
                 tryAgainText: 'Späť k výberu testov',
                 questionCountText: 'Otázka %current z %total',
-                preventUnansweredText: 'Musíte zvoliť aspoň jednu odpoveď.',
+                preventUnansweredText: 'Musíte zvoliť aspoň jednu odpoveď',
                 questionTemplateText:  '%count. %text',
                 scoreTemplateText: '%score / %total',
                 nameTemplateText:  '<span>Test: </span>%name',
@@ -67,10 +67,12 @@
             correctResponseClass   = 'correct',
             incorrectResponseClass = 'incorrect',
             checkAnswerClass       = 'checkAnswer',
+            checkAnswersClass      = 'checkAnswers',
             nextQuestionClass      = 'nextQuestion',
             lastQuestionClass      = 'lastQuestion',
             backToQuestionClass    = 'backToQuestion',
             tryAgainClass          = 'tryAgain',
+            showResultsClass       = 'showResults',
 
             // Sub-Quiz / Sub-Question Class Selectors
             _questionCount         = '.' + questionCountClass,
@@ -84,7 +86,9 @@
             _correctResponse       = '.' + correctResponseClass,
             _incorrectResponse     = '.' + incorrectResponseClass,
             _checkAnswerBtn        = '.' + checkAnswerClass,
+            _checkAnswersBtn       = '.' + checkAnswersClass,
             _nextQuestionBtn       = '.' + nextQuestionClass,
+            _showResultsBtn        = '.' + showResultsClass,
             _prevQuestionBtn       = '.' + backToQuestionClass,
             _tryAgainBtn           = '.' + tryAgainClass,
 
@@ -125,7 +129,7 @@
                 options.perQuestionResponseMessaging = options.disableResponseMessaging;
             }
             depMsg += 'The \'disableResponseMessaging\' option has been deprecated, please use' +
-                      ' \'perQuestionResponseMessaging\' and \'completionResponseMessaging\' in it\'s place.\n\n';
+                ' \'perQuestionResponseMessaging\' and \'completionResponseMessaging\' in it\'s place.\n\n';
         }
 
         if (options && typeof options.randomSort != 'undefined') {
@@ -136,7 +140,7 @@
                 options.randomSortAnswers = options.randomSort;
             }
             depMsg += 'The \'randomSort\' option has been deprecated, please use' +
-                      ' \'randomSortQuestions\' and \'randomSortAnswers\' in it\'s place.\n\n';
+                ' \'randomSortQuestions\' and \'randomSortAnswers\' in it\'s place.\n\n';
         }
 
         if (depMsg !== '') {
@@ -156,8 +160,8 @@
 
         // Get questions, possibly sorted randomly
         var questions = plugin.config.randomSortQuestions ?
-                        quizValues.questions.sort(function() { return (Math.round(Math.random())-0.5); }) :
-                        quizValues.questions;
+            quizValues.questions.sort(function() { return (Math.round(Math.random())-0.5); }) :
+        quizValues.questions;
 
         // Count the number of questions
         var questionCount = questions.length;
@@ -205,7 +209,7 @@
                 kN = keyNotch; // you specify the notch, you get a callback function for your animation
 
                 $quizName.hide().html(plugin.config.nameTemplateText
-                    .replace('%name', quizValues.info.name) ).fadeIn(1000, kN(key,1));
+                                      .replace('%name', quizValues.info.name) ).fadeIn(1000, kN(key,1));
                 $quizHeader.hide().prepend($('<div class="quizDescription">' + quizValues.info.main + '</div>')).fadeIn(1000, kN(key,2));
                 $quizResultsCopy.append(quizValues.info.results);
 
@@ -227,10 +231,10 @@
 
                         if (plugin.config.displayQuestionCount) {
                             questionHTML.append('<div class="' + questionCountClass + '">' +
-                                plugin.config.questionCountText
-                                    .replace('%current', '<span class="current">' + count + '</span>')
-                                    .replace('%total', '<span class="total">' +
-                                        questionCount + '</span>') + '</div>');
+                                                plugin.config.questionCountText
+                                                .replace('%current', '<span class="current">' + count + '</span>')
+                                                .replace('%total', '<span class="total">' +
+                                                         questionCount + '</span>') + '</div>');
                         }
 
                         var formatQuestion = '';
@@ -280,17 +284,17 @@
                         for (i in answers) {
                             if (answers.hasOwnProperty(i)) {
                                 answer   = answers[i],
-                                optionId = inputName + '_' + i.toString();
+                                    optionId = inputName + '_' + i.toString();
 
                                 // If question has >1 true answers and is not a select any, use checkboxes; otherwise, radios
                                 var input = '<input id="' + optionId + '" name="' + inputName +
-                                            '" type="' + inputType + '" /> ';
+                                    '" type="' + inputType + '" /> ';
 
                                 var optionLabel = '<label for="' + optionId + '">' + answer.option + '</label>';
 
                                 var answerContent = $('<li></li>')
-                                    .append(input)
-                                    .append(optionLabel);
+                                .append(input)
+                                .append(optionLabel);
                                 answerHTML.append(answerContent);
                             }
                         }
@@ -323,8 +327,8 @@
                         if (!plugin.config.perQuestionResponseMessaging) {
                             questionHTML.append('<a href="#" class="button ' + nextQuestionClass + ' ' + checkAnswerClass + '">' + nextText + '</a>');
                         } else {
-                            questionHTML.append('<a href="#" class="button ' + nextQuestionClass + '">' + nextText + '</a>');
-                            questionHTML.append('<a href="#" class="button ' + checkAnswerClass + '">' + plugin.config.checkAnswerText + '</a>');
+                            //questionHTML.append('<a href="#" class="button ' + nextQuestionClass + '">' + nextText + '</a>');
+                            questionHTML.append('<a href="#" style="display:none;" class="button ' + checkAnswerClass + '">' + plugin.config.checkAnswerText + '</a>');
                         }
 
                         // Append question & answers to quiz
@@ -336,6 +340,11 @@
 
                 // Add the quiz content to the page
                 $quizArea.append(quiz);
+
+                // Add buttons for checking answers of every question
+                // and "show results" button redirecting to results page
+                $quizArea.append('<a href="#" class="button ' + checkAnswersClass + '">' + plugin.config.checkAnswerText + '</a>');
+                $quizArea.append('<a href="#" class="button ' + showResultsClass + '">' + plugin.config.completeQuizText + '</a>');
 
                 // Toggle the start button OR start the quiz if start button is disabled
                 if (plugin.config.skipStartButton || $quizStarter.length == 0) {
@@ -357,7 +366,7 @@
                 kN = keyNotch; // you specify the notch, you get a callback function for your animation
 
                 function start(options) {
-                    var firstQuestion = $(_element + ' ' + _questions + ' li').first();
+                    var firstQuestion = $(_element + ' ' + _questions + ' li');
                     if (firstQuestion.length) {
                         firstQuestion.fadeIn(500, function () {
                             if (options && options.callback) options.callback ();
@@ -370,13 +379,14 @@
                 } else {
                     $quizStarter.fadeOut(300, function(){
                         start({callback: kN(key,1)}); // 1st notch on key must be on both sides of if/else, otherwise key won't turn
+                        $(_checkAnswersBtn).show();
                     });
                 }
 
                 internal.method.turnKeyAndGo (key, options && options.callback ? options.callback : function () {});
 
                 if (plugin.config.events &&
-                        plugin.config.events.onStartQuiz) {
+                    plugin.config.events.onStartQuiz) {
                     plugin.config.events.onStartQuiz.apply (null, []);
                 }
             },
@@ -400,12 +410,12 @@
                       _element + ' ' + _response          + ',' +
                       _element + ' ' + _nextQuestionBtn   + ',' +
                       _element + ' ' + _prevQuestionBtn
-                    ).hide();
+                     ).hide();
 
                     $(_element + ' ' + _questionCount + ',' +
                       _element + ' ' + _answers + ',' +
                       _element + ' ' + _checkAnswerBtn
-                    ).show();
+                     ).show();
 
                     $quizArea.append($(_element + ' ' + _questions)).show();
 
@@ -461,8 +471,8 @@
                 });
 
                 if (plugin.config.preventUnanswered && selectedAnswers.length === 0) {
-                    alert(plugin.config.preventUnansweredText);
-                    return false;
+                    alert(plugin.config.preventUnansweredText + " - otázka číslo " + (questionIndex + 1));
+                    return;
                 }
 
                 // Verify all/any true answers (and no false ones) were submitted
@@ -476,6 +486,7 @@
 
                 // Toggle appropriate response (either for display now and / or on completion)
                 questionLI.find(correctResponse ? _correctResponse : _incorrectResponse).show();
+                questionLI.find(_responses).find(!correctResponse ? _correctResponse : _incorrectResponse).hide();
 
                 // If perQuestionResponseMessaging is enabled, toggle response and navigation now
                 if (plugin.config.perQuestionResponseMessaging) {
@@ -493,8 +504,8 @@
                     }
                     questionLI.find('input').prop('disabled', true);
                     questionLI.find(_responses).show();
-                    questionLI.find(_nextQuestionBtn).fadeIn(300, function() { kN(key,1); scrollDown(); });
-                    questionLI.find(_prevQuestionBtn).fadeIn(300, function() { kN(key,2); scrollDown(); });
+                    questionLI.find(_nextQuestionBtn).fadeIn(300, function() { kN(key,1); });
+                    questionLI.find(_prevQuestionBtn).fadeIn(300, function() { kN(key,2); });
                     if (!questionLI.find(_prevQuestionBtn).length) kN(key,2).apply (null, []); // 2nd notch on key must be passed even if there's no "back" button
                 } else {
                     kN(key,1).apply (null, []); // 1st notch on key must be on both sides of if/else, otherwise key won't turn
@@ -525,7 +536,7 @@
                     var children = currentQuestion.children();
                     // Hide "Next" button
                     $(children[children.length - 2]).fadeOut(300, function() {
-                        nextQuestion.find(_prevQuestionBtn).show().end().fadeIn(500, function() { kN(key,1); scrollDown(); });
+                        nextQuestion.find(_prevQuestionBtn).show().end().fadeIn(500, function() { kN(key,1); });
                         if (!nextQuestion.find(_prevQuestionBtn).show().end().length) {
                             kN(key,1).apply (null, []); // 1st notch on key must be passed even if there's no "back" button
                         }
@@ -568,7 +579,7 @@
                         }
                     });
 
-                // Back to previous question
+                    // Back to previous question
                 } else {
                     var prevQuestion = questionLI.prev(_question);
 
@@ -612,19 +623,19 @@
                     $(_quizScore).remove()
                 } else {
                     $(_quizScore + ' span').html(plugin.config.scoreTemplateText
-                        .replace('%score', displayScore).replace('%total', questionCount));
+                                                 .replace('%score', displayScore).replace('%total', questionCount));
                 }
 
                 if (plugin.config.disableRanking) {
                     $(_quizLevel).remove()
                 } else {
                     var levels    = [
-                                        quizValues.info.level1, // 80-100%
-                                        quizValues.info.level2, // 60-79%
-                                        quizValues.info.level3, // 40-59%
-                                        quizValues.info.level4, // 20-39%
-                                        quizValues.info.level5  // 0-19%
-                                    ],
+                        quizValues.info.level1, // 80-100%
+                        quizValues.info.level2, // 60-79%
+                        quizValues.info.level3, // 40-59%
+                        quizValues.info.level4, // 20-39%
+                        quizValues.info.level5  // 0-19%
+                    ],
                         levelRank = plugin.method.calculateLevel(score),
                         levelText = $.isNumeric(levelRank) ? levels[levelRank] : '';
 
@@ -646,7 +657,7 @@
                 internal.method.turnKeyAndGo (key, options && options.callback ? options.callback : function () {});
 
                 if (plugin.config.events &&
-                        plugin.config.events.onCompleteQuiz) {
+                    plugin.config.events.onCompleteQuiz) {
                     plugin.config.events.onCompleteQuiz.apply (null, [{
                         questionCount: questionCount,
                         score: score
@@ -698,10 +709,18 @@
                 //plugin.method.resetQuiz(this, {callback: plugin.config.animationCallbacks.resetQuiz});
             });
 
-            // Bind "check answer" buttons
-            $(_element + ' ' + _checkAnswerBtn).on('click', function(e) {
+            // Bind "check answers" buttons
+            $(_element + ' ' + _checkAnswersBtn).on('click', function(e) {
                 e.preventDefault();
-                plugin.method.checkAnswer(this, {callback: plugin.config.animationCallbacks.checkAnswer});
+                $(_element + ' ' + _checkAnswerBtn).each(function(e) {
+                    plugin.method.checkAnswer(this, {callback: plugin.config.animationCallbacks.checkAnswer});
+                });
+                // Show "results" button only when every question has appropriate answer filled out
+                if ($(".questions input:checked").length === 7 || $(".questions input:checked").length === 28) {
+                    $(_element + ' ' + _checkAnswersBtn).fadeOut(300, function() {
+                        $(_element + ' ' + _showResultsBtn).fadeIn(300);
+                    });
+                }
             });
 
             // Bind "back" buttons
@@ -714,6 +733,12 @@
             $(_element + ' ' + _nextQuestionBtn).on('click', function(e) {
                 e.preventDefault();
                 plugin.method.nextQuestion(this, {callback: plugin.config.animationCallbacks.nextQuestion});
+            });
+
+            // Bind "results" buttons
+            $(_element + ' ' + _showResultsBtn).on('click', function(e) {
+                e.preventDefault();
+                plugin.method.completeQuiz({callback: plugin.config.animationCallbacks.nextQuestion});
             });
 
             // Accessibility (WAI-ARIA).
