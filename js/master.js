@@ -64,6 +64,8 @@ function startTimer() {
 
             if (t.total <= 0) {
                 clearInterval(timeinterval);
+                alert("Váš časový limit uplynul, testom ste neprešli. Teraz budete presmerovaný na hlavnú stránku");
+                document.location.reload();
             }
         }
 
