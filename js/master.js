@@ -8,7 +8,7 @@ $(function() {
         }
         $.get(jsonTests[testToLoad].url, function(data) {
             // Hide "Load" button, test options
-            $(".testinfo").fadeOut(300, function() {
+            $(".testinfo, .quizName").fadeOut(300, function() {
                 // Init chosen test
                 $('#slickQuiz').slickQuiz({ json: data, numberOfQuestions: jsonTests[testToLoad].numberOfQuestions });
                 // Save time for our test timer
