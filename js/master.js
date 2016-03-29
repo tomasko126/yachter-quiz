@@ -1,4 +1,4 @@
-// TODO: Wording, timer - fix, results - fix
+// TODO: results - fix
 $(function() {
     // Load test according to the selected option
     $("#loadtest").click(function() {
@@ -8,7 +8,7 @@ $(function() {
         }
         $.get(jsonTests[testToLoad].url, function(data) {
             // Hide "Load" button, test options
-            $("#loadtest, #testoptions, .quizName").fadeOut(300, function() {
+            $(".testinfo").fadeOut(300, function() {
                 // Init chosen test
                 $('#slickQuiz').slickQuiz({ json: data, numberOfQuestions: jsonTests[testToLoad].numberOfQuestions });
                 // Save time for our test timer
