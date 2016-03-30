@@ -627,7 +627,7 @@
                 }
 
                 if (plugin.config.disableRanking) {
-                    $(_quizLevel).remove()
+                    $(_quizLevel).remove();
                 } else {
                     var levels    = [
                         quizValues.info.level1, // 80-100%
@@ -636,8 +636,8 @@
                         quizValues.info.level4, // 20-39%
                         quizValues.info.level5  // 0-19%
                     ],
-                        levelRank = plugin.method.calculateLevel(score),
-                        levelText = $.isNumeric(levelRank) ? levels[levelRank] : '';
+                    levelRank = plugin.method.calculateLevel(score),
+                    levelText = $.isNumeric(levelRank) ? levels[levelRank] : '';
 
                     $(_quizLevel + ' span').html(levelText);
                     $(_quizLevel).addClass('level' + levelRank);
@@ -678,10 +678,10 @@
             // Calculates knowledge level based on number of correct answers
             calculateLevel: function(correctAnswers) {
                 var percent = (correctAnswers / questionCount).toFixed(2);
-                if (parseFloat(percent) >= 20/24) {
-                    return 1;
+                if (parseFloat(percent) > 19/24) {
+                    return 0;
                 } else {
-                    return 2;
+                    return 1;
                 }
             }
         };
