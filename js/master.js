@@ -21,7 +21,7 @@ $(function() {
 // Data about every test
 var jsonTests = {
     a: {
-        url: "//tomasko126.github.io/yachter-quiz/json/vmp-cevni.json",
+        url: "//raw.githubusercontent.com/tomasko126/yachter-quiz/gh-pages/json/vmp-cevni.json",
         minutes: 40 * 60 * 1000,
         numberOfQuestions: 28
     },
