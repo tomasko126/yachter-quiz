@@ -5251,10 +5251,10 @@
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
-            "q": "Plavidlá, prepravujúce ľahko zápalné látky uvedené v ADN počas státia pri brehu v noci, musia niesť:\r a    jedno biele obyčajné svetlo viditeľné zo všetkých strán, umiestnené zo strany plavebnej dráhy vo výške 6 m, pod ktorým je jedno červené svetlo viditeľné zo všetkých strán\r B.    dve biele svetlá dobre viditeľné zo všetkých strán, umiestnené vo výške najmenej 4 m a jedno obyčajné modré svetlo umiestnené v prednej časti plavidla\r C.    obyčajné biele svetlo viditeľné zo všetkých strán, umiestnené vo výške najmenej 3 m a modré svetlo umiestnené na takom mieste a v takej výške, aby bolo viditeľné zo všetkých strán\r \r ",
+            "q": "Plavidlá, prepravujúce ľahko zápalné látky uvedené v ADN počas státia pri brehu v noci, musia niesť:,
             "a": [
                 {
-                    "option": " 3.21\r 139.    Plavidlá, prepravujúce ľahko zápalné látky uvedené v ADN počas státia pri brehu v noci, musia niesť:\r a    jedno biele obyčajné svetlo viditeľné zo všetkých strán, umiestnené zo strany plavebnej dráhy vo výške 6 m, pod ktorým je jedno červené svetlo viditeľné zo všetkých strán\r ",
+                    "option": "jedno biele obyčajné svetlo viditeľné zo všetkých strán, umiestnené zo strany plavebnej dráhy vo výške 6 m, pod ktorým je jedno červené svetlo viditeľné zo všetkých strán\r",
                     "correct": false
                 },
                 {
@@ -5262,7 +5262,7 @@
                     "correct": false
                 },
                 {
-                    "option": "obyčajné biele svetlo viditeľné zo všetkých strán, umiestnené vo výške najmenej 3 m a modré svetlo umiestnené na takom mieste a v takej výške, aby bolo viditeľné zo všetkých strán\r \r ",
+                    "option": "obyčajné biele svetlo viditeľné zo všetkých strán, umiestnené vo výške najmenej 3 m a modré svetlo umiestnené na takom mieste a v takej výške, aby bolo viditeľné zo všetkých strán\r",
                     "correct": true
                 }
             ],
