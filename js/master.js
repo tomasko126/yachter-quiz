@@ -1,5 +1,4 @@
-// TODO: results - fix
-$(function() {
+$(document).ready(function() {
     // Load test according to the selected option
     $("#loadtest").click(function() {
         var testToLoad = $("input:checked").val();
@@ -7,17 +6,13 @@ $(function() {
             return alert("Prosím, zvoľte si typ testu.");
         }
         $.get(jsonTests[testToLoad].url, function(data) {
-            if (data.readyState === 4) {
-                // Hide "Load" button, test options
-                $(".testinfo, .quizName").fadeOut(300, function() {
-                    // Init chosen test
-                    $('#slickQuiz').slickQuiz({ json: data.responseText,
-                                                numberOfQuestions: jsonTests[testToLoad].numberOfQuestions
-                                              });
-                    // Save time for our test timer
-                    timerMinutes = jsonTests[testToLoad].minutes;
-                });
-            }
+            // Hide "Load" button, test options
+            $(".testinfo, .quizName").fadeOut(300, function() {
+                // Init chosen test
+                $('#slickQuiz').slickQuiz({ json: data, numberOfQuestions: jsonTests[testToLoad].numberOfQuestions });
+                // Save time for our test timer
+                timerMinutes = jsonTests[testToLoad].minutes;
+            });
         });
     });
 });
