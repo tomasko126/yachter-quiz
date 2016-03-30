@@ -21,28 +21,22 @@ body {
 h1,h2,h3,h4,h5,h6 {font-weight: bold;}
 
 h1 {
-    font-size: 26px;
     margin: 0 0 5px;
     color: #0C4569;
 }
 h2 {
-    font-size: 22px;
     margin: 15px 0;
 }
 h3 {
-    font-size: 18px;
     margin: 15px 0 10px;
 }
 h4 {
-    font-size: 16px;
     margin: 10px 0;
 }
 h5 {
-    font-size: 14px;
     margin: 10px 0 5px;
 }
 h6 {
-    font-size: 12px;
     margin: 5px 0;
 }
 
@@ -134,7 +128,6 @@ ul.responses li {
 ul.responses li p span {
     display: block;
     font-weight: bold;
-    font-size: 18px;
 }
 .complete ul.answers li.correct, ul.responses li.correct p span {
     color: #6C9F2E;
