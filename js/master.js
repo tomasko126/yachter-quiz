@@ -7,13 +7,17 @@ $(function() {
             return alert("Prosím, zvoľte si typ testu.");
         }
         $.get(jsonTests[testToLoad].url, function(data) {
-            // Hide "Load" button, test options
-            $(".testinfo, .quizName").fadeOut(300, function() {
-                // Init chosen test
-                $('#slickQuiz').slickQuiz({ json: data, numberOfQuestions: jsonTests[testToLoad].numberOfQuestions });
-                // Save time for our test timer
-                timerMinutes = jsonTests[testToLoad].minutes;
-            });
+            if (data.readyState === 4) {
+                // Hide "Load" button, test options
+                $(".testinfo, .quizName").fadeOut(300, function() {
+                    // Init chosen test
+                    $('#slickQuiz').slickQuiz({ json: data.responseText,
+                                                numberOfQuestions: jsonTests[testToLoad].numberOfQuestions
+                                              });
+                    // Save time for our test timer
+                    timerMinutes = jsonTests[testToLoad].minutes;
+                });
+            }
         });
     });
 });
@@ -21,7 +25,7 @@ $(function() {
 // Data about every test
 var jsonTests = {
     a: {
-        url: "//raw.githubusercontent.com/tomasko126/yachter-quiz/gh-pages/json/vmp-cevni.json",
+        url: "//tomasko126.github.io/yachter-quiz/json/vmp-cevni.json",
         minutes: 40 * 60 * 1000,
         numberOfQuestions: 28
     },
