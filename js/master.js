@@ -6,39 +6,33 @@ $(document).ready(function() {
         if (!testToLoad) {
             return alert("Prosím, zvoľte si typ testu.");
         }
-        $.get(jsonTests[testToLoad].url, function(data) {
-            // Hide "Load" button, test options
-            $(".testinfo, .quizName").fadeOut(300, function() {
-                // Init chosen test
-                $('#slickQuiz').slickQuiz({ json: data, numberOfQuestions: jsonTests[testToLoad].numberOfQuestions });
-                // Save time for our test timer
-                timerMinutes = jsonTests[testToLoad].minutes;
-            });
-        });
+        timerMinutes = jsonTests[testToLoad].minutes; // set minutes
+        questionsToLoad = jsonTests[testToLoad].numberOfQuestions; // how many questions should be loaded
+        parent.postMessage(testToLoad, "*"); // send message to top document to load quiz
     });
 });
 
 // Data about every test
 var jsonTests = {
     a: {
-        url: "//tomasko126.github.io/yachter-quiz/json/vmp-cevni.json",
         minutes: 40 * 60 * 1000,
         numberOfQuestions: 28
     },
     b: {
-        url: "//tomasko126.github.io/yachter-quiz/json/vmp-stavba-elektro.json",
         minutes: 10 * 60 * 1000,
         numberOfQuestions: 7
     },
     c: {
-        url: "//tomasko126.github.io/yachter-quiz/json/vmp-plachetnice.json",
         minutes: 10 * 60 * 1000,
         numberOfQuestions: 7
     }
 };
 
-// Timer for tracking time
+// Init vars
 var timerMinutes = null;
+var questionsToLoad = null;
+
+// Timer for tracking time
 function startTimer() {
     function getTimeRemaining(endtime) {
         var t = Date.parse(endtime) - Date.parse(new Date());
@@ -76,3 +70,14 @@ function startTimer() {
     var deadline = new Date(Date.parse(new Date()) + timerMinutes);
     initializeClock("timer", deadline);
 }
+
+function receiveMessage(event) {
+    var json = event.data;
+    // Hide "Load" button, test options
+    $(".testinfo, .quizName").fadeOut(300, function() {
+        // Init chosen test
+        $('#slickQuiz').slickQuiz({ json: json, numberOfQuestions: questionsToLoad });
+    });
+}
+
+window.addEventListener("message", receiveMessage, false);
