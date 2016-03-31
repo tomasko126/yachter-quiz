@@ -696,7 +696,6 @@
                 e.preventDefault();
 
                 if (!this.disabled && !$(this).hasClass('disabled')) {
-                    parent.postMessage("scroll", "*");
                     plugin.method.startQuiz.apply (null, [{callback: plugin.config.animationCallbacks.startQuiz}]);
                     $("#timer").fadeIn(300, function() {
                         startTimer(); // Custom based timer
