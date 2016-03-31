@@ -705,6 +705,7 @@
 
             // Bind "try again" button
             $(_element + ' ' + _tryAgainBtn).on('click', function(e) {
+                parent.postMessage("scroll", "*"); // send a "scroll" message to the parent TODO: origin
                 document.location.reload();
                 //e.preventDefault();
                 //plugin.method.resetQuiz(this, {callback: plugin.config.animationCallbacks.resetQuiz});
