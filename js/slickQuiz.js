@@ -212,8 +212,7 @@
 
                 $quizName.hide().html(plugin.config.nameTemplateText
                                       .replace('%name', quizValues.info.name) ).fadeIn(1000, kN(key,1));
-                $quizName2.hide().html(plugin.config.nameTemplateText
-                                      .replace('%name', quizValues.info.name2) ).fadeIn(1000, kN(key,1));
+                $quizName2.hide().html(quizValues.info.name2).fadeIn(1000, kN(key,1));
                 $quizHeader.hide().prepend($('<div class="quizDescription">' + quizValues.info.main + '</div>')).fadeIn(1000, kN(key,2));
                 $quizResultsCopy.append(quizValues.info.results);
 
