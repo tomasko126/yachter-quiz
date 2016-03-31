@@ -1,6 +1,7 @@
 $(document).ready(function() {
     // Load test according to the selected option
     $("#loadtest").click(function() {
+        parent.postMessage("scroll", "*");
         var testToLoad = $("input:checked").val();
         if (!testToLoad) {
             return alert("Prosím, zvoľte si typ testu.");
