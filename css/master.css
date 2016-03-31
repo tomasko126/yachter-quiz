@@ -152,3 +152,12 @@ ul.responses li.correct {
 .showResults, .checkAnswers {
     display: none;
 }
+span.minutes {
+    font-size: 20px;
+}
+.smalltext {
+    font-size: 14px;
+}
+span.seconds {
+    font-size: 18px;
+}
