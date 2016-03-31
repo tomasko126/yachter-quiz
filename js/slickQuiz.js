@@ -639,23 +639,21 @@
                         quizValues.info.level4, // 20-39%
                         quizValues.info.level5  // 0-19%
                     ],
-                    levelRank = plugin.method.calculateLevel(score),
-                    levelText = $.isNumeric(levelRank) ? levels[levelRank] : '';
+                        levelRank = plugin.method.calculateLevel(score),
+                        levelText = $.isNumeric(levelRank) ? levels[levelRank] : '';
 
                     $(_quizLevel + ' span').html(levelText);
                     $(_quizLevel).addClass('level' + levelRank);
                 }
 
-                $quizArea.fadeOut(300, function() {
-                    // If response messaging is set to show upon quiz completion, show it now
-                    if (plugin.config.completionResponseMessaging) {
-                        $(_element + ' .button:not(' + _tryAgainBtn + '), ' + _element + ' ' + _questionCount).hide();
-                        $(_element + ' ' + _question + ', ' + _element + ' ' + _answers + ', ' + _element + ' ' + _responses).show();
-                        $quizResults.append($(_element + ' ' + _questions)).fadeIn(500, kN(key,1));
-                    } else {
-                        $quizResults.fadeIn(500, kN(key,1)); // 1st notch on key must be on both sides of if/else, otherwise key won't turn
-                    }
-                });
+                // If response messaging is set to show upon quiz completion, show it now
+                if (plugin.config.completionResponseMessaging) {
+                    $(_element + ' .button:not(' + _tryAgainBtn + '), ' + _element + ' ' + _questionCount).hide();
+                    $(_element + ' ' + _question + ', ' + _element + ' ' + _answers + ', ' + _element + ' ' + _responses).show();
+                    $quizResults.append($(_element + ' ' + _questions)).fadeIn(500, kN(key,1));
+                } else {
+                    $quizResults.fadeIn(500, kN(key,1)); // 1st notch on key must be on both sides of if/else, otherwise key won't turn
+                }
 
                 internal.method.turnKeyAndGo (key, options && options.callback ? options.callback : function () {});
 
@@ -721,7 +719,7 @@
                 // Show "results" button only when every question has appropriate answer filled out
                 if ($(".questions input:checked").length === 7 || $(".questions input:checked").length === 28) {
                     $(_element + ' ' + _checkAnswersBtn).fadeOut(300, function() {
-                        $(_element + ' ' + _showResultsBtn).fadeIn(300);
+                        plugin.method.completeQuiz({callback: plugin.config.animationCallbacks.nextQuestion});
                     });
                 }
             });
