@@ -5628,7 +5628,7 @@
                     "correct": false
                 },
                 {
-                    "option": "dva dlhé a dva krátke zvuky\r \r 297.    Odstránené\r \r 298.    Odstránené\r \r 299.    Odstránené\r \r ",
+                    "option": "dva dlhé a dva krátke zvuky",
                     "correct": false
                 }
             ],
@@ -5648,63 +5648,6 @@
                 },
                 {
                     "option": "dva dlhé a dva krátke zvuky\r",
-                    "correct": true
-                }
-            ],
-            "correct": "Vaša odpoveď bola správna.",
-            "incorrect": "Vaša odpoveď bola nesprávna."
-        },
-        {
-            "q": "297 ",
-            "a": [
-                {
-                    "option": "dva krátke zvuky\r ",
-                    "correct": false
-                },
-                {
-                    "option": "tri dlhé a dva krátke zvuky\r ",
-                    "correct": false
-                },
-                {
-                    "option": "dva dlhé a dva krátke zvuky\r \r 297.    Odstránené\r \r 298.    Odstránené\r \r 299.    Odstránené\r \r ",
-                    "correct": true
-                }
-            ],
-            "correct": "Vaša odpoveď bola správna.",
-            "incorrect": "Vaša odpoveď bola nesprávna."
-        },
-        {
-            "q": "298 ",
-            "a": [
-                {
-                    "option": "dva krátke zvuky\r ",
-                    "correct": false
-                },
-                {
-                    "option": "tri dlhé a dva krátke zvuky\r ",
-                    "correct": false
-                },
-                {
-                    "option": "dva dlhé a dva krátke zvuky\r \r 297.    Odstránené\r \r 298.    Odstránené\r \r 299.    Odstránené\r \r ",
-                    "correct": true
-                }
-            ],
-            "correct": "Vaša odpoveď bola správna.",
-            "incorrect": "Vaša odpoveď bola nesprávna."
-        },
-        {
-            "q": "299",
-            "a": [
-                {
-                    "option": "päť krátkych zvukov\r ",
-                    "correct": false
-                },
-                {
-                    "option": "dva dlhé zvuky, po ktorých nasleduje jeden krátky zvuk\r ",
-                    "correct": false
-                },
-                {
-                    "option": "dva dlhé zvuky, po ktorých nasledujú dva krátke zvuky\r \r ",
                     "correct": true
                 }
             ],
