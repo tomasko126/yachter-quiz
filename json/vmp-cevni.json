@@ -6528,11 +6528,16 @@
             "q": "Ako treba cez deň označiť nasadnuté alebo potopené plavidlo, na strane alebo na stranách, keď nie je plavebná dráha voľná?\r ",
             "a": [
                 {
-                    "option": "zákaz preplávania\" na zodpovedajúcom mieste na brehu\r \r ",
+                    "option": "červenou vlajkou alebo tabuľou A.1 „zákaz preplávania",
                     "correct": false
                 },
                 {
+                    "option": "na boku plavidla z oboch strán červeným a bielym balónom",
                     "correct": true
+                },
+                {
+                    "option": "v takomto prípade treba umiestniť znak A.1  „zákaz preplávania“ na zodpovedajúcom mieste na brehu",
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
