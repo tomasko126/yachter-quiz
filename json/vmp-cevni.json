@@ -1478,11 +1478,15 @@
             "q": "V zmysle Cevni poznávacími znakmi treba označiť člny patriace k plavidlu:\r ",
             "a": [
                 {
-                    "option": "z vnútornej alebo z vonkajšej strany člna názov plavidla, ku ktorému patria, doplnený o iné údaje potrebné na identifikáciu vlastníka\r b    názvom alebo evidenčnou značkou pridelenou kompetentným orgánom\r ",
+                    "option": "z vnútornej alebo z vonkajšej strany člna názov plavidla, ku ktorému patria, doplnený o iné údaje potrebné na identifikáciu vlastníka",
                     "correct": false
                 },
                 {
-                    "option": "názvom alebo evidenčnou značkou a názvom domovského prístavu\r \r ",
+                    "option": "názvom alebo evidenčnou značkou pridelenou kompetentným orgánom",
+                    "correct": false
+                },
+                {
+                    "option": "názvom alebo evidenčnou značkou a názvom domovského prístavu",
                     "correct": false
                 }
             ],
@@ -3925,11 +3929,15 @@
             "q": "Ako treba umiestniť dennú signalizáciu, ak poloha nasadnutého alebo potopeného plavidla neumožňuje umiestniť optickú signalizáciu na tomto plavidle?\r ",
             "a": [
                 {
-                    "option": "zákaz preplávania\r ",
+                    "option": "v takomto prípade sa nemusia umiestniť znaky, ale je nutné postaviť strážnu službu a informovať približujúce sa plavidlá",
                     "correct": true
                 },
                 {
-                    "option": "musí sa optická signalizácia umiestniť na člnoch, bójach alebo na iných vhodných prostriedkoch\r \r ",
+                    "option": "treba umiestniť na brehu tabuľu A.1 - zákaz preplávania",
+                    "correct": false
+                },
+                {
+                    "option": "musí sa optická signalizácia umiestniť na člnoch, bójach alebo na iných vhodných prostriedkoch",
                     "correct": false
                 }
             ],
@@ -4073,11 +4081,16 @@
             "q": "Aká denná optická signalizácia označuje voľnú stranu pre preplávanie pri plávajúcom stroji vykonávajúcom prácu na vodnej ceste?\r ",
             "a": [
                 {
-                    "option": "ákaz preplávania\"\r \r ",
+                    "option": "dva zelené dvojité kužele, umiestnené vo výške približne 1 m nad sebou;  vlajka, ktorej horná polovica je červená a  dolná polovica biela alebo vlajky umiestnené nad sebou, z ktorých horná je červená a dolná biela alebo tabuľa E.1 „preplávanie je povolené“",
                     "correct": true
                 },
                 {
-                    "correct": false
+                    "option": "červený balón a 1 m pod ním zelený balón",
+                    "correct": true
+                },
+                {
+                    "option": "zelený dvojitý kužeľ, balóny červenej farby, vlajka červenej farby, tabuľa A.1 „zákaz preplávania“",
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
