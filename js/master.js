@@ -73,6 +73,9 @@ function startTimer() {
 
 function receiveMessage(event) {
     var json = event.data;
+    if (typeof json !== "object") {
+        return;
+    }
     // Hide "Load" button, test options
     $(".testinfo, .quizName").fadeOut(300, function() {
         // Init chosen test
