@@ -2106,11 +2106,11 @@
             "a": [
                 {
                     "option": "na oboch bokoch plavidla; s výnimkou tlačných člnov, musí byť okrem toho vyznačený tak, aby bol viditeľný zozadu\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "na ľavom boku a na korme s výškou písmen najmenej 10 cm\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "v prednej časti kormidelne podľa rozhodnutia majiteľa plavidla\r \r ",
