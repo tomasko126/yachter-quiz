@@ -174,11 +174,13 @@
             // Select X number of questions to load if options is set
             if (plugin.config.numberOfQuestions && questionCount >= plugin.config.numberOfQuestions) {
                 if (plugin.config.addedQuestions) {
+                    console.log("Added ques:", plugin.config.addedQuestions);
                     questions = questions.slice(0, 24); // Get 24 questions from part 1, 2 questions from part 2 and 3
                     var questionsToAdd = plugin.config.addedQuestions;
                     questionsToAdd.forEach(function(question) {
                         questions.push(question);
                     });
+                    console.log("final: ", questions);
                 } else {
                     questions = questions.slice(0, plugin.config.numberOfQuestions);
                 }

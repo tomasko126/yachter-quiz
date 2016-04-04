@@ -110,6 +110,7 @@ function receiveMessage(event) {
     // Hide "Load" button, test options
     $(".testinfo, .quizName").fadeOut(300, function() {
         // Init chosen test
+        console.log("questionstoadd: ", questionsToAdd);
         $('#slickQuiz').slickQuiz({ json: json, addedQuestions: questionsToAdd, numberOfQuestions: questionsToLoad });
         questionsToAdd = [];
     });
