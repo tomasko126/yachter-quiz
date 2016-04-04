@@ -8,9 +8,39 @@ $(document).ready(function() {
         }
         timerMinutes = jsonTests[testToLoad].minutes; // set minutes
         questionsToLoad = jsonTests[testToLoad].numberOfQuestions; // how many questions should be loaded
-        parent.postMessage(testToLoad, "*"); // send message to top document to load quiz
+        if (testToLoad === "a") {
+            $.getJSON("http://tomasko126.github.io/yachter-quiz/json/vmp-zakony.json", function(zakonydata) {
+                $.getJSON("http://tomasko126.github.io/yachter-quiz/json/VMP-zemepis.json", function(zemepisdata) {
+                    var randomzakony = getRandomQuestionNumbers(1, 41);
+                    var randomzemepis = getRandomQuestionNumbers(1, 98);
+
+                    randomzakony.forEach(function(questionNumber) {
+                        var question = zakonydata.questions[questionNumber];
+                        questionsToAdd.push(question);
+                    });
+
+                    randomzemepis.forEach(function(questionNumber) {
+                        var question = zakonydata.questions[questionNumber];
+                        questionsToAdd.push(question);
+                    });
+
+                    //questionCount = questions.length;
+                    parent.postMessage(testToLoad, "*"); // send message to top document to load quiz
+                });
+            });
+        }
     });
 });
+
+// Get random number
+function getRandomQuestionNumbers(min, max) {
+    var array = [];
+    var first = Math.floor(Math.random() * (max - min + 1)) + min;
+    var second = Math.floor(Math.random() * (max - min + 1)) + min;
+    array.push(first);
+    array.push(second);
+    return array;
+}
 
 // Data about every test
 var jsonTests = {
@@ -31,6 +61,7 @@ var jsonTests = {
 // Init vars
 var timerMinutes = null;
 var questionsToLoad = null;
+var questionsToAdd = [];
 
 // Timer for tracking time
 function startTimer() {
@@ -79,7 +110,8 @@ function receiveMessage(event) {
     // Hide "Load" button, test options
     $(".testinfo, .quizName").fadeOut(300, function() {
         // Init chosen test
-        $('#slickQuiz').slickQuiz({ json: json, numberOfQuestions: questionsToLoad });
+        $('#slickQuiz').slickQuiz({ json: json, addedQuestions: questionsToAdd, numberOfQuestions: questionsToLoad });
+        questionsToAdd = [];
     });
 }
 

@@ -173,28 +173,17 @@
 
             // Select X number of questions to load if options is set
             if (plugin.config.numberOfQuestions && questionCount >= plugin.config.numberOfQuestions) {
-                questions = questions.slice(0, 24); // Get 24 questions from part 1, 2 questions from part 2 and 3
+                if (plugin.config.addedQuestions) {
+                    questions = questions.slice(0, 24); // Get 24 questions from part 1, 2 questions from part 2 and 3
+                    var questionsToAdd = plugin.config.addedQuestions;
+                    questionsToAdd.forEach(function(question) {
+                        questions.push(question);
+                    });
+                } else {
+                    questions = questions.slice(0, plugin.config.numberOfQuestions);
+                }
                 questionCount = questions.length;
             }
-
-            $.getJSON("http://tomasko126.github.io/yachter-quiz/json/vmp-zakony.json", function(zakonydata) {
-                $.getJSON("http://tomasko126.github.io/yachter-quiz/json/VMP-zemepis.json", function(zemepisdata) {
-                    var randomzakony = plugin.method.getRandomQuestionNumbers(1, 41);
-                    var randomzemepis = plugin.method.getRandomQuestionNumbers(1, 98);
-
-                    randomzakony.forEach(function(questionNumber) {
-                        var question = zakonydata.questions[questionNumber];
-                        questions.push(question);
-                    });
-
-                    randomzemepis.forEach(function(questionNumber) {
-                        var question = zakonydata.questions[questionNumber];
-                        questions.push(question);
-                    });
-
-                    questionCount = questions.length;
-                });
-            });
         } else {
             // Select X number of questions to load if options is set
             if (plugin.config.numberOfQuestions && questionCount >= plugin.config.numberOfQuestions) {
@@ -545,16 +534,6 @@
                 }
 
                 internal.method.turnKeyAndGo (key, options && options.callback ? options.callback : function () {});
-            },
-
-            // Get random number
-            getRandomQuestionNumbers: function(min, max) {
-                var array = [];
-                var first = Math.floor(Math.random() * (max - min + 1)) + min;
-                var second = Math.floor(Math.random() * (max - min + 1)) + min;
-                array.push(first);
-                array.push(second);
-                return array;
             },
 
             // Moves to the next question OR completes the quiz if on last question
