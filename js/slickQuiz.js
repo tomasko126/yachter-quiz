@@ -493,11 +493,6 @@
                     selectedAnswers.push(parseInt(id.replace(/(.*\_question\d{1,}_)/, ''), 10));
                 });
 
-                if (plugin.config.preventUnanswered && selectedAnswers.length === 0) {
-                    alert(plugin.config.preventUnansweredText + " - otázka číslo " + (questionIndex + 1));
-                    return;
-                }
-
                 // Verify all/any true answers (and no false ones) were submitted
                 var correctResponse = plugin.method.compareAnswers(trueAnswers, selectedAnswers, selectAny);
 
@@ -734,15 +729,17 @@
             // Bind "check answers" buttons
             $(_element + ' ' + _checkAnswersBtn).on('click', function(e) {
                 e.preventDefault();
+                if ($(".questions input:checked").length !== plugin.config.numberOfQuestions) {
+                    if (plugin.config.preventUnanswered) {
+                        return alert("Niektoré otázky ste nevyplnili. Prosím, vyplňte ich.")
+                    }
+                }
                 $(_element + ' ' + _checkAnswerBtn).each(function(e) {
                     plugin.method.checkAnswer(this, {callback: plugin.config.animationCallbacks.checkAnswer});
                 });
-                // Show "results" button only when every question has appropriate answer filled out
-                if ($(".questions input:checked").length === 7 || $(".questions input:checked").length === 28) {
-                    $(_element + ' ' + _checkAnswersBtn).fadeOut(300, function() {
-                        plugin.method.completeQuiz({callback: plugin.config.animationCallbacks.nextQuestion});
-                    });
-                }
+                $(_element + ' ' + _checkAnswersBtn).fadeOut(300, function() {
+                    plugin.method.completeQuiz({callback: plugin.config.animationCallbacks.nextQuestion});
+                });
             });
 
             // Bind "back" buttons
