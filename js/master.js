@@ -29,6 +29,8 @@ $(document).ready(function() {
                     parent.postMessage(testToLoad, "*"); // send message to top document to load quiz
                 });
             });
+        } else {
+            parent.postMessage(testToLoad, "*"); // send message to top document to load quiz
         }
     });
 });
