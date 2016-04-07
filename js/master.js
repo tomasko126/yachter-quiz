@@ -11,21 +11,25 @@ $(document).ready(function() {
         if (testToLoad === "a") {
             $.getJSON("http://tomasko126.github.io/yachter-quiz/json/vmp-zakony.json", function(zakonydata) {
                 $.getJSON("http://tomasko126.github.io/yachter-quiz/json/VMP-zemepis.json", function(zemepisdata) {
-                    var randomzakony = getRandomQuestionNumbers(1, 41);
-                    var randomzemepis = getRandomQuestionNumbers(1, 98);
+                    if (this.readyState === 4) {
+                        var randomzakony = getRandomQuestionNumbers(1, 41);
+                        var randomzemepis = getRandomQuestionNumbers(1, 98);
+                        console.log("RANDOM: ", randomzakony, randomzemepis);
+                        randomzakony.forEach(function(questionNumber) {
+                            var question = zakonydata.questions[questionNumber];
+                            console.log(question);
+                            questionsToAdd.push(question);
+                        });
 
-                    randomzakony.forEach(function(questionNumber) {
-                        var question = zakonydata.questions[questionNumber];
-                        questionsToAdd.push(question);
-                    });
-
-                    randomzemepis.forEach(function(questionNumber) {
-                        var question = zakonydata.questions[questionNumber];
-                        questionsToAdd.push(question);
-                    });
-
-                    //questionCount = questions.length;
-                    parent.postMessage(testToLoad, "*"); // send message to top document to load quiz
+                        randomzemepis.forEach(function(questionNumber) {
+                            var question = zakonydata.questions[questionNumber];
+                            console.log(question);
+                            questionsToAdd.push(question);
+                        });
+                        console.log(questionsToAdd);
+                        //questionCount = questions.length;
+                        parent.postMessage(testToLoad, "*"); // send message to top document to load quiz
+                    }
                 });
             });
         }
