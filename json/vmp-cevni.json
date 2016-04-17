@@ -495,11 +495,11 @@
                 },
                 {
                     "option": "znamená rýchlosť, pri ktorej plavidlo alebo zostava môže vykonať potrebné a efektívne opatrenia na zamedzenie nebezpečenstva zrážky zastavením svojho pohybu na vzdialenosť potrebnú pri daných okolnostiach a podmienkach\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "znamená najnižšiu dovolenú rýchlosť pre daný typ plavidla\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
