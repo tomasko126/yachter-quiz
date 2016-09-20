@@ -2,6 +2,7 @@ $(document).ready(function() {
     // Load test according to the selected option
     $("#loadtest").click(function() {
         var testToLoad = $("input:checked").val();
+       if (!testToLoad) { // ak nie je zvoleny test
             return alert("Prosím, zvoľte si typ testu.");
         }
         timerMinutes = jsonTests[testToLoad].minutes; // set minutes
