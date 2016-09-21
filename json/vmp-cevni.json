@@ -12,14 +12,33 @@
     },
     "questions": [
         {
-            "q": "Pojem \"plavidlo\" znamená podľa Cevni: \r ",
+            "q": " Ak plavebný inšpektor pri výkone štátneho odborného dozoru nad plavbou zistí závady alebo nedostatky na plavidle, ktoré by mohli ohroziť bezpečnosť prevádzky plavidla môže vodcovi malého plavidla: ",
             "a": [
                 {
-                    "option": "vnútrozemské plavidlo okrem malých plavidiel a prievozných lodí \r ",
+                    "option": " zadržať preukaz odbornej spôsobilosti vodcu malého plavidla ",
                     "correct": false
                 },
                 {
-                    "option": "akúkoľvek loď vnútrozemskej plavby vrátane malých plavidiel, prievozných lodi, plávajúcich strojov a taktiež námorných lodi \r ",
+                    "option": " zadržať lodné osvedčenie alebo osvedčenie o schválení plavidla ",
+                    "correct": true
+                },
+                {
+                    "option": " zadržať klasifikačný preukaz",
+                    "correct": false
+                }
+            ],
+            "correct": "Vaša odpoveď bola správna.",
+            "incorrect": "Vaša odpoveď bola nesprávna."
+        },
+        {
+            "q": "Pojem \"plavidlo\" znamená podľa Cevni:\r ",
+            "a": [
+                {
+                    "option": "vnútrozemské plavidlo okrem malých plavidiel a prievozných lodí\r ",
+                    "correct": false
+                },
+                {
+                    "option": "akúkoľvek loď vnútrozemskej plavby vrátane malých plavidiel, prievozných lodi, plávajúcich strojov a taktiež námorných lodi\r ",
                     "correct": true
                 },
                 {
@@ -39,11 +58,11 @@
                 },
                 {
                     "option": "akékoľvek plavidlo používajúce vlastný strojový pohon, okrem plavidiel, ktorých strojový pohon sa používa len na prekonanie malých vzdialenosti (v prístavoch alebo na polohách počas vykládky alebo nakládky) alebo na zlepšenie ich manévrovateľnosti pri vlečení alebo tlačení\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "plávajúce zariadenie\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -54,7 +73,7 @@
             "a": [
                 {
                     "option": "plavidlo plávajúce pomocou plachiet, ktoré používa súčasne pomocný stroj o max. výkone do 20 kW\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "plavidlo s vlastným strojným pohonom, ktorého  hlavným pohonom je spinaker\r ",
@@ -62,7 +81,7 @@
                 },
                 {
                     "option": "akékoľvek plavidlo plávajúce iba pomocou plachiet; plavidlo plávajúce pomocou plachiet a zároveň používajúce svoj vlastný strojový pohon sa považuje za plavidlo s vlastným pohonom\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -92,11 +111,11 @@
             "a": [
                 {
                     "option": "plavidlo vybavene mechanickým zariadením, ktoré sa používa na prácu na vodnej ceste alebo v prístavoch (plávajúce bagre, plávajúce dopravníky, plávajúce žeriavy a pod.)\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "plavidlo s vlastným pohonom, ktoré vykonáva prepravu cez vodnú cestu\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "plávajúce zariadenie, ktoré je určené na opakované premiestňovanie osôb a tovarov\r \r ",
@@ -111,11 +130,11 @@
             "a": [
                 {
                     "option": "zariadenie slúžiace na prepravu osôb alebo tovarov cez vodnú cestu\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "akýkoľvek plávajúci objekt, ktorý obvykle nie je určený na opakovane premiestňovanie, napríklad plávajúce plavárne, doky, pristávacie pontóny, hausbóty alebo plávajúce garáže pre člny a podobne objekty\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "plavidlo vybavené strojným zariadením, na vykonávanie prác na vodnej ceste\r \r ",
@@ -130,7 +149,7 @@
             "a": [
                 {
                     "option": "plť, konštrukciu, predmet, alebo pevne zoskupenie predmetov schopných plavby, ktoré nie sú\r       plavidlami alebo plávajúcimi zariadeniami\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "plávajúce zariadenie, neslúžiace na opakované premiestňovanie osôb alebo tovarov\r ",
@@ -138,7 +157,7 @@
                 },
                 {
                     "option": "plavidlo bez vlastného pohonu\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -153,11 +172,11 @@
                 },
                 {
                     "option": "plávajúci objekt skonštruovaný na prevoz cestných vozidiel medzi dvoma štátmi\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "plavidlo, ktoré vykonáva prepravu cez vodnú cestu, a ktoré je kompetentným organom klasifikovane ako prievozná loď. Plavidla, ktoré vykonávajú takúto prepravu a neplávajú voľne, sa v každom prípade klasifikujú ako prievozne lode\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -168,11 +187,11 @@
             "a": [
                 {
                     "option": "bezposádkové plavidlo dlhšie ako  20 m bez kormidelného zariadenia\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "plavidlo skonštruované alebo špeciálne vybavené pre tlačnú plavbu\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "plavidlo s vlastným pohonom prepravované v tlačnej zostave\r \r ",
@@ -187,11 +206,11 @@
             "a": [
                 {
                     "option": "vlečná, tlačná alebo bočne zviazaná zostava plavidiel\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "vlečná a bočne zviazaná zostava iba malých plavidiel\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "plavidlo bez vlastného pohonu s dĺžkou nad 20 m\r \r ",
@@ -206,11 +225,11 @@
             "a": [
                 {
                     "option": "zostava pozostávajúca z plavidiel s vlastnými strojnými pohonmi a vybavenými dvoma vlečnými lanami\r ",
-                    "correct": fals
+                    "correct": true
                 },
                 {
                     "option": "spojenie jedného alebo viacerých plavidiel, plávajúcich zariadení alebo plávajúcich telies, vlečených jedným alebo viacerými plavidlami s vlastným pohonom, ktoré sú súčasťou zostavy a nazývajú sa vlečnými remorkérmi\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "zostava za sebou naviazaných plavidiel bez vlastného pohonu, ktorých pohyb obstaráva tlačný remorkér\r \r ",
@@ -263,11 +282,11 @@
             "a": [
                 {
                     "option": "je priamo alebo nepriamo zakotvené, alebo priamo alebo nepriamo vyviazané k brehu\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "sa nepohybuje vlastným strojným pohonom, ale iba riečnym prúdom\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "ak jeho stroje pracujú tak, aby prekonávali riečny prúd a pritom sa plavidlo nepohybovalo vzhľadom k brehu\r \r ",
@@ -301,11 +320,11 @@
             "a": [
                 {
                     "option": "že lodné skrutky plavidla s vlastným pohonom prestanú pracovať pre chod vpred\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "zostať stáť vo vzťahu k brehu\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "že lodné skrutky plavidla s vlastným pohonom prestanú pracovať\r \r ",
@@ -320,11 +339,11 @@
             "a": [
                 {
                     "option": "plavidlo loviace ryby pomocou sieti, vlascov so stupňovito umiestnenými háčikmi, vlečných sieti alebo inými rybolovnými zariadeniami, ktoré obmedzujú jeho manévrovateľnosť, ale nevzťahuje sa na plavidlo loviace pomocou vlečných vlascov s háčikmi alebo inými rybolovnými zariadeniami, ktoré neobmedzujú jeho manévrovateľnosť\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "plavidlo, ktoré loví ryby pomocou harpún bez obmedzenia manévrovateľnosti\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "plavidlo, loviace pomocou vlečných vlascov s háčikmi alebo ďalšieho rybárskeho zariadenia ťahajúceho za sebou, ktoré neobmedzuje jeho manévrovateľnosť\r \r ",
@@ -339,11 +358,11 @@
             "a": [
                 {
                     "option": "rytmické svetlá s počtom 10-30 a 130-140 zábleskov za minútu\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "rytmické svetlá s počtom 40-60 a 100-120 zábleskov za minútu\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "rytmické svetlá s počtom 70-80 a 125-135 zábleskov za minútu\r \r ",
@@ -358,11 +377,11 @@
             "a": [
                 {
                     "option": "zvuk trvajúci približne 1 sekundu\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "zvuk trvajúci 30 sekúnd, ktorý sa dá dobre rozlíšiť od dlhého zvuku\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "zvuk trvajúci asi 15 sekúnd, interval medzi dvoma po sebe nasledujúcimi zvukmi je aspoň 20 sekúnd\r \r ",
@@ -396,11 +415,11 @@
             "a": [
                 {
                     "option": "séria najmenej 4-och zvukov, z ktorých každý trvá asi 6 sekúnd\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "séria najmenej šiestich zvukov, z ktorých každý trvá približne 1/4 sekundy, pričom interval medzi dvoma po sebe nasledujúcimi zvukmi trvá približne 1/4 sekundy\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "dlhotrvajúca séria zvukov, z ktorých každý trvá 1 minútu\r \r ",
@@ -415,11 +434,11 @@
             "a": [
                 {
                     "option": "približne 4 sekundy\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "približne 2 sekundy\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "približne 5 sekúnd\r \r ",
@@ -495,11 +514,11 @@
                 },
                 {
                     "option": "ktorý sa prejavuje v rýchlosti komunikácie a zníženou schopnosťou reagovať\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "ktorý vznikol dôsledkom nedostatočného odpočinku, alebo choroby a prejavuje sa odchýlkami od bežných noriem správania sa a zníženou schopnosťou reagovať\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -510,11 +529,11 @@
             "a": [
                 {
                     "option": "ktorý sa zisťuje analýzou krvi v zdravotníckom zariadení alebo dychovou skúškou\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "v dôsledku požitia alkoholu, narkotik, liekov alebo iných látok a určuje a zisťuje sa podľa národnej legislatívy a praxe\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "spôsobený použitím iba alkoholických nápojov\r \r ",
@@ -529,7 +548,7 @@
             "a": [
                 {
                     "option": "podmienky, pri ktorých je viditeľnosť obmedzená v dôsledku napr. hmly, dymu, sneženia, alebo dažďa\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "podmienky, keď prekážky na brehoch alebo na vode zakrývajú vodnú plochu v smere plavby\r ",
@@ -537,7 +556,7 @@
                 },
                 {
                     "option": "ak sú predmety alebo náklad nevhodne uložené na palube a zakrývajú rozhľad na vodnú cestu\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -548,7 +567,7 @@
             "a": [
                 {
                     "option": "tú časť vodnej cesty, ktorú plavidlá alebo ich zostavy obvykle zaberajú\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "vyznačenú časť vodnej plochy, označenú plávajúcimi a pobrežnými znakmi, ktorá slúži iba pre plavbu malých plavidiel a ich zostáv\r ",
@@ -556,7 +575,7 @@
                 },
                 {
                     "option": "tú časť vodnej cesty, ktorá môže byť za daných podmienok využitá na plavbu\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -586,11 +605,11 @@
             "a": [
                 {
                     "option": "výšku nad rovinou najväčšieho prípustného ponoru\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "výšku od najvyššieho bodu palubnej obšívky\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "výšku od najnižšieho bodu plavidla, t.j. od dna\r \r ",
@@ -605,11 +624,11 @@
             "a": [
                 {
                     "option": "plavidlo určené na rekreáciu bez vlastného strojného pohonu\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "malé plavidlo, ktoré používa svoj vlastný strojový pohon a ktoré je schopné niesť jednu alebo viacej osôb a je postavené alebo určené na plavbu v klze alebo vykonávanie športových figúr, ako napríklad vodné klzáky, vodné skútre, jetski a podobné typy plavidiel\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "je plavidlo využívajúce svoj veslový pohon na kĺzanie po vodnej hladine a je prispôsobené na prepravu jednej alebo viacerých osôb\r \r ",
@@ -624,11 +643,11 @@
             "a": [
                 {
                     "option": "každé plavidlo alebo plávajúce teleso, s výnimkou plavidiel v tlačnej zostave, okrem tlačného remorkéra\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "každé plavidlo, ktoré podlieha registrácii\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "každé plavidlo, ktoré podlieha klasifikácii certifikovanou klasifikačnou organizáciou\r \r ",
@@ -647,11 +666,11 @@
                 },
                 {
                     "option": "vodca plavidla musí byť na plavidle počas plavby; vodca plávajúceho stroja musí byť na jeho palube vždy, keď je plávajúci stroj v prevádzke\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "na plavidlách s vlastným pohonom vždy aj počas státia\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -666,11 +685,11 @@
                 },
                 {
                     "option": "prevádzkovateľ plavidla\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "vodca plavidla na svojom plavidle, zostave alebo plávajúcom telese\r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -685,11 +704,11 @@
                 },
                 {
                     "option": "vodca plavidla nesmie riadiť plavidlo v stave únavy alebo omámenia\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "pri vedení plavidla sa môže nachádzať v stave únavy alebo omámenia, ak má kvalifikovanú posádku\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -719,7 +738,7 @@
             "a": [
                 {
                     "option": "sú povinní plniť všetky príkazy prevádzkovateľa plavidla, ktoré vyplývajú z jeho právomoci\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "sú povinní splniť príkazy vodcu plavidla, ktoré sú v súlade s ich pracovnou náplňou\r ",
@@ -727,7 +746,7 @@
                 },
                 {
                     "option": "sú povinní splniť všetky príkazy vodcu plavidla, ktoré vyplývajú z jeho právomocí. Sú povinní spolupracovať pri dodržiavaní ustanovení pravidiel Cevni a iných súvisiacich predpisov\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -738,7 +757,7 @@
             "a": [
                 {
                     "option": "ohrozenie ľudského života, poškodenie plavidiel alebo plávajúcich telies, brehov, stavieb alebo zariadení akéhokoľvek druhu na vodnej ceste alebo v jej bezprostrednej blízkosti, vytvorenia plavebných prekážok, a spôsobenia značného poškodenia životného prostredia\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "ohrozenie ľudského života, vzniku spoločnej havárie, prípadne možného uviaznutia plavidla alebo plávajúceho telesa na dne vodnej cesty, alebo na plavebnej prekážke\r ",
@@ -746,7 +765,7 @@
                 },
                 {
                     "option": "zneužitia plavidla k iným účelom, než pre ktoré bolo do prevádzky schválené\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -761,11 +780,11 @@
                 },
                 {
                     "option": "zabezpečiť jej odstránenie z plavebnej dráhy\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "neodkladne informovať najbližší kompetentný orgán a čo možno najpresnejšie špecifikovať\r       miesto, kde bola prekážka zistená\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -776,11 +795,11 @@
             "a": [
                 {
                     "option": "bezodkladne zastaviť plavbu a dopraviť ohrozené osoby na breh\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "urobiť všetky opatrenia, ktoré vyžaduje bezpečnosť plavby a všeobecne uznávaná odborná plavebná prax\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "zastaviť chod strojov a odpojiť zdroj elektrického prúdu\r \r ",
@@ -814,7 +833,7 @@
             "a": [
                 {
                     "option": "nesmie riadiť plavidlo v stave únavy alebo omámenia\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "môže riadiť plavidlo aj v stave únavy, pokiaľ nemá za seba náhradu\r ",
@@ -822,7 +841,7 @@
                 },
                 {
                     "option": "môže riadiť v stave únavy alebo omámenia len malé plavidlá\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -833,7 +852,7 @@
             "a": [
                 {
                     "option": "môže byť toľko cestujúcich, aby nebola ohrozená manévrovateľnosť plavidla\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "nesmie byť viac cestujúcich ako je miest na hornej palube\r ",
@@ -841,7 +860,7 @@
                 },
                 {
                     "option": "nesmie byť väčší, ako je počet cestujúcich povolený kompetentnými orgánmi. Na rýchlolodiach sa nesmie nachádzať viacej cestujúcich, ako majú miest na sedenie\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -852,11 +871,11 @@
             "a": [
                 {
                     "option": "najmenej jedna osoba s predpísanou odbornou spôsobilosťou, nie mladšia ako 16 rokov\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "osobou poznajúcou plavebnú dráhu s vekom nad 21 rokov\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "osobou zdravotne spôsobilou, ktorá spĺňa predpísanú prax\r \r ",
@@ -875,11 +894,11 @@
                 },
                 {
                     "option": "možnosť počuť zvukové signály a musí mať dostatočný výhľad na všetky strany. Ak to vyžadujú mimoriadne okolnosti, na informovanie kormidelníka musí byť na plavidle pozorovacie miesto alebo miesto pre príjem zvukových signálov.\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "v záujme bezpečnosti plavby vytvorené čo najlepšie pracovné podmienky\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -894,11 +913,11 @@
                 },
                 {
                     "option": "preukazy spôsobilosti členov lodnej posádky, zoznam posádky, lodný denník a mapy vodných ciest štátov ktorými má preplávať\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "lodné osvedčenie, ktoré sa môže nahradiť osobitným povolením na prevádzku\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -913,11 +932,11 @@
                 },
                 {
                     "option": "ak výkon motora je vyšší ako 4 kW\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "ak výkon motora je menší ako 4 kW\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -928,7 +947,7 @@
             "a": [
                 {
                     "option": "na malom plavidle, ktoré podlieha registrácii\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "na malom plavidle, ktorého dĺžka presahuje 20 m\r ",
@@ -936,7 +955,7 @@
                 },
                 {
                     "option": "na malom plavidle, pokiaľ nepodlieha registrácii\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -966,11 +985,11 @@
             "a": [
                 {
                     "option": "neodkladne informovať najbližší kompetentný orgán\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "nahlásiť iba poškodenie plavebných znakov, ktoré spôsobil on sám\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "nie je povinný nahlásiť zmeny, ktoré zistil\r \r ",
@@ -1046,11 +1065,11 @@
                 },
                 {
                     "option": "použiť všetky prostriedky, ktoré má k dispozícii na ich záchranu\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "pripraviť prostriedky určené na prvú pomoc\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1080,7 +1099,7 @@
             "a": [
                 {
                     "option": "upovedomiť o tom prevádzkovateľa vodnej cesty\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "upovedomiť o havárii všetkých vodcov plavidiel\r ",
@@ -1088,7 +1107,7 @@
                 },
                 {
                     "option": "o tom neodkladne upovedomiť najbližší kompetentný orgán\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1099,11 +1118,11 @@
             "a": [
                 {
                     "option": "zostať na plavidle alebo v blízkosti miesta plavebnej nehody, kým nedostane od kompetentného orgánu pokyn na opustenie tohto miesta\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "zostať na plavidle alebo v blízkosti miesta nehody až do chvíle, kým nedostane od správcu vodnej cesty súhlas, aby opustil svoje miesto\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "zostať na plavidle alebo v blízkosti miesta nehody až do chvíle, kým nedostane od orgánu Požiarneho zboru súhlas, aby opustil svoje miesto\r \r ",
@@ -1118,11 +1137,11 @@
             "a": [
                 {
                     "option": "je povinný pužiť len prostriedky, ktoré sú na záchranu určené\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "je povinný použiť všetky prostriedky, ktoré má k dispozícii na ich záchranu\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "len prostriedky, ktoré majú certifikáciu EÚ\r \r ",
@@ -1137,7 +1156,7 @@
             "a": [
                 {
                     "option": "sa môže ponechať\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "sa nemôže ponechať\r ",
@@ -1145,7 +1164,7 @@
                 },
                 {
                     "option": "sa môže ponechať so súhlasom kompetentného orgánu\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1156,7 +1175,7 @@
             "a": [
                 {
                     "option": "v čo najkratšom čase upovedomiť správcu vodného toku\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "neodkladne nahradiť vzniknutú škodu\r ",
@@ -1164,7 +1183,7 @@
                 },
                 {
                     "option": "neodkladne informovať obsluhu tejto plavebnej komory\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1175,7 +1194,7 @@
             "a": [
                 {
                     "option": "vodca zostavy\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "vodcovia jednotlivých plavidiel v zostave\r ",
@@ -1183,7 +1202,7 @@
                 },
                 {
                     "option": "vodcovia plavidiel s vlastným pohonom\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1198,11 +1217,11 @@
                 },
                 {
                     "option": "vytvoriť kompetentným orgánom také podmienky, ktoré im umožnia presvedčiť sa či sú dodržané ustanovenia Cevni\r ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "vykonať všetky opatrenia, aby plavebná dráha bola čo najskôr uvoľnená\r \r ",
-                    "correct": true
+                    "correct": false
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1217,11 +1236,11 @@
                 },
                 {
                     "option": "neodkladne o tom informovať najbližší kompetentný orgán\r ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "viesť rokovania s prevádzkovateľom stavby ohľadne vzniknutých škôd\r \r ",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "correct": "Vaša odpoveď bola správna.",
@@ -1229,25 +1248,6 @@
         },
         {
             "q": "Vodca plavidla, ktorému hrozí potopenie, alebo stratilo manévrovaciu schopnosť, je povinný:\r ",
-            "a": [
-                {
-                    "option": "upovedomiť o tom správcu vodného toku\r ",
-                    "correct": false
-                },
-                {
-                    "option": "oznámiť to okamžite Policajnému zboru SR\r ",
-                    "correct": false
-                },
-                {
-                    "option": "čo najskôr uvoľniť plavebnú dráhu\r \r ",
-                    "correct": true
-                }
-            ],
-            "correct": "Vaša odpoveď bola správna.",
-            "incorrect": "Vaša odpoveď bola nesprávna."
-        },
-        {
-            "q": "Posádka plavidla, osoby nachádzajúce sa na plavidle alebo v prístavoch, osoba poverená vykonávaním kvalifikačného kurzu a ďalšie osoby sú povinné:\r ",
             "a": [
                 {
                     "option": "vytvoriť vhodné podmienky na výkon štátneho odborného dozoru\r ",
@@ -3796,7 +3796,7 @@
             "q": "Akými znakmi môže byť nahradená optická signalizácia na plávajúcom stroji počas pracovnej činnosti na vodnej ceste cez deň, na strane, na ktorej nie je plavebná dráha voľná?\r ",
             "a": [
                 {
-                    "option":  "tabuľou A1 \"zákaz preplávania\"\r ",
+                    "option": "ákaz preplávania\"\r ",
                     "correct": true
                 },
                 {
@@ -5636,18 +5636,18 @@
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
-            "q": "Aký zvukový signál dáva plavidlo, ktoré chce predbiehať po ľavom boku predbiehaného plavidla?\r ",
+            "q": "Aký zvukový signál dáte pri odplávaní z miesta státia keď máte úmysel plávať doľava?\r ",
             "a": [
                 {
-                    "option": "päť krátkych zvukov\r ",
+                    "option": "dva krátke zvuky\r ",
                     "correct": false
                 },
                 {
-                    "option": "dva dlhé zvuky, po ktorých nasleduje jeden krátky zvuk\r ",
+                    "option": "tri dlhé a dva krátke zvuky\r ",
                     "correct": false
                 },
                 {
-                    "option": "dva dlhé zvuky, po ktorých nasledujú dva krátke zvuky\r",
+                    "option": "dva dlhé a dva krátke zvuky\r",
                     "correct": true
                 }
             ],
@@ -6553,11 +6553,11 @@
                     "correct": false
                 },
                 {
-                    "option": "Pozor! nasleduje plavebná prekážka vo vzdialenosti 45 m od znaku C3\r ",
+                    "option": "Pozor! nasleduje plavebná prekážka vo vzdialenosti 45 m od znaku ",
                     "correct": false
                 },
                 {
-                    "option": "šírka plavebného profilu alebo plavebnej dráhy je obmedzená (číslica označuje šírku plavebného profilu alebo plavebnej dráhy v metroch)\r",
+                    "option": "",
                     "correct": true
                 }
             ],
