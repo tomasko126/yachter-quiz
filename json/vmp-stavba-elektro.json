@@ -11,18 +11,18 @@
     },
     "questions": [
         {
-            "q": " Vodoryska je: ",
+            "q": " Vodoryska je:\r ",
             "a": [
                 {
-                    "option": "priesečnica hlavného rebra s dnom plavidla ",
+                    "option": "priesečnica hlavného rebra s dnom plavidla\r ",
                     "correct": false
                 },
                 {
-                    "option": "priesečnica kýlu a hlavného rebra ",
+                    "option": "priesečnica kýlu a hlavného rebra\r ",
                     "correct": false
                 },
                 {
-                    "option": "priesečnica lodného trupu s hladinou  ",
+                    "option": "priesečnica lodného trupu s hladinou\r  ",
                     "correct": true
                 }
             ],
@@ -30,18 +30,18 @@
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
-            "q": " Výtlak lode - deplacement je: ",
+            "q": " Výtlak lode - deplacement je:\r ",
             "a": [
                 {
-                    "option": "hmotnosť vody vytlačenej plavidlom ",
+                    "option": "hmotnosť vody vytlačenej plavidlom\r ",
                     "correct": true
                 },
                 {
-                    "option": "hmotnosť prázdnej lode ",
+                    "option": "hmotnosť prázdnej lode\r ",
                     "correct": false
                 },
                 {
-                    "option": "hmotnosť plne naloženej lode  ",
+                    "option": "hmotnosť plne naloženej lode \r ",
                     "correct": false
                 }
             ],
@@ -106,7 +106,7 @@
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
-            "q": " Čím je metacentrická výška vä čšia, tým je plavidlo: ",
+            "q": " Čím je metacentrická výška väčšia, tým je plavidlo: ",
             "a": [
                 {
                     "option": "stabilnejšie - celková stabilita plavidla (priečna aj pozdĺžna) ",

@@ -15,7 +15,7 @@
             "q": " Výraz „oťaž“ označuje:\r",
             "a": [
                 {
-                    "option": "lano slúžiace k vyťahovaniu a spúšťaniu plavidiel ",
+                    "option": "lano slúžiace k vyťahovaniu a spúšťaniu plavidiel\r ",
                     "correct": false
                 },
                 {
@@ -72,11 +72,11 @@
             "q": " Koruhvička je:\r",
             "a": [
                 {
-                    "option": "nádobka na čerpanie vody ",
+                    "option": "nádobka na čerpanie vody\r ",
                     "correct": false
                 },
                 {
-                    "option": "ukazovateľ smeru vetra ",
+                    "option": "ukazovateľ smeru vetra\r ",
                     "correct": true
                 },
                 {
@@ -95,7 +95,7 @@
                     "correct": true
                 },
                 {
-                    "option": "priestor vo vnútri vzduchových komôr ",
+                    "option": "priestor vo vnútri vzduchových komôr\r ",
                     "correct": false
                 },
                 {
@@ -110,7 +110,7 @@
             "q": " Saling je:\r",
             "a": [
                 {
-                    "option": "priečna výstuha sťažňa ",
+                    "option": "priečna výstuha sťažňa\r ",
                     "correct": true
                 },
                 {
@@ -133,7 +133,7 @@
                     "correct": false
                 },
                 {
-                    "option": "materiál na výrobu plachiet ",
+                    "option": "materiál na výrobu plachiet\r ",
                     "correct": true
                 },
                 {
@@ -145,7 +145,7 @@
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
-            "q": " Lano schopné plávať na vode je z: ",
+            "q": " Lano schopné plávať na vode je z:\r ",
             "a": [
                 {
                     "option": "polyesteru\r",
@@ -2204,7 +2204,7 @@
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
-            "q": " Tvar profilu plachty a najmä jeho hĺbka (brucho): ",
+            "q": " Tvar profilu plachty a najmä jeho hĺbka (brucho):\r ",
             "a": [
                 {
                     "option": "ovplyvňuje veľkosť aerodynamickej sily\r",
@@ -2215,7 +2215,7 @@
                     "correct": false
                 },
                 {
-                    "option": "neovplyvňuje len tlakovú zložku aerodynamickej sily  ",
+                    "option": "neovplyvňuje len tlakovú zložku aerodynamickej sily\r\r  ",
                     "correct": false
                 }
             ],
@@ -2234,7 +2234,7 @@
                     "correct": true
                 },
                 {
-                    "option": "vytiahneme prídavné oplachtenie - napr. spinaker  ",
+                    "option": "vytiahneme prídavné oplachtenie - napr. spinaker\r\r  ",
                     "correct": false
                 }
             ],
@@ -2249,11 +2249,11 @@
                     "correct": false
                 },
                 {
-                    "option": "má prednosť pred plachetnicami plávajúcimi na iný vietor ",
+                    "option": "má prednosť pred plachetnicami plávajúcimi na iný vietor\r ",
                     "correct": true
                 },
                 {
-                    "option": "je povinná vyhnúť plachetnici, ktorá má vietor zľava  ",
+                    "option": "je povinná vyhnúť plachetnici, ktorá má vietor zľava\r  ",
                     "correct": false
                 }
             ],
@@ -2264,7 +2264,7 @@
             "q": " Plachetnica, ktorá má vietor zľava:\r",
             "a": [
                 {
-                    "option": "ak je v blízkosti iná plachetnica, nesmie meniť smer kurzu ",
+                    "option": "ak je v blízkosti iná plachetnica, nesmie meniť smer kurzu\r ",
                     "correct": false
                 },
                 {
@@ -2272,7 +2272,7 @@
                     "correct": false
                 },
                 {
-                    "option": "je povinná vyhnúť sa plachetnici, ktorá má vietor sprava  ",
+                    "option": "je povinná vyhnúť sa plachetnici, ktorá má vietor sprava\r  ",
                     "correct": true
                 }
             ],
@@ -2291,7 +2291,7 @@
                     "correct": false
                 },
                 {
-                    "option": "ak je v blízkosti motorový čln, toto právo plachetnica stráca  ",
+                    "option": "ak je v blízkosti motorový čln, toto právo plachetnica stráca\r  ",
                     "correct": false
                 }
             ],
@@ -2302,15 +2302,15 @@
             "q": " Ak dve plachetnice majú vietor z rovnakej strany:\r",
             "a": [
                 {
-                    "option": "musí vyhýbať náveterná loď záveternej ",
+                    "option": "musí vyhýbať náveterná loď záveternej\r ",
                     "correct": true
                 },
                 {
-                    "option": "musí vyhýbať záveterná loď náveternej ",
+                    "option": "musí vyhýbať záveterná loď náveternej\r ",
                     "correct": false
                 },
                 {
-                    "option": "musia sa dohodnúť pomocou signálov  ",
+                    "option": "musia sa dohodnúť pomocou signálov\r  ",
                     "correct": false
                 }
             ],
