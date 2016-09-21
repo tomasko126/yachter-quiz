@@ -147,7 +147,7 @@ ul.responses li.correct {
 }
 .quizimg {
     float: right;
-    width: 6em;
+    width: 10em;
 }
 .showResults, .checkAnswers {
     display: none;
