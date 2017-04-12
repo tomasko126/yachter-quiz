@@ -1283,14 +1283,14 @@
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
-            "q": " Ak je na plavidle použitý elektrická rozvod 220 V, musí mať plavidlo: ",
+            "q": " Ak je na plavidle použitý elektrický rozvod 220 V, musí mať plavidlo: ",
             "a": [
                 {
                     "option": "revíznu správu (potvrdenú knihu) elektrického riadeniaza príslušným revíznym technikom revízna správa máčúinnosť jeden rok ",
                     "correct": true
                 },
                 {
-                    "option": "revíznu správu potvrdenú technikom príslušného ovodiap ",
+                    "option": "revíznu správu potvrdenú technikom príslušného povodia ",
                     "correct": false
                 },
                 {
