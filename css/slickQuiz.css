@@ -40,3 +40,7 @@ ul.responses li {
     position: absolute;
     width: 1px;
 }
+
+.questions li.question:hover{
+	 background-color: #e4e4e4;
+}
