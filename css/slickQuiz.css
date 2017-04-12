@@ -41,6 +41,6 @@ ul.responses li {
     width: 1px;
 }
 
-.questions li:hover.question{
+.questions li.question{
 	 background-color: #e4e4e4;
 }
