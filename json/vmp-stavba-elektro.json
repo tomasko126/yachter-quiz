@@ -70,7 +70,7 @@
             "q": " Metacentrum je: ",
             "a": [
                 {
-                    "option": "priesečník zvislice, prechádzajúcej miestom hydrostatickéhvztlaku s ťažnicou ",
+                    "option": "priesečník zvislice, prechádzajúcej miestom hydrostatického vztlaku s ťažnicou ",
                     "correct": true
                 },
                 {
@@ -542,7 +542,7 @@
             "incorrect": "Vaša odpoveď bola nesprávna."
         },
         {
-            "q": " Palivová nádrž pritom, aby bolačo najďalej od motora: ",
+            "q": " Palivová nádrž pritom, aby bola čo najďalej od motora: ",
             "a": [
                 {
                     "option": "nesmie zbytočne vychyľovať plavidlo v priečnom smere ",
